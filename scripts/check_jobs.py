@@ -57,16 +57,112 @@ def matches_keywords(title, keywords):
 # --- Relevance scoring & filtering, tuned for a ~1.5yr Go/backend engineer ---
 
 RELEVANCE_WEIGHTS = {
-    "golang": 5, "go developer": 5, "go engineer": 5,
-    "backend": 5, "back-end": 5, "back end": 5,
-    "distributed systems": 4,
-    "software development engineer": 4, "software developer engineer": 4,
-    "software engineer": 4, "software developer": 4, "sde": 4,
-    "kafka": 3, "redis": 3, "java": 3, "spring boot": 3, "springboot": 3, "spring": 2,
-    "mongodb": 2, "postgresql": 2, "postgres": 2, "aws": 2, "python": 2, "clickhouse": 2,
-    "docker": 1, "kubernetes": 1, "node.js": 1, "nodejs": 1, "react": 1,
-    "senior": -2, "sr.": -2, "lead": -3,
-    "intern": -6, "internship": -6,
+    # ===== Core Target Roles =====
+    "software engineer": 5,
+    "software developer": 5,
+    "software development engineer": 5,
+    "software developer engineer": 5,
+    "sde": 5,
+
+    # ===== Full Stack — High Priority =====
+    "full stack": 5,
+    "full-stack": 5,
+    "full stack developer": 5,
+    "full-stack developer": 5,
+    "full stack engineer": 5,
+    "full-stack engineer": 5,
+
+    # ===== Frontend =====
+    "frontend": 4,
+    "front-end": 4,
+    "front end": 4,
+    "frontend developer": 4,
+    "frontend engineer": 4,
+    "front-end developer": 4,
+    "front-end engineer": 4,
+
+    # ===== Primary Languages =====
+    "javascript": 5,
+    "javascript developer": 4,
+    "typescript": 4,
+    "react": 5,
+    "react.js": 5,
+    "reactjs": 5,
+    "c++": 4,
+    "python": 4,
+
+    # ===== Frontend / Full-Stack Technologies =====
+    "html": 3,
+    "css": 3,
+    "tailwind": 3,
+    "tailwind css": 3,
+    "node.js": 3,
+    "nodejs": 3,
+    "express.js": 3,
+    "mern": 4,
+
+    # ===== Software Engineering =====
+    "data structures": 3,
+    "algorithms": 3,
+    "dsa": 3,
+    "object oriented programming": 3,
+    "oop": 3,
+    "system design": 2,
+    "software development": 3,
+    "software engineering": 3,
+    "debugging": 2,
+    "unit testing": 2,
+    "testing": 2,
+    "git": 2,
+    "github": 2,
+
+    # ===== Databases — Useful for Full Stack =====
+    "sql": 2,
+    "mysql": 2,
+    "postgresql": 2,
+    "postgres": 2,
+    "mongodb": 2,
+    "nosql": 1,
+    "database": 1,
+
+    # ===== Cloud / Development Tools =====
+    "aws": 2,
+    "azure": 2,
+    "cloud": 1,
+    "docker": 1,
+    "kubernetes": 1,
+    "ci/cd": 1,
+
+    # ===== Other Technologies =====
+    "firebase": 1,
+    "flask": 1,
+
+    # ===== Less Relevant Roles =====
+    "data analyst": -3,
+    "business analyst": -3,
+    "data scientist": -2,
+    "machine learning engineer": -2,
+    "qa engineer": -4,
+    "test engineer": -4,
+    "manual tester": -6,
+    "support engineer": -4,
+
+    # ===== Seniority Penalties =====
+    "senior": -4,
+    "sr.": -4,
+    "sr": -4,
+    "staff": -5,
+    "principal": -6,
+    "lead": -5,
+    "manager": -6,
+    "engineering manager": -6,
+    "architect": -5,
+
+    # ===== Internship Penalties =====
+    "intern": -8,
+    "internship": -8,
+    "graduate intern": -8,
+    "student intern": -8,
 }
 
 SENIORITY_EXCLUDE_WORDS = ("staff", "principal", "director", "architect", "manager")
@@ -84,7 +180,7 @@ YEARS_LABEL_RE = re.compile(
 # The plain, most common phrasing: "5 years of experience", "5 years experience"
 YEARS_PLAIN_RE = re.compile(r"(\d{1,2})\s*\+?\s*years?\s+(?:of\s+)?experience\b", re.I)
 
-MAX_YEARS_EXPERIENCE = 3  # hard-exclude anything explicitly requiring more than this
+MAX_YEARS_EXPERIENCE = 2  # hard-exclude anything explicitly requiring more than this
 
 
 def extract_min_years(text):
@@ -126,8 +222,7 @@ def is_excluded_seniority(title):
 # Common older/colloquial city names that predate an official rename, which
 # job postings still routinely use — geonamescache only knows current names.
 _INDIA_CITY_ALIASES = (
-    "bangalore", "gurgaon", "calcutta", "bombay", "madras", "pondicherry",
-    "cochin", "trivandrum", "baroda", "mysore", "poona",
+    "bangalore", "gurgaon", "bombay", "noida", "delhi", "jaipur", "mumbai", "pune", "vadodara", "ahemdabad", "hyderabad"
 )
 
 

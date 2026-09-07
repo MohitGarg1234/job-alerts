@@ -29,20 +29,20 @@
     },
     "d13316e0f729": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-06T03:07:17.537234+00:00",
+      "last_seen_at": "2026-09-07T21:09:41.733280+00:00",
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9edfb9d417c7": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-06T03:07:17.537234+00:00",
+      "last_seen_at": "2026-09-07T21:09:41.733280+00:00",
       "title": "Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9bd84d88e34d": {
@@ -83,10 +83,19 @@
     },
     "b75e6be840f7": {
       "first_seen_at": "2026-09-07T17:19:09.610871+00:00",
-      "last_seen_at": "2026-09-07T17:19:09.610871+00:00",
+      "last_seen_at": "2026-09-07T21:09:41.733280+00:00",
       "title": "Distinguished Architect Software Engineer (Cortex AgentiX)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/distinguished-architect-software-engineer-cortex-agentix/47263/100299831088",
       "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "4c7db5becaf5": {
+      "first_seen_at": "2026-09-07T21:09:41.733280+00:00",
+      "last_seen_at": "2026-09-07T21:09:41.733280+00:00",
+      "title": "Senior Staff Software Engineer (Internet Security)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-internet-security/47263/99899914240",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }

@@ -47,7 +47,7 @@
     },
     "9bd84d88e34d": {
       "first_seen_at": "2026-09-06T10:20:07.169301+00:00",
-      "last_seen_at": "2026-09-07T03:04:56.517920+00:00",
+      "last_seen_at": "2026-09-07T11:40:33.921919+00:00",
       "title": "Linux Internals Software Engineer (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/linux-internals-software-engineer-cortex/47263/100248143808",
       "location": "Tel Aviv-Yafo, Israel",
@@ -56,7 +56,7 @@
     },
     "65800402585d": {
       "first_seen_at": "2026-09-06T10:20:07.169301+00:00",
-      "last_seen_at": "2026-09-07T03:04:56.517920+00:00",
+      "last_seen_at": "2026-09-07T11:40:33.921919+00:00",
       "title": "Principal C++ Software Engineer (Prisma Browser)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-c-software-engineer-prisma-browser/47263/100248143792",
       "location": "Tel Aviv-Yafo, Israel",
@@ -69,7 +69,7 @@
       "title": "Linux Internals Software Engineer (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/linux-internals-software-engineer-cortex/47263/100248143808",
       "location": "Tel Aviv, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "92c435640d7c": {
@@ -78,7 +78,7 @@
       "title": "Principal C++ Software Engineer (Prisma Browser)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-c-software-engineer-prisma-browser/47263/100248143792",
       "location": "Tel Aviv, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

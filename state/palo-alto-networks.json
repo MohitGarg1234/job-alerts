@@ -51,7 +51,7 @@
       "title": "Linux Internals Software Engineer (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/linux-internals-software-engineer-cortex/47263/100248143808",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "65800402585d": {
@@ -60,7 +60,7 @@
       "title": "Principal C++ Software Engineer (Prisma Browser)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-c-software-engineer-prisma-browser/47263/100248143792",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "f88cd218a8ae": {
@@ -79,6 +79,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-c-software-engineer-prisma-browser/47263/100248143792",
       "location": "Tel Aviv, Israel",
       "active": false,
+      "excluded": true
+    },
+    "b75e6be840f7": {
+      "first_seen_at": "2026-09-07T17:19:09.610871+00:00",
+      "last_seen_at": "2026-09-07T17:19:09.610871+00:00",
+      "title": "Distinguished Architect Software Engineer (Cortex AgentiX)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/distinguished-architect-software-engineer-cortex-agentix/47263/100299831088",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
       "excluded": true
     }
   }

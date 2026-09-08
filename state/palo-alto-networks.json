@@ -87,15 +87,24 @@
       "title": "Distinguished Architect Software Engineer (Cortex AgentiX)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/distinguished-architect-software-engineer-cortex-agentix/47263/100299831088",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "4c7db5becaf5": {
       "first_seen_at": "2026-09-07T21:09:41.733280+00:00",
-      "last_seen_at": "2026-09-08T03:14:09.810877+00:00",
+      "last_seen_at": "2026-09-08T10:39:40.523494+00:00",
       "title": "Senior Staff Software Engineer (Internet Security)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-internet-security/47263/99899914240",
       "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "5b5263cb40c6": {
+      "first_seen_at": "2026-09-08T10:39:40.523494+00:00",
+      "last_seen_at": "2026-09-08T10:39:40.523494+00:00",
+      "title": "Senior Staff Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/98567486976",
+      "location": "500081, India",
       "active": true,
       "excluded": true
     }

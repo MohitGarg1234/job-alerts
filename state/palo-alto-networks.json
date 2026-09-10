@@ -29,11 +29,11 @@
     },
     "d13316e0f729": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-09T20:29:00.652568+00:00",
+      "last_seen_at": "2026-09-10T15:53:49.628520+00:00",
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -141,6 +141,33 @@
       "title": "Principal Engineer Software, Frontend (Prisma AIRS)",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/principal-engineer-software-frontend-prisma-airs/47263/100419673120",
       "location": "Bangalore, Karn\u0101taka, India",
+      "active": false,
+      "excluded": true
+    },
+    "7e003701d216": {
+      "first_seen_at": "2026-09-10T15:53:49.628520+00:00",
+      "last_seen_at": "2026-09-10T15:53:49.628520+00:00",
+      "title": "Director Software Engineering- CWP (Cortex Cloud)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/director-software-engineering-cwp-cortex-cloud/47263/100434613472",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "2707efbe7ddf": {
+      "first_seen_at": "2026-09-10T15:53:49.628520+00:00",
+      "last_seen_at": "2026-09-10T15:53:49.628520+00:00",
+      "title": "Sr Software Engineer -Email Security (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-software-engineer-email-security-cortex/47263/96813312368",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "18fa21f5a9cc": {
+      "first_seen_at": "2026-09-10T15:53:49.628520+00:00",
+      "last_seen_at": "2026-09-10T15:53:49.628520+00:00",
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/staff-software-engineer/47263/97425296192",
+      "location": "500081, India",
       "active": true,
       "excluded": true
     }

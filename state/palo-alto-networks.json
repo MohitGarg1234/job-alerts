@@ -132,6 +132,15 @@
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-it-software-engineer/47263/100407276864",
       "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "fdcfe7499d30": {
+      "first_seen_at": "2026-09-10T10:42:03.707408+00:00",
+      "last_seen_at": "2026-09-10T10:42:03.707408+00:00",
+      "title": "Principal Engineer Software, Frontend (Prisma AIRS)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/principal-engineer-software-frontend-prisma-airs/47263/100419673120",
+      "location": "Bangalore, Karn\u0101taka, India",
       "active": true,
       "excluded": true
     }

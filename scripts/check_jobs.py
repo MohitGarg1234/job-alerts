@@ -231,15 +231,15 @@ RELEVANCE_WEIGHTS = {
     "support engineer": -4,
 
     # ===== Seniority Penalties =====
-    "senior": -4,
-    "sr.": -4,
-    "sr": -4,
-    "staff": -5,
+    "senior": -8,
+    "sr.": -8,
+    "sr": -8,
+    "staff": -8,
     "principal": -6,
-    "lead": -5,
-    "manager": -6,
-    "engineering manager": -6,
-    "architect": -5,
+    "lead": -8,
+    "manager": -8,
+    "engineering manager": -8,
+    "architect": -8,
 
     # ===== Internship Penalties =====
     "intern": -8,

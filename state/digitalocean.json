@@ -1,3 +1,85 @@
 {
-  "jobs": {}
+  "jobs": {
+    "2b52d02d93bf": {
+      "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "last_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "title": "Introducing DigitalOcean Managed Agents Runtime Services (Private Preview)",
+      "url": "https://try.digitalocean.com/managed-agents-private-preview/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "109bb6ee92a7": {
+      "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "last_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "title": "DigitalOcean",
+      "url": "https://www.digitalocean.com/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "c28ae2871233": {
+      "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "last_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "title": "Managed Databases",
+      "url": "https://www.digitalocean.com/products/managed-databases",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "a2658884db2a": {
+      "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "last_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "title": "CSS Tricks",
+      "url": "https://css-tricks.com/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "e12cd178211d": {
+      "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "last_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "title": "Visit DigitalOcean's Community Site",
+      "url": "https://www.digitalocean.com/community",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "8b3436ce34d3": {
+      "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "last_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "title": "DigitalOcean Startups",
+      "url": "https://www.digitalocean.com/startups",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "24ca575c656d": {
+      "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "last_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "title": "CSS-Tricks",
+      "url": "https://css-tricks.com/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "10980b011fdb": {
+      "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "last_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "title": "Node.js Hosting",
+      "url": "https://www.digitalocean.com/solutions/nodejs-hosting",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "39db74f544f4": {
+      "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "last_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "title": "GitHub",
+      "url": "https://github.com/digitalocean",
+      "location": "",
+      "active": true,
+      "excluded": false
+    }
+  }
 }

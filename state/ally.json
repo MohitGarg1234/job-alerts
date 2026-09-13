@@ -1,0 +1,40 @@
+{
+  "jobs": {
+    "743999694160958": {
+      "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "last_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "title": "Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/Ally1/743999694160958",
+      "location": "Chennai, TN",
+      "active": true,
+      "excluded": false
+    },
+    "743999694143624": {
+      "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "last_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "title": "Lead Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/Ally1/743999694143624",
+      "location": "Chennai, TN",
+      "active": true,
+      "excluded": true
+    },
+    "743999694143079": {
+      "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "last_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/Ally1/743999694143079",
+      "location": "Chennai, TN",
+      "active": true,
+      "excluded": true
+    },
+    "743999685728949": {
+      "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "last_seen_at": "2026-09-13T13:26:45.188305+00:00",
+      "title": "Senior Full Stack Engineer",
+      "url": "https://jobs.smartrecruiters.com/Ally1/743999685728949",
+      "location": "Bellevue, WA",
+      "active": true,
+      "excluded": true
+    }
+  }
+}

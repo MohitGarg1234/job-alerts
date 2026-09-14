@@ -128,11 +128,11 @@
     },
     "2520cb7ba4c7": {
       "first_seen_at": "2026-09-10T03:16:06.558441+00:00",
-      "last_seen_at": "2026-09-10T03:16:06.558441+00:00",
+      "last_seen_at": "2026-09-14T21:32:36.652988+00:00",
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-it-software-engineer/47263/100407276864",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "fdcfe7499d30": {
@@ -222,6 +222,15 @@
       "title": "Sr Manager, Software Engineering - Logging (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-manager-software-engineering-logging-chronosphere/47263/99799498928",
       "location": "",
+      "active": false,
+      "excluded": true
+    },
+    "50ba8a5804d2": {
+      "first_seen_at": "2026-09-14T21:32:36.652988+00:00",
+      "last_seen_at": "2026-09-14T21:32:36.652988+00:00",
+      "title": "Senior Data Automation/Marketing Ops Lead (Digital Marketing)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-data-automation-marketing-ops-lead-digital-marketing/47263/96174869040",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }

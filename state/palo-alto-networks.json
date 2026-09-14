@@ -33,7 +33,7 @@
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -42,7 +42,7 @@
       "title": "Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9bd84d88e34d": {
@@ -214,6 +214,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-adem-adem-autonomous-digital-experience-management-windows/47263/96853096176",
       "location": "Santa Clara, California, United States of America",
       "active": false,
+      "excluded": true
+    },
+    "8438588603fd": {
+      "first_seen_at": "2026-09-14T17:46:31.257487+00:00",
+      "last_seen_at": "2026-09-14T17:46:31.257487+00:00",
+      "title": "Sr Manager, Software Engineering - Logging (Chronosphere)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-manager-software-engineering-logging-chronosphere/47263/99799498928",
+      "location": "",
+      "active": true,
       "excluded": true
     }
   }

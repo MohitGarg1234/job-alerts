@@ -132,7 +132,7 @@
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-it-software-engineer/47263/100407276864",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "fdcfe7499d30": {
@@ -231,6 +231,15 @@
       "title": "Senior Data Automation/Marketing Ops Lead (Digital Marketing)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-data-automation-marketing-ops-lead-digital-marketing/47263/96174869040",
       "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "ee8991957f0f": {
+      "first_seen_at": "2026-09-15T03:34:47.116365+00:00",
+      "last_seen_at": "2026-09-15T03:34:47.116365+00:00",
+      "title": "Principal Technical Product Engineer - Agentic AI & Automation (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/california/principal-technical-product-engineer-agentic-ai-and-automation-cortex/47263/100643474672",
+      "location": "Remote, California, United States of America",
       "active": true,
       "excluded": true
     }

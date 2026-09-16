@@ -330,7 +330,7 @@
       "title": "Sr. Technical Product Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/london/sr-technical-product-engineer/47263/100703642160",
       "location": "London, London, City of, United Kingdom",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "54e13febbf66": {
@@ -339,7 +339,7 @@
       "title": "Principal Frontend Engineer (Cortex Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-frontend-engineer-cortex-platform/47263/99302817472",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "98417d62c94a": {
@@ -348,7 +348,7 @@
       "title": "Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer/47263/100714842448",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

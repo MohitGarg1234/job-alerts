@@ -128,11 +128,11 @@
     },
     "2520cb7ba4c7": {
       "first_seen_at": "2026-09-10T03:16:06.558441+00:00",
-      "last_seen_at": "2026-09-14T21:32:36.652988+00:00",
+      "last_seen_at": "2026-09-16T03:30:57.748768+00:00",
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-it-software-engineer/47263/100407276864",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "fdcfe7499d30": {
@@ -267,7 +267,7 @@
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/principal-software-engineer/47263/100674863184",
       "location": "San Jose, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "88b4b2d41d40": {
@@ -276,7 +276,7 @@
       "title": "Principal Technical Product Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/seville/principal-technical-product-engineer/47263/100674862480",
       "location": "Seville, Sevilla, Spain",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "293149270dd8": {
@@ -285,7 +285,7 @@
       "title": "Sr. Staff Software Engineer (AI Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-ai-platform/47263/100674860272",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "a21cda393e7a": {
@@ -294,7 +294,7 @@
       "title": "Sr Principal Software Engineer - ADEM (Backend)",
       "url": "https://jobs.paloaltonetworks.com/en/job/vancouver/sr-principal-software-engineer-adem-backend/47263/96174881872",
       "location": "Vancouver, British Columbia, Canada",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "2b9c695f8f26": {
@@ -303,7 +303,7 @@
       "title": "Software Engineer- Networking",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/software-engineer-networking/47263/96522073536",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "c9473e3378b3": {
@@ -312,6 +312,15 @@
       "title": "Sr. Principal Software Engineer (L7 Security)",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-francisco/sr-principal-software-engineer-l7-security/47263/96174874592",
       "location": "San Francisco, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "780b9231ee93": {
+      "first_seen_at": "2026-09-16T03:30:57.748768+00:00",
+      "last_seen_at": "2026-09-16T03:30:57.748768+00:00",
+      "title": "Senior IT Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-it-software-engineer/47263/100407276864",
+      "location": "Santa Clara, California, United States",
       "active": true,
       "excluded": true
     }

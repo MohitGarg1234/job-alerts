@@ -38,11 +38,11 @@
     },
     "9edfb9d417c7": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-14T11:54:43.584972+00:00",
+      "last_seen_at": "2026-09-16T10:54:44.105422+00:00",
       "title": "Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9bd84d88e34d": {
@@ -128,7 +128,7 @@
     },
     "2520cb7ba4c7": {
       "first_seen_at": "2026-09-10T03:16:06.558441+00:00",
-      "last_seen_at": "2026-09-16T03:30:57.748768+00:00",
+      "last_seen_at": "2026-09-16T10:54:44.105422+00:00",
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-it-software-engineer/47263/100407276864",
       "location": "Santa Clara, California, United States of America",
@@ -321,6 +321,24 @@
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-it-software-engineer/47263/100407276864",
       "location": "Santa Clara, California, United States",
+      "active": false,
+      "excluded": true
+    },
+    "188efdeb046a": {
+      "first_seen_at": "2026-09-16T10:54:44.105422+00:00",
+      "last_seen_at": "2026-09-16T10:54:44.105422+00:00",
+      "title": "Sr. Technical Product Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/london/sr-technical-product-engineer/47263/100703642160",
+      "location": "London, London, City of, United Kingdom",
+      "active": true,
+      "excluded": true
+    },
+    "54e13febbf66": {
+      "first_seen_at": "2026-09-16T10:54:44.105422+00:00",
+      "last_seen_at": "2026-09-16T10:54:44.105422+00:00",
+      "title": "Principal Frontend Engineer (Cortex Platform)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-frontend-engineer-cortex-platform/47263/99302817472",
+      "location": "Tel Aviv-Yafo, Israel",
       "active": true,
       "excluded": true
     }

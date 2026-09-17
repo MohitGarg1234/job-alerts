@@ -114,7 +114,7 @@
       "title": "Principal/Senior Principal Software Engineer Data Platform ( Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-data-platform-cortex/47263/98993650368",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "503a72c1c62f": {
@@ -218,11 +218,11 @@
     },
     "8438588603fd": {
       "first_seen_at": "2026-09-14T17:46:31.257487+00:00",
-      "last_seen_at": "2026-09-14T17:46:31.257487+00:00",
+      "last_seen_at": "2026-09-17T20:58:45.152875+00:00",
       "title": "Sr Manager, Software Engineering - Logging (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-manager-software-engineering-logging-chronosphere/47263/99799498928",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "50ba8a5804d2": {
@@ -263,11 +263,11 @@
     },
     "16e2834a9c10": {
       "first_seen_at": "2026-09-15T20:54:18.681766+00:00",
-      "last_seen_at": "2026-09-15T20:54:18.681766+00:00",
+      "last_seen_at": "2026-09-17T20:58:45.152875+00:00",
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/principal-software-engineer/47263/100674863184",
       "location": "San Jose, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "88b4b2d41d40": {
@@ -384,7 +384,7 @@
       "title": "Sr. Principal Software Engineer - Backend, Identity & Access Management (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/california/sr-principal-software-engineer-backend-identity-and-access-management-chronosphere/47263/100168706576",
       "location": "Remote, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "d6023c95b15f": {
@@ -393,7 +393,7 @@
       "title": "Sr Staff Software Engineer (Wildfire) - NetSec - Bangalore",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/sr-staff-software-engineer-wildfire-netsec-bangalore/47263/99101926848",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

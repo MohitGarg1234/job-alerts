@@ -56,11 +56,11 @@
     },
     "e66b2ada0506": {
       "first_seen_at": "2026-09-10T03:16:06.558441+00:00",
-      "last_seen_at": "2026-09-10T10:42:03.707408+00:00",
+      "last_seen_at": "2026-09-17T03:36:43.800126+00:00",
       "title": "Software Engineer II - Engineer",
-      "url": "https://jobs.uber.com/en/jobs/302381/",
+      "url": "https://jobs.uber.com/en/jobs/302438/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "07966762a73d": {
@@ -132,8 +132,44 @@
       "title": "Sr Software Engineer - Android",
       "url": "https://jobs.uber.com/en/jobs/302448/",
       "location": "",
+      "active": false,
+      "excluded": true
+    },
+    "9b83d6822345": {
+      "first_seen_at": "2026-09-17T03:36:43.800126+00:00",
+      "last_seen_at": "2026-09-17T03:36:43.800126+00:00",
+      "title": "Software Engineer II - Web Engineer",
+      "url": "https://jobs.uber.com/en/jobs/302452/",
+      "location": "",
       "active": true,
       "excluded": true
+    },
+    "bb30e240656e": {
+      "first_seen_at": "2026-09-17T03:36:43.800126+00:00",
+      "last_seen_at": "2026-09-17T03:36:43.800126+00:00",
+      "title": "Software Engineer II - Machine Learning Engineer",
+      "url": "https://jobs.uber.com/en/jobs/302439/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "59e33285457a": {
+      "first_seen_at": "2026-09-17T03:36:43.800126+00:00",
+      "last_seen_at": "2026-09-17T03:36:43.800126+00:00",
+      "title": "Sr Software Engineer - Backend- Memberships",
+      "url": "https://jobs.uber.com/en/jobs/302447/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "da81ea674611": {
+      "first_seen_at": "2026-09-17T03:36:43.800126+00:00",
+      "last_seen_at": "2026-09-17T03:36:43.800126+00:00",
+      "title": "Sr Software Engineer - Eater Real Time Pricing",
+      "url": "https://jobs.uber.com/en/jobs/302443/",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }

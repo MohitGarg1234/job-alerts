@@ -44,6 +44,15 @@
       "location": "Lousado, Braga",
       "active": false,
       "excluded": true
+    },
+    "744000150037565": {
+      "first_seen_at": "2026-09-17T11:03:05.651671+00:00",
+      "last_seen_at": "2026-09-17T11:03:05.651671+00:00",
+      "title": "Full Stack Developer",
+      "url": "https://jobs.smartrecruiters.com/Continental/744000150037565",
+      "location": "Lousado, Braga",
+      "active": true,
+      "excluded": true
     }
   }
 }

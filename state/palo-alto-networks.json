@@ -348,7 +348,7 @@
       "title": "Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer/47263/100714842448",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "0af59f4eb847": {
@@ -357,7 +357,7 @@
       "title": "Senior Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-software-engineer/47263/100739310032",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "77ecc2f70619": {
@@ -366,6 +366,15 @@
       "title": "Staff IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-it-software-engineer/47263/100093058960",
       "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "f5300d995666": {
+      "first_seen_at": "2026-09-17T11:03:05.651671+00:00",
+      "last_seen_at": "2026-09-17T11:03:05.651671+00:00",
+      "title": "Principal Software Engineer (Directory Services)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/principal-software-engineer-directory-services/47263/98783444176",
+      "location": "Petach Tikva, Israel",
       "active": true,
       "excluded": true
     }

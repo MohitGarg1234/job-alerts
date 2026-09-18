@@ -222,7 +222,7 @@
       "title": "Sr Manager, Software Engineering - Logging (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-manager-software-engineering-logging-chronosphere/47263/99799498928",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "50ba8a5804d2": {
@@ -267,7 +267,7 @@
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/principal-software-engineer/47263/100674863184",
       "location": "San Jose, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "88b4b2d41d40": {
@@ -394,6 +394,24 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/sr-staff-software-engineer-wildfire-netsec-bangalore/47263/99101926848",
       "location": "Bangalore, Karn\u0101taka, India",
       "active": false,
+      "excluded": true
+    },
+    "d862446d2492": {
+      "first_seen_at": "2026-09-18T03:22:12.209881+00:00",
+      "last_seen_at": "2026-09-18T03:22:12.209881+00:00",
+      "title": "Sr. Principal Software Engineer - Network Security - PanOS",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "3cb5983be711": {
+      "first_seen_at": "2026-09-18T03:22:12.209881+00:00",
+      "last_seen_at": "2026-09-18T03:22:12.209881+00:00",
+      "title": "Senior Angular Frontend Engineer - Email Security (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-angular-frontend-engineer-email-security-cortex/47263/99507999984",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
       "excluded": true
     }
   }

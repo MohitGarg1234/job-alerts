@@ -101,7 +101,7 @@
     },
     "5b5263cb40c6": {
       "first_seen_at": "2026-09-08T10:39:40.523494+00:00",
-      "last_seen_at": "2026-09-18T10:38:34.837706+00:00",
+      "last_seen_at": "2026-09-18T15:54:07.102357+00:00",
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100111137568",
       "location": "500081, India",
@@ -412,6 +412,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-angular-frontend-engineer-email-security-cortex/47263/99507999984",
       "location": "Tel Aviv-Yafo, Israel",
       "active": false,
+      "excluded": true
+    },
+    "26f1a6041006": {
+      "first_seen_at": "2026-09-18T15:54:07.102357+00:00",
+      "last_seen_at": "2026-09-18T15:54:07.102357+00:00",
+      "title": "Senior Principal Software Engineer, Tools & Platforms (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-tools-and-platforms-cortex/47263/99220479920",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }

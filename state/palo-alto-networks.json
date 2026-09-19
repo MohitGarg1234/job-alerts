@@ -33,7 +33,7 @@
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -42,7 +42,7 @@
       "title": "Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9bd84d88e34d": {
@@ -263,7 +263,7 @@
     },
     "16e2834a9c10": {
       "first_seen_at": "2026-09-15T20:54:18.681766+00:00",
-      "last_seen_at": "2026-09-18T20:27:35.918787+00:00",
+      "last_seen_at": "2026-09-19T03:18:30.849811+00:00",
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/principal-software-engineer/47263/100674863184",
       "location": "San Jose, California, United States of America",
@@ -421,6 +421,24 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-tools-and-platforms-cortex/47263/99220479920",
       "location": "Santa Clara, California, United States of America",
       "active": false,
+      "excluded": true
+    },
+    "3740b8229f14": {
+      "first_seen_at": "2026-09-19T03:18:30.849811+00:00",
+      "last_seen_at": "2026-09-19T03:18:30.849811+00:00",
+      "title": "Senior Staff Software Engineer \u2014 Layer 7 Security",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-layer-7-security/47263/100825782240",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "c8af0128f18c": {
+      "first_seen_at": "2026-09-19T03:18:30.849811+00:00",
+      "last_seen_at": "2026-09-19T03:18:30.849811+00:00",
+      "title": "Senior Staff Software Engineer \u2014 Layer 7 Security",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-layer-7-security/47263/100825782240",
+      "location": "",
+      "active": true,
       "excluded": true
     }
   }

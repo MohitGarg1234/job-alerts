@@ -267,7 +267,7 @@
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/principal-software-engineer/47263/100674863184",
       "location": "San Jose, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "88b4b2d41d40": {
@@ -429,7 +429,7 @@
       "title": "Senior Staff Software Engineer \u2014 Layer 7 Security",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-layer-7-security/47263/100825782240",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "c8af0128f18c": {
@@ -438,7 +438,7 @@
       "title": "Senior Staff Software Engineer \u2014 Layer 7 Security",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-layer-7-security/47263/100825782240",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

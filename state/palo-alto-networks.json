@@ -101,11 +101,11 @@
     },
     "5b5263cb40c6": {
       "first_seen_at": "2026-09-08T10:39:40.523494+00:00",
-      "last_seen_at": "2026-09-18T15:54:07.102357+00:00",
+      "last_seen_at": "2026-09-20T20:22:52.888509+00:00",
       "title": "Senior Staff Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100111137568",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100905884384",
       "location": "500081, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -447,12 +447,12 @@
       "title": "Principal Software Engineer \u2013 Identity SSO (Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/principal-software-engineer-identity-sso-idira/47263/98656006064",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "4bc3757864f2": {
       "first_seen_at": "2026-09-20T15:30:52.870117+00:00",
-      "last_seen_at": "2026-09-20T15:30:52.870117+00:00",
+      "last_seen_at": "2026-09-20T20:22:52.888509+00:00",
       "title": "Senior Software Engineer (Secure Agentic AI)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-software-engineer-secure-agentic-ai/47263/100897729600",
       "location": "Petach Tikva, Israel",
@@ -465,6 +465,15 @@
       "title": "Senior Software Engineer (Secure Agentic AI)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-software-engineer-secure-agentic-ai/47263/100897729600",
       "location": "Petah Tikva, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "77661c60d370": {
+      "first_seen_at": "2026-09-20T20:22:52.888509+00:00",
+      "last_seen_at": "2026-09-20T20:22:52.888509+00:00",
+      "title": "Senior Staff Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100905884384",
+      "location": "Hyderabad, India, Madhapur, India",
       "active": true,
       "excluded": true
     }

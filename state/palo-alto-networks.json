@@ -443,10 +443,28 @@
     },
     "9a987b8a0aac": {
       "first_seen_at": "2026-09-19T15:25:50.080462+00:00",
-      "last_seen_at": "2026-09-20T10:42:16.943478+00:00",
+      "last_seen_at": "2026-09-20T15:30:52.870117+00:00",
       "title": "Principal Software Engineer \u2013 Identity SSO (Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/principal-software-engineer-identity-sso-idira/47263/98656006064",
       "location": "Petach Tikva, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "4bc3757864f2": {
+      "first_seen_at": "2026-09-20T15:30:52.870117+00:00",
+      "last_seen_at": "2026-09-20T15:30:52.870117+00:00",
+      "title": "Senior Software Engineer (Secure Agentic AI)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-software-engineer-secure-agentic-ai/47263/100897729600",
+      "location": "Petach Tikva, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "afb8a9947cc7": {
+      "first_seen_at": "2026-09-20T15:30:52.870117+00:00",
+      "last_seen_at": "2026-09-20T15:30:52.870117+00:00",
+      "title": "Senior Software Engineer (Secure Agentic AI)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-software-engineer-secure-agentic-ai/47263/100897729600",
+      "location": "Petah Tikva, Israel",
       "active": true,
       "excluded": true
     }

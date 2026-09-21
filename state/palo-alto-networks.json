@@ -101,7 +101,7 @@
     },
     "5b5263cb40c6": {
       "first_seen_at": "2026-09-08T10:39:40.523494+00:00",
-      "last_seen_at": "2026-09-20T20:22:52.888509+00:00",
+      "last_seen_at": "2026-09-21T03:30:43.511600+00:00",
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100905884384",
       "location": "500081, India",
@@ -452,7 +452,7 @@
     },
     "4bc3757864f2": {
       "first_seen_at": "2026-09-20T15:30:52.870117+00:00",
-      "last_seen_at": "2026-09-20T20:22:52.888509+00:00",
+      "last_seen_at": "2026-09-21T03:30:43.511600+00:00",
       "title": "Senior Software Engineer (Secure Agentic AI)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-software-engineer-secure-agentic-ai/47263/100897729600",
       "location": "Petach Tikva, Israel",
@@ -474,7 +474,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100905884384",
       "location": "Hyderabad, India, Madhapur, India",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

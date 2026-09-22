@@ -105,7 +105,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/98567486912",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -159,7 +159,7 @@
       "title": "Sr Software Engineer -Email Security (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-software-engineer-email-security-cortex/47263/96813312368",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "18fa21f5a9cc": {
@@ -276,7 +276,7 @@
       "title": "Principal Technical Product Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/seville/principal-technical-product-engineer/47263/100674862480",
       "location": "Seville, Sevilla, Spain",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "293149270dd8": {
@@ -492,6 +492,24 @@
       "title": "Principal Consultant, DFIR- Reactive Services (Unit 42)",
       "url": "https://jobs.paloaltonetworks.com/en/job/sao-paulo/principal-consultant-dfir-reactive-services-unit-42/47263/100399866752",
       "location": "Sao Paulo, S\u00e3o Paulo, Brazil",
+      "active": false,
+      "excluded": true
+    },
+    "eb370d85ed1b": {
+      "first_seen_at": "2026-09-22T20:55:54.872260+00:00",
+      "last_seen_at": "2026-09-22T20:55:54.872260+00:00",
+      "title": "Technical Product Engineer (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/technical-product-engineer-cortex/47263/100996197632",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "ea6d84dc19a6": {
+      "first_seen_at": "2026-09-22T20:55:54.872260+00:00",
+      "last_seen_at": "2026-09-22T20:55:54.872260+00:00",
+      "title": "Technical Product Engineer (Cortex-Cloud)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/technical-product-engineer-cortex-cloud/47263/100996197616",
+      "location": "Tel Aviv-Yafo, Israel",
       "active": true,
       "excluded": true
     }

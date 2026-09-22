@@ -195,7 +195,7 @@
       "title": "Software Engineer II - Backend Engineer",
       "url": "https://jobs.uber.com/en/jobs/302437/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "1744a46891eb": {
@@ -204,7 +204,7 @@
       "title": "Software Engineer II - Backend",
       "url": "https://jobs.uber.com/en/jobs/302442/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "24b66a06cd24": {
@@ -213,7 +213,7 @@
       "title": "Software Engineer II - Machine Learning",
       "url": "https://jobs.uber.com/en/jobs/302440/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }

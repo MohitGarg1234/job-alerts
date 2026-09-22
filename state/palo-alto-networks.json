@@ -29,20 +29,20 @@
     },
     "d13316e0f729": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-18T20:27:35.918787+00:00",
+      "last_seen_at": "2026-09-22T11:01:58.320957+00:00",
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9edfb9d417c7": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-18T20:27:35.918787+00:00",
+      "last_seen_at": "2026-09-22T11:01:58.320957+00:00",
       "title": "Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-network-security-panos/47263/97934254704",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9bd84d88e34d": {
@@ -348,7 +348,7 @@
       "title": "Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer/47263/100714842448",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "0af59f4eb847": {
@@ -484,6 +484,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer/47263/100714842448",
       "location": "Santa Clara, California, United States",
       "active": false,
+      "excluded": true
+    },
+    "9d2a078276db": {
+      "first_seen_at": "2026-09-22T11:01:58.320957+00:00",
+      "last_seen_at": "2026-09-22T11:01:58.320957+00:00",
+      "title": "Principal Consultant, DFIR- Reactive Services (Unit 42)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sao-paulo/principal-consultant-dfir-reactive-services-unit-42/47263/100399866752",
+      "location": "Sao Paulo, S\u00e3o Paulo, Brazil",
+      "active": true,
       "excluded": true
     }
   }

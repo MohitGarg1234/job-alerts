@@ -11,7 +11,7 @@
     },
     "7547312": {
       "first_seen_at": "2026-08-31T23:55:46.964068+00:00",
-      "last_seen_at": "2026-09-24T11:10:47.523432+00:00",
+      "last_seen_at": "2026-09-24T16:34:16.726816+00:00",
       "title": "Staff Software Developer, Services",
       "url": "https://slice.careers/careers-listing?gh_jid=7547312",
       "location": "Remote- Canada, United Kingdom or North Macedonia",
@@ -24,7 +24,7 @@
       "title": "Director of Software Development, Developer Experience",
       "url": "https://slice.careers/careers-listing?gh_jid=6576731",
       "location": "Canada",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8220120": {
@@ -52,6 +52,15 @@
       "url": "https://slice.careers/careers-listing?gh_jid=8220122",
       "location": "Mexico",
       "active": false,
+      "excluded": true
+    },
+    "7228671": {
+      "first_seen_at": "2026-09-24T16:34:16.726816+00:00",
+      "last_seen_at": "2026-09-24T16:34:16.726816+00:00",
+      "title": "Software Developer, Services",
+      "url": "https://slice.careers/careers-listing?gh_jid=7228671",
+      "location": "Remote- Canada, UK, or North Macedonia",
+      "active": true,
       "excluded": true
     }
   }

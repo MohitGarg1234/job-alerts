@@ -618,7 +618,7 @@
       "title": "Sr. Principal Software Engineer - Network Security - PanOS Dev",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos-dev/47263/101099071200",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "162b250ae4f7": {
@@ -627,7 +627,7 @@
       "title": "Principal UI Engineer, Platform (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-ui-engineer-platform-cortex/47263/101099071024",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "645b623a7f9d": {
@@ -636,6 +636,15 @@
       "title": "Director Business Operations - Digital Marketing",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/director-business-operations-digital-marketing/47263/99460882064",
       "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "d6995a9d50d7": {
+      "first_seen_at": "2026-09-25T11:15:07.354504+00:00",
+      "last_seen_at": "2026-09-25T11:15:07.354504+00:00",
+      "title": "Named Account Manager, Digital Natives (Singapore)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/singapore/named-account-manager-digital-natives-singapore/47263/101114492560",
+      "location": "Singapore, Singapore",
       "active": true,
       "excluded": true
     }

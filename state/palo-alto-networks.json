@@ -33,7 +33,7 @@
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -600,7 +600,7 @@
       "title": "Manager Software Engineering - Data Security (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/manager-software-engineering-data-security-cortex/47263/101070740944",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "05cb686d2a51": {
@@ -610,6 +610,33 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/staff-software-automation-engineer-sdet-identity-authentication/47263/101070730368",
       "location": "Petach Tikva, Israel",
       "active": false,
+      "excluded": true
+    },
+    "97a953ceb0e7": {
+      "first_seen_at": "2026-09-25T03:37:34.617583+00:00",
+      "last_seen_at": "2026-09-25T03:37:34.617583+00:00",
+      "title": "Sr. Principal Software Engineer - Network Security - PanOS Dev",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos-dev/47263/101099071200",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "162b250ae4f7": {
+      "first_seen_at": "2026-09-25T03:37:34.617583+00:00",
+      "last_seen_at": "2026-09-25T03:37:34.617583+00:00",
+      "title": "Principal UI Engineer, Platform (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-ui-engineer-platform-cortex/47263/101099071024",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "645b623a7f9d": {
+      "first_seen_at": "2026-09-25T03:37:34.617583+00:00",
+      "last_seen_at": "2026-09-25T03:37:34.617583+00:00",
+      "title": "Director Business Operations - Digital Marketing",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/director-business-operations-digital-marketing/47263/99460882064",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }

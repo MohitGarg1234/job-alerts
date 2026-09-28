@@ -29,11 +29,11 @@
     },
     "d13316e0f729": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-09-24T21:11:19.017865+00:00",
+      "last_seen_at": "2026-09-28T13:00:44.770212+00:00",
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -101,11 +101,11 @@
     },
     "5b5263cb40c6": {
       "first_seen_at": "2026-09-08T10:39:40.523494+00:00",
-      "last_seen_at": "2026-09-22T16:21:19.047735+00:00",
+      "last_seen_at": "2026-09-28T13:00:44.770212+00:00",
       "title": "Senior Staff Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/98567486912",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/99010928960",
       "location": "500081, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -542,7 +542,7 @@
     },
     "eee696001b0c": {
       "first_seen_at": "2026-09-23T10:50:26.647065+00:00",
-      "last_seen_at": "2026-09-28T03:52:11.573873+00:00",
+      "last_seen_at": "2026-09-28T13:00:44.770212+00:00",
       "title": "Senior Staff AI Software Engineer (CORA AI)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-ai-software-engineer-cora-ai/47263/101219583280",
       "location": "Petach Tikva, Israel",

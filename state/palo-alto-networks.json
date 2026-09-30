@@ -681,7 +681,7 @@
       "title": "Senior Software Engineer, Secrets Hub",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-secrets-hub/47263/96174880752",
       "location": "Sofia, Bulgaria",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "a78f0fca81a5": {
@@ -700,6 +700,24 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-team-sia/47263/96174880432",
       "location": "Sofia, Bulgaria",
       "active": false,
+      "excluded": true
+    },
+    "c0f1fc02f413": {
+      "first_seen_at": "2026-09-30T22:01:32.555216+00:00",
+      "last_seen_at": "2026-09-30T22:01:32.555216+00:00",
+      "title": "Principal Software Engineer (Cloud Infrastructure and Platform Engineering)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cloud-infrastructure-and-platform-engineering/47263/101370710720",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "b8a97eaf04e6": {
+      "first_seen_at": "2026-09-30T22:01:32.555216+00:00",
+      "last_seen_at": "2026-09-30T22:01:32.555216+00:00",
+      "title": "Mid-level Software Engineer with Go",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/mid-level-software-engineer-with-go/47263/101362696288",
+      "location": "Sofia, Bulgaria",
+      "active": true,
       "excluded": true
     }
   }

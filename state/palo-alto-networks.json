@@ -719,6 +719,42 @@
       "location": "Sofia, Bulgaria",
       "active": false,
       "excluded": true
+    },
+    "447d5b5f0b6b": {
+      "first_seen_at": "2026-10-01T22:22:54.974068+00:00",
+      "last_seen_at": "2026-10-01T22:22:54.974068+00:00",
+      "title": "Senior Principal Software Engineer (Cortex Platform)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-cortex-platform/47263/101406361056",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "b3b6001c24c1": {
+      "first_seen_at": "2026-10-01T22:22:54.974068+00:00",
+      "last_seen_at": "2026-10-01T22:22:54.974068+00:00",
+      "title": "Principal Consultant, DFIR, Reactive Services (Unit 42) - Remote",
+      "url": "https://jobs.paloaltonetworks.com/en/job/burbank/principal-consultant-dfir-reactive-services-unit-42-remote/47263/96174882256",
+      "location": "Burbank, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "411bd4afa427": {
+      "first_seen_at": "2026-10-01T22:22:54.974068+00:00",
+      "last_seen_at": "2026-10-01T22:22:54.974068+00:00",
+      "title": "Consulting Director, DFIR, Reactive Services (Unit 42)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/burbank/consulting-director-dfir-reactive-services-unit-42/47263/96174882176",
+      "location": "Burbank, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "11c5a61314d5": {
+      "first_seen_at": "2026-10-01T22:22:54.974068+00:00",
+      "last_seen_at": "2026-10-01T22:22:54.974068+00:00",
+      "title": "Principal Consultant, DFIR, Reactive Services (Unit 42) - Remote Weekend Shift",
+      "url": "https://jobs.paloaltonetworks.com/en/job/burbank/principal-consultant-dfir-reactive-services-unit-42-remote-weekend-shift/47263/93150613792",
+      "location": "Burbank, California, United States of America",
+      "active": true,
+      "excluded": true
     }
   }
 }

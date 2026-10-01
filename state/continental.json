@@ -74,7 +74,7 @@
     },
     "744000151560139": {
       "first_seen_at": "2026-09-24T11:10:47.523432+00:00",
-      "last_seen_at": "2026-10-01T12:31:12.605811+00:00",
+      "last_seen_at": "2026-10-01T22:22:54.974068+00:00",
       "title": "Senior Frontend Web Developer",
       "url": "https://jobs.smartrecruiters.com/Continental/744000151560139",
       "location": "Sergei\u010dikai I, Kauno apskr.",
@@ -92,7 +92,7 @@
     },
     "744000151871914": {
       "first_seen_at": "2026-09-25T16:38:21.456209+00:00",
-      "last_seen_at": "2026-10-01T12:31:12.605811+00:00",
+      "last_seen_at": "2026-10-01T22:22:54.974068+00:00",
       "title": "eCommerce & Digitalization Intern",
       "url": "https://jobs.smartrecruiters.com/Continental/744000151871914",
       "location": "Jundia\u00ed, SP",
@@ -101,7 +101,7 @@
     },
     "744000152403609": {
       "first_seen_at": "2026-09-29T12:12:27.109013+00:00",
-      "last_seen_at": "2026-10-01T12:31:12.605811+00:00",
+      "last_seen_at": "2026-10-01T22:22:54.974068+00:00",
       "title": "Ferienjob / Ferienhelfer (Sch\u00fcler) im Bereich Digitalisierung (m/w/d) - REF99745N",
       "url": "https://jobs.smartrecruiters.com/Continental/744000152403609",
       "location": "Korbach, HE",
@@ -119,7 +119,7 @@
     },
     "744000152520769": {
       "first_seen_at": "2026-09-29T21:55:19.951384+00:00",
-      "last_seen_at": "2026-10-01T12:31:12.605811+00:00",
+      "last_seen_at": "2026-10-01T22:22:54.974068+00:00",
       "title": "Marketing Manager - Digital and Automation",
       "url": "https://jobs.smartrecruiters.com/Continental/744000152520769",
       "location": "Fort Mill, SC",
@@ -128,10 +128,19 @@
     },
     "744000152648979": {
       "first_seen_at": "2026-09-30T11:58:50.862740+00:00",
-      "last_seen_at": "2026-10-01T12:31:12.605811+00:00",
+      "last_seen_at": "2026-10-01T22:22:54.974068+00:00",
       "title": "Digital Service Engineer",
       "url": "https://jobs.smartrecruiters.com/Continental/744000152648979",
       "location": "Meerut, UttarPradesh",
+      "active": true,
+      "excluded": true
+    },
+    "744000152959269": {
+      "first_seen_at": "2026-10-01T22:22:54.974068+00:00",
+      "last_seen_at": "2026-10-01T22:22:54.974068+00:00",
+      "title": "Data Engineer (Digital Solutions)",
+      "url": "https://jobs.smartrecruiters.com/Continental/744000152959269",
+      "location": "Lousado, Braga",
       "active": true,
       "excluded": true
     }

@@ -128,11 +128,11 @@
     },
     "69e5e6a14c53": {
       "first_seen_at": "2026-09-16T20:55:12.901086+00:00",
-      "last_seen_at": "2026-09-25T03:37:34.617583+00:00",
+      "last_seen_at": "2026-10-01T04:21:48.543901+00:00",
       "title": "Sr Software Engineer - Android",
-      "url": "https://jobs.uber.com/en/jobs/302636/",
+      "url": "https://jobs.uber.com/en/jobs/302448/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9b83d6822345": {
@@ -186,7 +186,7 @@
       "title": "Audio/Visual Application Engineer",
       "url": "https://jobs.uber.com/en/jobs/157820/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "e9b335a94d5f": {
@@ -267,7 +267,7 @@
       "title": "Sr Software Engineer",
       "url": "https://jobs.uber.com/en/jobs/159127/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }

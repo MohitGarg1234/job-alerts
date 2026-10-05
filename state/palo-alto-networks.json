@@ -222,7 +222,7 @@
       "title": "Sr Manager, Software Engineering - Logging (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-manager-software-engineering-logging-chronosphere/47263/99799498928",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "50ba8a5804d2": {
@@ -758,7 +758,7 @@
     },
     "bbc749e98d67": {
       "first_seen_at": "2026-10-04T16:30:05.230703+00:00",
-      "last_seen_at": "2026-10-04T20:54:35.854295+00:00",
+      "last_seen_at": "2026-10-05T04:15:44.464074+00:00",
       "title": "Principal Software Engineer (Secure Agentic AI)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/principal-software-engineer-secure-agentic-ai/47263/96270267472",
       "location": "Petach Tikva, Israel",

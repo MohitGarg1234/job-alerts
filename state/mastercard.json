@@ -35,6 +35,15 @@
       "location": "",
       "active": false,
       "excluded": true
+    },
+    "b85255db97f8": {
+      "first_seen_at": "2026-10-05T23:47:08.721416+00:00",
+      "last_seen_at": "2026-10-05T23:47:08.721416+00:00",
+      "title": "Lead Software Engineer (Java)",
+      "url": "https://careers.mastercard.com/us/en/job/R-289611/Lead-Software-Engineer-Java",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }

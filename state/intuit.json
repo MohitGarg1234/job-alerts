@@ -2,7 +2,7 @@
   "jobs": {
     "9baf7784118f": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-06T12:49:55.599542+00:00",
+      "last_seen_at": "2026-10-06T22:22:39.332889+00:00",
       "title": "Principal Software Engineer",
       "url": "https://jobs.intuit.com/job/new-york/principal-software-engineer/27595/87369446624",
       "location": "Mountain View, California",
@@ -20,9 +20,9 @@
     },
     "6060ef078e08": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-06T12:49:55.599542+00:00",
+      "last_seen_at": "2026-10-06T22:22:39.332889+00:00",
       "title": "Staff Software Engineer",
-      "url": "https://jobs.intuit.com/job/mountain-view/staff-software-engineer/27595/101456093712",
+      "url": "https://jobs.intuit.com/job/new-york/staff-software-engineer/27595/96922204192",
       "location": "Mountain View, California",
       "active": true,
       "excluded": true
@@ -47,16 +47,16 @@
     },
     "835cadcfd51e": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-06T12:49:55.599542+00:00",
+      "last_seen_at": "2026-10-06T22:22:39.332889+00:00",
       "title": "Staff Software Engineer",
-      "url": "https://jobs.intuit.com/job/mountain-view/staff-software-engineer/27595/101456093712",
+      "url": "https://jobs.intuit.com/job/new-york/staff-software-engineer/27595/96922204192",
       "location": "New York, New York",
       "active": true,
       "excluded": true
     },
     "d253cb5b48ef": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-06T12:49:55.599542+00:00",
+      "last_seen_at": "2026-10-06T22:22:39.332889+00:00",
       "title": "Principal Software Engineer",
       "url": "https://jobs.intuit.com/job/new-york/principal-software-engineer/27595/87369446624",
       "location": "New York, New York",
@@ -146,7 +146,7 @@
     },
     "510239166730": {
       "first_seen_at": "2026-09-16T20:55:12.901086+00:00",
-      "last_seen_at": "2026-10-06T12:49:55.599542+00:00",
+      "last_seen_at": "2026-10-06T22:22:39.332889+00:00",
       "title": "Senior Software Engineer",
       "url": "https://jobs.intuit.com/job/mountain-view/senior-software-engineer/27595/101575714864",
       "location": "Mountain View, California",
@@ -164,7 +164,7 @@
     },
     "2df5a96dffeb": {
       "first_seen_at": "2026-09-23T03:30:02.443379+00:00",
-      "last_seen_at": "2026-10-06T12:49:55.599542+00:00",
+      "last_seen_at": "2026-10-06T22:22:39.332889+00:00",
       "title": "Principal Software Engineer",
       "url": "https://jobs.intuit.com/job/new-york/principal-software-engineer/27595/87369446624",
       "location": "",
@@ -191,7 +191,7 @@
     },
     "9c82494e1db0": {
       "first_seen_at": "2026-09-28T22:58:08.108361+00:00",
-      "last_seen_at": "2026-10-06T12:49:55.599542+00:00",
+      "last_seen_at": "2026-10-06T22:22:39.332889+00:00",
       "title": "Staff Software Engineer, Credit",
       "url": "https://jobs.intuit.com/job/new-york/staff-software-engineer-credit/27595/101279564384",
       "location": "New York, New York",
@@ -204,7 +204,7 @@
       "title": "Sr Staff Software Engineer",
       "url": "https://jobs.intuit.com/job/new-york/sr-staff-software-engineer/27595/101362216624",
       "location": "New York, New York",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "68782e288564": {
@@ -214,6 +214,15 @@
       "url": "https://jobs.intuit.com/job/san-diego/staff-software-engineer-system-engineering/27595/100723857456",
       "location": "San Diego, California",
       "active": false,
+      "excluded": true
+    },
+    "4a2d18503f7c": {
+      "first_seen_at": "2026-10-06T22:22:39.332889+00:00",
+      "last_seen_at": "2026-10-06T22:22:39.332889+00:00",
+      "title": "Software Engineer 2",
+      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-2/27595/101613653232",
+      "location": "Mountain View, California",
+      "active": true,
       "excluded": true
     }
   }

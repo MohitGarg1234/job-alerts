@@ -29,11 +29,11 @@
     },
     "d13316e0f729": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-10-03T03:57:30.247188+00:00",
+      "last_seen_at": "2026-10-06T05:03:45.722092+00:00",
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -767,9 +767,18 @@
     },
     "a7a858244b69": {
       "first_seen_at": "2026-10-05T23:47:08.721416+00:00",
-      "last_seen_at": "2026-10-05T23:47:08.721416+00:00",
+      "last_seen_at": "2026-10-06T05:03:45.722092+00:00",
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer/47263/101583611008",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "c2caff757b32": {
+      "first_seen_at": "2026-10-06T05:03:45.722092+00:00",
+      "last_seen_at": "2026-10-06T05:03:45.722092+00:00",
+      "title": "Principal UX Designer, Digital Marketing",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-ux-designer-digital-marketing/47263/101589718240",
       "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true

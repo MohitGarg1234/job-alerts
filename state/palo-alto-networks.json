@@ -443,11 +443,11 @@
     },
     "9a987b8a0aac": {
       "first_seen_at": "2026-09-19T15:25:50.080462+00:00",
-      "last_seen_at": "2026-09-20T15:30:52.870117+00:00",
+      "last_seen_at": "2026-10-07T12:43:28.725392+00:00",
       "title": "Principal Software Engineer \u2013 Identity SSO (Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/principal-software-engineer-identity-sso-idira/47263/98656006064",
       "location": "Petach Tikva, Israel",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "4bc3757864f2": {
@@ -789,7 +789,7 @@
       "title": "Senior Principal Software Engineer (AI Posture)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-ai-posture/47263/101627806544",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "30acca001169": {
@@ -812,7 +812,7 @@
     },
     "d072252a4ba3": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-07T04:30:37.447380+00:00",
+      "last_seen_at": "2026-10-07T12:43:28.725392+00:00",
       "title": "Senior Staff Engineer Linux - C/C++ (Prisma Access)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-engineer-linux-c-c-prisma-access/47263/101633315968",
       "location": "Santa Clara, California, United States of America",
@@ -825,7 +825,7 @@
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-it-software-engineer/47263/96174866000",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "a2dc78b76340": {
@@ -834,7 +834,7 @@
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }

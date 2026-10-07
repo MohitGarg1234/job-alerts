@@ -38,10 +38,19 @@
     },
     "6000000001465549": {
       "first_seen_at": "2026-10-06T12:49:55.599542+00:00",
-      "last_seen_at": "2026-10-07T12:43:28.725392+00:00",
+      "last_seen_at": "2026-10-07T22:46:40.335971+00:00",
       "title": "Software Development Engineer in Test",
       "url": "https://jobs.smartrecruiters.com/swiggy/6000000001465549",
       "location": "Bengaluru, KA",
+      "active": true,
+      "excluded": false
+    },
+    "6000000001469588": {
+      "first_seen_at": "2026-10-07T22:46:40.335971+00:00",
+      "last_seen_at": "2026-10-07T22:46:40.335971+00:00",
+      "title": "Software Development Engineer I",
+      "url": "https://jobs.smartrecruiters.com/swiggy/6000000001469588",
+      "location": "Bangalore",
       "active": true,
       "excluded": false
     }

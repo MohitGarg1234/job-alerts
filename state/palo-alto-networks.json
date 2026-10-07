@@ -785,7 +785,7 @@
     },
     "09503f4848f4": {
       "first_seen_at": "2026-10-06T22:22:39.332889+00:00",
-      "last_seen_at": "2026-10-06T22:22:39.332889+00:00",
+      "last_seen_at": "2026-10-07T04:30:37.447380+00:00",
       "title": "Senior Principal Software Engineer (AI Posture)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-ai-posture/47263/101627806544",
       "location": "Santa Clara, California, United States of America",
@@ -798,7 +798,7 @@
       "title": "Principal Software Engineer - Credential Provider",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-credential-provider/47263/101620334192",
       "location": "Sofia, Bulgaria",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "945abf7c9dc1": {
@@ -807,8 +807,35 @@
       "title": "Senior Software Engineer (Credential Provider)",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-credential-provider/47263/101620334144",
       "location": "Sofia, Bulgaria",
+      "active": false,
+      "excluded": true
+    },
+    "d072252a4ba3": {
+      "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
+      "last_seen_at": "2026-10-07T04:30:37.447380+00:00",
+      "title": "Senior Staff Engineer Linux - C/C++ (Prisma Access)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-engineer-linux-c-c-prisma-access/47263/101633315968",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
+    },
+    "846d19926843": {
+      "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
+      "last_seen_at": "2026-10-07T04:30:37.447380+00:00",
+      "title": "Senior IT Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-it-software-engineer/47263/96174866000",
+      "location": "Bangalore, Karn\u0101taka, India",
+      "active": true,
+      "excluded": false
+    },
+    "a2dc78b76340": {
+      "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
+      "last_seen_at": "2026-10-07T04:30:37.447380+00:00",
+      "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
+      "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }

@@ -29,11 +29,11 @@
     },
     "2a6d1e6bad14": {
       "first_seen_at": "2026-10-03T11:10:29.830523+00:00",
-      "last_seen_at": "2026-10-04T20:54:35.854295+00:00",
+      "last_seen_at": "2026-10-07T04:30:37.447380+00:00",
       "title": "Manager, Software Engineering",
-      "url": "https://careers.mastercard.com/us/en/job/R-291035/Manager-Software-Engineering",
+      "url": "https://careers.mastercard.com/us/en/job/R-273743/Manager-Software-Engineering",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "b85255db97f8": {
@@ -42,7 +42,7 @@
       "title": "Lead Software Engineer (Java)",
       "url": "https://careers.mastercard.com/us/en/job/R-289611/Lead-Software-Engineer-Java",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }

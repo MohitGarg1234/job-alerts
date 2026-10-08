@@ -168,7 +168,7 @@
       "title": "Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/staff-software-engineer/47263/100111137568",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8491d5f1e47d": {
@@ -830,16 +830,16 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-07T04:30:37.447380+00:00",
+      "last_seen_at": "2026-10-08T04:41:37.094421+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "f105e409d9c3": {
       "first_seen_at": "2026-10-07T22:46:40.335971+00:00",
-      "last_seen_at": "2026-10-07T22:46:40.335971+00:00",
+      "last_seen_at": "2026-10-08T04:41:37.094421+00:00",
       "title": "Staff IT Software Engineer (Fedramp)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-it-software-engineer-fedramp/47263/101671426688",
       "location": "Santa Clara, California, United States of America",
@@ -852,7 +852,7 @@
       "title": "Principal Software Engineer (Mobility/Network Security)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-mobility-network-security/47263/96174881328",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

@@ -222,7 +222,7 @@
       "title": "Sr Manager, Software Engineering - Logging (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-manager-software-engineering-logging-chronosphere/47263/99799498928",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "50ba8a5804d2": {
@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -861,6 +861,24 @@
       "title": "Sr. Staff Software Engineer (Fedramp)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-fedramp/47263/101719713104",
       "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "e36463ecea04": {
+      "first_seen_at": "2026-10-09T22:18:56.778917+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
+      "title": "Senior Principal Software Engineer (AI Posture))",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-ai-posture/47263/97757360016",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "88f18a9f891d": {
+      "first_seen_at": "2026-10-09T22:18:56.778917+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
+      "title": "Senior Staff IT Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-staff-it-software-engineer/47263/96174865792",
+      "location": "Bangalore, Karn\u0101taka, India",
       "active": true,
       "excluded": true
     }

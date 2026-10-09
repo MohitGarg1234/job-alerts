@@ -65,7 +65,7 @@
     },
     "/job/San-Jose/Software-Development-Engineer-4_R171262": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Software Development Engineer 4",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-4_R171262",
       "location": "San Jose",
@@ -96,7 +96,7 @@
       "title": "Senior Software Development Engineer-Adobe Express",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Senior-Software-Development-Engineer_R171033-1",
       "location": "Bucharest",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/San-Jose/Senior-Software-Engineer_R170582": {
@@ -105,7 +105,7 @@
       "title": "Senior Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Engineer_R170582",
       "location": "San Jose",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/New-York/Software-Development-Engineer_R170344": {
@@ -146,7 +146,7 @@
     },
     "/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "2027 Intern - Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
       "location": "7 Locations",
@@ -204,7 +204,7 @@
       "title": "Software Development Engineer, Growth Team",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Software-Development-Engineer_R171482",
       "location": "Bucharest",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/Bangalore/Software-Development-Engineer_R171037": {
@@ -335,7 +335,7 @@
     },
     "/job/San-Jose/Senior-Software-Development-Engineer-5_R170928": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Senior Software Development Engineer 5",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer-5_R170928",
       "location": "San Jose",
@@ -344,7 +344,7 @@
     },
     "/job/San-Jose/Machine-Learning-Engineer-50_R165421": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Senior Software Development Engineer 5",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-50_R165421",
       "location": "San Jose",
@@ -371,7 +371,7 @@
     },
     "/job/San-Jose/Software-Development-Engineer_R170818": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R170818",
       "location": "San Jose",
@@ -389,7 +389,7 @@
     },
     "/job/San-Jose/Senior-Software-Development-Engineer-5_R171007": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Senior Software Development Engineer 5",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer-5_R171007",
       "location": "San Jose",
@@ -443,7 +443,7 @@
     },
     "/job/Bangalore/Software-Development-Engineer-4_R170532": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Software Development Engineer 4",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer-4_R170532",
       "location": "Bangalore",
@@ -452,7 +452,7 @@
     },
     "/job/San-Jose/Staff-Software-Development-Engineer_R169307": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Staff Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Staff-Software-Development-Engineer_R169307",
       "location": "San Jose",
@@ -483,12 +483,12 @@
       "title": "Senior Software Engineer - Adobe Builders Experience team",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Software-Engineer---Adobe-Builders-Experience-team_R170737-1",
       "location": "Bucharest",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/Noida/Software-Development-Engineer_R170776": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R170776",
       "location": "Noida",
@@ -524,7 +524,7 @@
     },
     "/job/San-Jose/Software-Development-Engineer_R170631": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R170631",
       "location": "San Jose",
@@ -569,7 +569,7 @@
     },
     "/job/San-Jose/Software-Developer-Engineer_R164352": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Software Developer Engineer 3/4",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Developer-Engineer_R164352",
       "location": "San Jose",
@@ -578,7 +578,7 @@
     },
     "/job/San-Jose/Software-Development-Engineer_R164904": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R164904",
       "location": "San Jose",
@@ -605,7 +605,7 @@
     },
     "/job/Noida/Software-Development-Engineer-4_R170262": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Software Development Engineer 4",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer-4_R170262",
       "location": "Noida",
@@ -681,7 +681,7 @@
       "title": "Software Engineer in Quality Engineering",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Quality-Engineer_R165146",
       "location": "San Jose",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/Bucharest/Software-Development-Engineer_R169563-1": {
@@ -695,7 +695,7 @@
     },
     "/job/New-York/Software-Development-Engineer_R168187-1": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Software-Development-Engineer_R168187-1",
       "location": "New York",
@@ -794,7 +794,7 @@
     },
     "/job/San-Jose/Sr-Software-Engineer_R165261": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Sr. Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Software-Engineer_R165261",
       "location": "San Jose",
@@ -812,7 +812,7 @@
     },
     "/job/San-Jose/Senior-Software-Engineer_R147125-1": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Senior Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Engineer_R147125-1",
       "location": "San Jose",
@@ -821,7 +821,7 @@
     },
     "/job/San-Jose/Software-Engineer---Adobe-Experience-Platform_R160198-1": {
       "first_seen_at": "2026-09-03T16:34:23.333282+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Software Engineer \u2013 Adobe Experience Platform",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Engineer---Adobe-Experience-Platform_R160198-1",
       "location": "San Jose",
@@ -843,7 +843,7 @@
       "title": "Senior Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R171047",
       "location": "San Jose",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/San-Francisco/Principal-Data-Analyst--Adobe-Stock_R171398": {
@@ -956,7 +956,7 @@
     },
     "/job/Noida/Software-Development-Engineer_R171304": {
       "first_seen_at": "2026-09-10T15:53:49.628520+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R171304",
       "location": "Noida",
@@ -992,7 +992,7 @@
     },
     "/job/New-York/XMLNAME-2027-Intern---Digital-Strategy-Analyst_R171828": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "2027 Intern - Digital Strategy Analyst, Strategic Advisory",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2027-Intern---Digital-Strategy-Analyst_R171828",
       "location": "New York",
@@ -1001,7 +1001,7 @@
     },
     "/job/Tokyo/Senior-Digital-Manager--Creativity---Productivity_R171773": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Senior Digital Manager, Creativity & Productivity",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Tokyo/Senior-Digital-Manager--Creativity---Productivity_R171773",
       "location": "Tokyo",
@@ -1010,7 +1010,7 @@
     },
     "/job/Noida/Computer-Scientist--C--_R171105": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Computer Scientist- C++",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist--C--_R171105",
       "location": "Noida",
@@ -1154,7 +1154,7 @@
     },
     "/job/San-Francisco/Director--Digital-Strategy---Technology_R171010": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Director, Digital Strategy - Technology",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Director--Digital-Strategy---Technology_R171010",
       "location": "2 Locations",
@@ -1167,12 +1167,12 @@
       "title": "Sr. Database Reliability Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Database-Reliability-Engineer_R170522",
       "location": "San Jose",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/San-Jose/Sr-Director--Engineering---Digital-Video---Audio--DVA-_R170842-1": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Sr. Director, Engineering - Digital Video & Audio (DVA)",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Director--Engineering---Digital-Video---Audio--DVA-_R170842-1",
       "location": "3 Locations",
@@ -1190,7 +1190,7 @@
     },
     "/job/San-Jose/Software-Development-Engineer_R170086": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Senior Front-end Engineer, AI",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R170086",
       "location": "4 Locations",
@@ -1235,7 +1235,7 @@
     },
     "/job/San-Jose/Principal-AI-Systems-Engineer---C-----Applied-AI_R170076": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Senior AI Systems Engineer \u2014 C++ / Applied AI",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-AI-Systems-Engineer---C-----Applied-AI_R170076",
       "location": "6 Locations",
@@ -1253,7 +1253,7 @@
     },
     "/job/Noida/Senior-Digital-Strategist_R164692": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Senior Digital Strategist",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Digital-Strategist_R164692",
       "location": "2 Locations",
@@ -1302,7 +1302,7 @@
       "title": "Senior Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Software-Development-Engineer_R171810-1",
       "location": "San Jose",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/San-Jose/Software-Development-Engineer_R171675-1": {
@@ -1311,7 +1311,7 @@
       "title": "Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R171675-1",
       "location": "San Jose",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/San-Jose/Software-Development-Engineer_R171559": {
@@ -1320,13 +1320,13 @@
       "title": "Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R171559",
       "location": "San Jose",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "/job/San-Jose/Founding-Full-Stack-Engineer--Creator-Services_R171895": {
       "first_seen_at": "2026-09-15T16:21:01.485425+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
-      "title": "Founding Full Stack Engineer, Creator Services",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
+      "title": "Sr Full Stack Engineer, Creator Services",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Founding-Full-Stack-Engineer--Creator-Services_R171895",
       "location": "2 Locations",
       "active": true,
@@ -1343,7 +1343,7 @@
     },
     "/job/Noida/Senior-Computer-Scientist---C--_R171863": {
       "first_seen_at": "2026-09-16T10:54:44.105422+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Senior Computer Scientist - C++",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist---C--_R171863",
       "location": "Noida",
@@ -1352,7 +1352,7 @@
     },
     "/job/San-Jose/Dir--Software-Development_R171468": {
       "first_seen_at": "2026-09-16T10:54:44.105422+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Dir, Software Development",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Dir--Software-Development_R171468",
       "location": "2 Locations",
@@ -1379,7 +1379,7 @@
     },
     "/job/Bangalore/Senior-Digital-Strategist_R169918": {
       "first_seen_at": "2026-09-18T15:54:07.102357+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Senior Digital Strategist",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Digital-Strategist_R169918",
       "location": "Bangalore",
@@ -1397,7 +1397,7 @@
     },
     "/job/Noida/Engineering-Manager--C--_R171962": {
       "first_seen_at": "2026-09-21T12:06:07.662879+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Engineering Manager- C++",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Engineering-Manager--C--_R171962",
       "location": "Noida",
@@ -1406,7 +1406,7 @@
     },
     "/job/Mumbai/Digital-Strategist_R171840": {
       "first_seen_at": "2026-09-23T10:50:26.647065+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Digital Strategist",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Mumbai/Digital-Strategist_R171840",
       "location": "Mumbai",
@@ -1415,7 +1415,7 @@
     },
     "/job/San-Jose/Data-Product-Engineer_R171620-1": {
       "first_seen_at": "2026-09-23T21:08:13.752012+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Data Product Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Data-Product-Engineer_R171620-1",
       "location": "San Jose",
@@ -1424,7 +1424,7 @@
     },
     "/job/Lehi/Software-Development-Engineer_R171796": {
       "first_seen_at": "2026-09-24T11:10:47.523432+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R171796",
       "location": "2 Locations",
@@ -1433,7 +1433,7 @@
     },
     "/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083": {
       "first_seen_at": "2026-09-24T16:34:16.726816+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "2027 University Graduate - Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083",
       "location": "6 Locations",
@@ -1442,7 +1442,7 @@
     },
     "/job/Lehi/Software-Development-Engineer_R171594": {
       "first_seen_at": "2026-09-25T03:37:34.617583+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R171594",
       "location": "3 Locations",
@@ -1478,7 +1478,7 @@
     },
     "/job/Basel/Apprentice-EFZ---Application-Development_R171098": {
       "first_seen_at": "2026-09-30T11:58:50.862740+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Apprentice EFZ / Application Development",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/Apprentice-EFZ---Application-Development_R171098",
       "location": "Basel",
@@ -1496,7 +1496,7 @@
     },
     "/job/Bucharest/Sr-Full-Stack-Engineer--Back-end---Agentic-Governance_R172297": {
       "first_seen_at": "2026-10-02T11:57:07.367363+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Sr. Full Stack Engineer (Back-end), Agentic Governance",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Sr-Full-Stack-Engineer--Back-end---Agentic-Governance_R172297",
       "location": "Bucharest",
@@ -1505,7 +1505,7 @@
     },
     "/job/Bucharest/Full-Stack-Engineer--Front-end---Agentic-Governance_R172296": {
       "first_seen_at": "2026-10-02T11:57:07.367363+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Full Stack Engineer (Front-end), Agentic Governance",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Full-Stack-Engineer--Front-end---Agentic-Governance_R172296",
       "location": "Bucharest",
@@ -1514,7 +1514,7 @@
     },
     "/job/Noida/Computer-Scientist---II--C---_R172313": {
       "first_seen_at": "2026-10-05T13:42:52.596207+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Computer Scientist - II (C++)",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Computer-Scientist---II--C---_R172313",
       "location": "Noida",
@@ -1523,7 +1523,7 @@
     },
     "/job/Bangalore/Data-Science-Engineer_R171428": {
       "first_seen_at": "2026-10-05T13:42:52.596207+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Digital Analyst",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Data-Science-Engineer_R171428",
       "location": "Bangalore",
@@ -1532,7 +1532,7 @@
     },
     "/job/Noida/Senior-Computer-Scientist---I--C---_R172474": {
       "first_seen_at": "2026-10-06T12:49:55.599542+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Senior Computer Scientist - I (C++)",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Computer-Scientist---I--C---_R172474",
       "location": "Noida",
@@ -1541,7 +1541,7 @@
     },
     "/job/Noida/Mgr--Software-Development_R172270": {
       "first_seen_at": "2026-10-07T12:43:28.725392+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Mgr, Software Development",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Mgr--Software-Development_R172270",
       "location": "Noida",
@@ -1550,7 +1550,7 @@
     },
     "/job/Lehi/Senior-Software-Development-Engineer_R172592": {
       "first_seen_at": "2026-10-08T22:57:40.384747+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T22:18:56.778917+00:00",
       "title": "Senior Software Development Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Senior-Software-Development-Engineer_R172592",
       "location": "Lehi",

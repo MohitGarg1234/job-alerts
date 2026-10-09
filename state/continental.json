@@ -155,7 +155,7 @@
     },
     "744000153806154": {
       "first_seen_at": "2026-10-06T22:22:39.332889+00:00",
-      "last_seen_at": "2026-10-09T04:44:46.394308+00:00",
+      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
       "title": "Data Engineer (Digital Solutions)",
       "url": "https://jobs.smartrecruiters.com/Continental/744000153806154",
       "location": "Lousado, Braga",
@@ -164,7 +164,7 @@
     },
     "744000153791821": {
       "first_seen_at": "2026-10-06T22:22:39.332889+00:00",
-      "last_seen_at": "2026-10-09T04:44:46.394308+00:00",
+      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
       "title": "Est\u00e1gio eCommerce e Transforma\u00e7\u00e3o Digital",
       "url": "https://jobs.smartrecruiters.com/Continental/744000153791821",
       "location": "Jundia\u00ed, SP",
@@ -173,12 +173,21 @@
     },
     "744000154002299": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-09T04:44:46.394308+00:00",
+      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
       "title": "Java Full Stack Developer",
       "url": "https://jobs.smartrecruiters.com/Continental/744000154002299",
       "location": "Electronic City,  Bengaluru, Karnataka",
       "active": true,
       "excluded": false
+    },
+    "744000154616704": {
+      "first_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "title": "Werkstudent - Digital Communication & Learning im Produktionsumfeld (m/w/d) - REF99897J",
+      "url": "https://jobs.smartrecruiters.com/Continental/744000154616704",
+      "location": "Hannover, NDS",
+      "active": true,
+      "excluded": true
     }
   }
 }

@@ -1,3 +1,13 @@
 {
-  "jobs": {}
+  "jobs": {
+    "968a10cc2638": {
+      "first_seen_at": "2026-10-10T21:13:01.885148+00:00",
+      "last_seen_at": "2026-10-10T21:13:01.885148+00:00",
+      "title": "Transforming abstract algorithms into real-world impact",
+      "url": "https://jobs.sap.com/en/blog/people-stories/xin-transforming-abstract-algorithms-into-real-world-impact/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    }
+  }
 }

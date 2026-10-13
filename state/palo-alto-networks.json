@@ -272,11 +272,11 @@
     },
     "88b4b2d41d40": {
       "first_seen_at": "2026-09-15T20:54:18.681766+00:00",
-      "last_seen_at": "2026-09-22T16:21:19.047735+00:00",
+      "last_seen_at": "2026-10-13T00:11:39.729220+00:00",
       "title": "Principal Technical Product Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/seville/principal-technical-product-engineer/47263/100674862480",
       "location": "Seville, Sevilla, Spain",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "293149270dd8": {
@@ -326,11 +326,11 @@
     },
     "188efdeb046a": {
       "first_seen_at": "2026-09-16T10:54:44.105422+00:00",
-      "last_seen_at": "2026-09-16T16:12:50.005503+00:00",
+      "last_seen_at": "2026-10-13T00:11:39.729220+00:00",
       "title": "Sr. Technical Product Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/london/sr-technical-product-engineer/47263/100703642160",
       "location": "London, London, City of, United Kingdom",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "54e13febbf66": {
@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-12T14:31:38.013827+00:00",
+      "last_seen_at": "2026-10-13T00:11:39.729220+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -915,7 +915,7 @@
       "title": "Senior Staff Software Engineer (Secrets Manager SAAS)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-software-engineer-secrets-manager-saas/47263/99799498064",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "805407cd7316": {
@@ -933,7 +933,7 @@
       "title": "Principal Software Engineer - Secure AI Agent",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-secure-ai-agent/47263/101854600288",
       "location": "Sofia, Bulgaria",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

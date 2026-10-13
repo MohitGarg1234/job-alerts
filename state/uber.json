@@ -276,7 +276,7 @@
       "title": "Software Engineer II - Risk & Compliance",
       "url": "https://jobs.uber.com/en/jobs/302349/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "aa84865fa553": {
@@ -339,7 +339,7 @@
       "title": "Software Engineer II - Compute",
       "url": "https://jobs.uber.com/en/jobs/303284/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "f7aa9a25e6a5": {
@@ -348,7 +348,7 @@
       "title": "Staff Software Engineer - Search Platform",
       "url": "https://jobs.uber.com/en/jobs/303327/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "89c4f9374bcb": {
@@ -357,7 +357,7 @@
       "title": "Staff Software Engineer \u2013 Android Build Infrastructure",
       "url": "https://jobs.uber.com/en/jobs/303487/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

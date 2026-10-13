@@ -51,12 +51,12 @@
       "title": "Senior Software Engineer - Kubernetes Backend and Platform Engineering",
       "url": "https://careers.nutanix.com/en/jobs/32803/senior-software-engineer-kubernetes-backend-and-platform-engineering/",
       "location": "San Jose, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "6eb25a88238d": {
       "first_seen_at": "2026-10-13T00:11:39.729220+00:00",
-      "last_seen_at": "2026-10-13T00:11:39.729220+00:00",
+      "last_seen_at": "2026-10-13T13:38:16.240181+00:00",
       "title": "Software Engineer - AI Gateway",
       "url": "https://careers.nutanix.com/en/jobs/32831/software-engineer-ai-gateway/",
       "location": "Vancouver, Canada",
@@ -69,7 +69,7 @@
       "title": "Software Engineer 4 - Database Management Services",
       "url": "https://careers.nutanix.com/en/jobs/32804/software-engineer-4-database-management-services/",
       "location": "San Jose, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

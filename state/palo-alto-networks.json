@@ -276,7 +276,7 @@
       "title": "Principal Technical Product Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/seville/principal-technical-product-engineer/47263/100674862480",
       "location": "Seville, Sevilla, Spain",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "293149270dd8": {
@@ -330,7 +330,7 @@
       "title": "Sr. Technical Product Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/london/sr-technical-product-engineer/47263/100703642160",
       "location": "London, London, City of, United Kingdom",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "54e13febbf66": {
@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-13T00:11:39.729220+00:00",
+      "last_seen_at": "2026-10-13T13:38:16.240181+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -934,6 +934,24 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-secure-ai-agent/47263/101854600288",
       "location": "Sofia, Bulgaria",
       "active": false,
+      "excluded": true
+    },
+    "665661849d6d": {
+      "first_seen_at": "2026-10-13T13:38:16.240181+00:00",
+      "last_seen_at": "2026-10-13T13:38:16.240181+00:00",
+      "title": "Sr/Principal Software Engineer (AI transformation - QA)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-principal-software-engineer-ai-transformation-qa/47263/101022371888",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "062431d5ea65": {
+      "first_seen_at": "2026-10-13T13:38:16.240181+00:00",
+      "last_seen_at": "2026-10-13T13:38:16.240181+00:00",
+      "title": "Staff IT Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-it-software-engineer/47263/96174865792",
+      "location": "Bangalore, Karn\u0101taka, India",
+      "active": true,
       "excluded": true
     }
   }

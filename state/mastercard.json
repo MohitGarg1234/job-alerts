@@ -33,7 +33,7 @@
       "title": "Manager, Software Engineering",
       "url": "https://careers.mastercard.com/us/en/job/R-282690/Manager-Software-Engineering",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "b85255db97f8": {
@@ -42,7 +42,7 @@
       "title": "Lead Software Engineer (Java)",
       "url": "https://careers.mastercard.com/us/en/job/R-273155/Lead-Software-Engineer-Java",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "1457d2a593d7": {
@@ -62,6 +62,15 @@
       "location": "Vice President, Digital Asset Payment Solutions",
       "active": false,
       "excluded": true
+    },
+    "e05ccd5b4e04": {
+      "first_seen_at": "2026-10-14T03:41:30.843868+00:00",
+      "last_seen_at": "2026-10-14T03:41:30.843868+00:00",
+      "title": "Senior Software Engineer \u2013 Integrations & API Connectivity",
+      "url": "https://careers.mastercard.com/us/en/job/R-289566/Senior-Software-Engineer-Integrations-API-Connectivity",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }

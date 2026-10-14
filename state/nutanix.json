@@ -60,7 +60,7 @@
       "title": "Software Engineer - AI Gateway",
       "url": "https://careers.nutanix.com/en/jobs/32831/software-engineer-ai-gateway/",
       "location": "Vancouver, Canada",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "7c6d80bf3439": {
@@ -70,6 +70,15 @@
       "url": "https://careers.nutanix.com/en/jobs/32804/software-engineer-4-database-management-services/",
       "location": "San Jose, United States",
       "active": false,
+      "excluded": true
+    },
+    "21b9319b48be": {
+      "first_seen_at": "2026-10-14T21:19:02.628892+00:00",
+      "last_seen_at": "2026-10-14T21:19:02.628892+00:00",
+      "title": "Software Engineer 4 (C++, Linux)",
+      "url": "https://careers.nutanix.com/en/jobs/32828/software-engineer-4-cplusplus-linux/",
+      "location": "Vancouver, Canada",
+      "active": true,
       "excluded": true
     }
   }

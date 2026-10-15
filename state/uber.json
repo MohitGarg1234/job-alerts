@@ -65,7 +65,7 @@
     },
     "07966762a73d": {
       "first_seen_at": "2026-09-10T03:16:06.558441+00:00",
-      "last_seen_at": "2026-10-14T21:19:02.628892+00:00",
+      "last_seen_at": "2026-10-15T03:22:46.249755+00:00",
       "title": "Sr Software Engineer - Engineer",
       "url": "https://jobs.uber.com/en/jobs/302684/",
       "location": "",
@@ -366,7 +366,7 @@
       "title": "Sr Software Engineer - Location & Sensors",
       "url": "https://jobs.uber.com/en/jobs/302686/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8ad647997859": {
@@ -374,6 +374,24 @@
       "last_seen_at": "2026-10-14T21:19:02.628892+00:00",
       "title": "Sr Software Engineer -Geocore",
       "url": "https://jobs.uber.com/en/jobs/303599/",
+      "location": "",
+      "active": false,
+      "excluded": true
+    },
+    "46129a5f8ecb": {
+      "first_seen_at": "2026-10-15T03:22:46.249755+00:00",
+      "last_seen_at": "2026-10-15T03:22:46.249755+00:00",
+      "title": "Sr Software Engineer- iOS, Experimentation",
+      "url": "https://jobs.uber.com/en/jobs/302535/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "69ed9eeb5951": {
+      "first_seen_at": "2026-10-15T03:22:46.249755+00:00",
+      "last_seen_at": "2026-10-15T03:22:46.249755+00:00",
+      "title": "Sr Software Engineer - Experimentation",
+      "url": "https://jobs.uber.com/en/jobs/302536/",
       "location": "",
       "active": true,
       "excluded": true

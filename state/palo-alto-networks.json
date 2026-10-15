@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-14T21:19:02.628892+00:00",
+      "last_seen_at": "2026-10-15T03:22:46.249755+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -969,7 +969,7 @@
       "title": "Software Engineer \u2013 Graduate Program (Bootcamp)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/software-engineer-graduate-program-bootcamp/47263/101948148512",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "f3df219f9353": {
@@ -978,7 +978,7 @@
       "title": "Principal Engineer Software - Front End (Prisma AIRS)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-engineer-software-front-end-prisma-airs/47263/101956313840",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

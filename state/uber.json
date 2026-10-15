@@ -56,11 +56,11 @@
     },
     "e66b2ada0506": {
       "first_seen_at": "2026-09-10T03:16:06.558441+00:00",
-      "last_seen_at": "2026-10-12T14:31:38.013827+00:00",
+      "last_seen_at": "2026-10-15T20:58:18.479653+00:00",
       "title": "Software Engineer II - Engineer",
-      "url": "https://jobs.uber.com/en/jobs/303371/",
+      "url": "https://jobs.uber.com/en/jobs/303602/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "07966762a73d": {
@@ -74,11 +74,11 @@
     },
     "0aea82e61402": {
       "first_seen_at": "2026-09-10T20:28:32.069589+00:00",
-      "last_seen_at": "2026-10-07T04:30:37.447380+00:00",
+      "last_seen_at": "2026-10-15T20:58:18.479653+00:00",
       "title": "Staff Software Engineer",
-      "url": "https://jobs.uber.com/en/jobs/302953/",
+      "url": "https://jobs.uber.com/en/jobs/302952/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "66e12bdbdfd7": {
@@ -398,7 +398,7 @@
     },
     "be66bbd63f0b": {
       "first_seen_at": "2026-10-15T16:22:55.088168+00:00",
-      "last_seen_at": "2026-10-15T16:22:55.088168+00:00",
+      "last_seen_at": "2026-10-15T20:58:18.479653+00:00",
       "title": "Senior Software Engineer - Storage Platform",
       "url": "https://jobs.uber.com/en/jobs/303326/",
       "location": "",

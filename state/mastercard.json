@@ -2,29 +2,29 @@
   "jobs": {
     "a44a69df98c0": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-11T21:32:15.720026+00:00",
+      "last_seen_at": "2026-10-16T03:18:31.790371+00:00",
       "title": "Senior Software Engineer",
-      "url": "https://careers.mastercard.com/us/en/job/R-275650/Senior-Software-Engineer",
+      "url": "https://careers.mastercard.com/us/en/job/R-211833/Senior-Software-Engineer",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "4fb3fd8ce186": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-10T04:30:21.283990+00:00",
+      "last_seen_at": "2026-10-16T03:18:31.790371+00:00",
       "title": "Lead Software Engineer",
       "url": "https://careers.mastercard.com/us/en/job/R-207875/Lead-Software-Engineer",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "e3c3fbb8414b": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-10T04:30:21.283990+00:00",
+      "last_seen_at": "2026-10-16T03:18:31.790371+00:00",
       "title": "Software Engineer II",
       "url": "https://careers.mastercard.com/us/en/job/R-211834/Software-Engineer-II",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "2a6d1e6bad14": {
@@ -78,7 +78,7 @@
       "title": "Manager, Industry Standards, Blockchain and Digital Assets",
       "url": "https://careers.mastercard.com/us/en/job/R-286492/Manager-Industry-Standards-Blockchain-and-Digital-Assets",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

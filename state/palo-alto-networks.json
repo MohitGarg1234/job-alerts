@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-16T03:18:31.790371+00:00",
+      "last_seen_at": "2026-10-16T10:47:09.207931+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1028,7 +1028,7 @@
     },
     "aeb57cdbdaf4": {
       "first_seen_at": "2026-10-16T03:18:31.790371+00:00",
-      "last_seen_at": "2026-10-16T03:18:31.790371+00:00",
+      "last_seen_at": "2026-10-16T10:47:09.207931+00:00",
       "title": "Principal Software Engineer (AI Posture))",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-ai-posture/47263/97757360016",
       "location": "Santa Clara, California, United States of America",
@@ -1041,6 +1041,15 @@
       "title": "Principal Software Engineer - SIA (Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/principal-software-engineer-sia-idira/47263/102007123872",
       "location": "Petach Tikva, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "74357337c61f": {
+      "first_seen_at": "2026-10-16T10:47:09.207931+00:00",
+      "last_seen_at": "2026-10-16T10:47:09.207931+00:00",
+      "title": "Principal Consultant, DFIR, Reactive Services (Unit 42) \u2013 LATAM",
+      "url": "https://jobs.paloaltonetworks.com/en/job/mexico-city/principal-consultant-dfir-reactive-services-unit-42-latam/47263/99031026304",
+      "location": "Mexico City, Aguascalientes, Mexico",
       "active": true,
       "excluded": true
     }

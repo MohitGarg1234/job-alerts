@@ -29,11 +29,11 @@
     },
     "d13316e0f729": {
       "first_seen_at": "2026-09-05T03:52:31.997881+00:00",
-      "last_seen_at": "2026-10-15T20:58:18.479653+00:00",
+      "last_seen_at": "2026-10-18T15:25:58.355132+00:00",
       "title": "Sr. Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-network-security-panos/47263/97934254720",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "9edfb9d417c7": {
@@ -159,7 +159,7 @@
       "title": "Sr Software Engineer -Email Security (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-software-engineer-email-security-cortex/47263/96813312368",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "18fa21f5a9cc": {
@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-18T10:28:13.100156+00:00",
+      "last_seen_at": "2026-10-18T15:25:58.355132+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1077,7 +1077,7 @@
       "title": "Sr Software Engineer -Email Security (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-software-engineer-email-security-cortex/47263/96813312368",
       "location": "Tel Aviv, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

@@ -155,11 +155,11 @@
     },
     "2707efbe7ddf": {
       "first_seen_at": "2026-09-10T15:53:49.628520+00:00",
-      "last_seen_at": "2026-09-22T16:21:19.047735+00:00",
+      "last_seen_at": "2026-10-18T10:28:13.100156+00:00",
       "title": "Sr Software Engineer -Email Security (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-software-engineer-email-security-cortex/47263/96813312368",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "18fa21f5a9cc": {
@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-18T03:11:32.407874+00:00",
+      "last_seen_at": "2026-10-18T10:28:13.100156+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1069,6 +1069,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-prisma-access/47263/96174873280",
       "location": "Santa Clara, California, United States of America",
       "active": false,
+      "excluded": true
+    },
+    "1256192cc000": {
+      "first_seen_at": "2026-10-18T10:28:13.100156+00:00",
+      "last_seen_at": "2026-10-18T10:28:13.100156+00:00",
+      "title": "Sr Software Engineer -Email Security (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-software-engineer-email-security-cortex/47263/96813312368",
+      "location": "Tel Aviv, Israel",
+      "active": true,
       "excluded": true
     }
   }

@@ -222,7 +222,7 @@
       "title": "Sr Manager, Software Engineering - Logging (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-manager-software-engineering-logging-chronosphere/47263/99799498928",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "50ba8a5804d2": {
@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-19T12:14:54.054141+00:00",
+      "last_seen_at": "2026-10-19T22:01:46.307741+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -951,7 +951,7 @@
       "title": "Staff IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-it-software-engineer/47263/102133647648",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "98daba38842a": {
@@ -1086,7 +1086,7 @@
       "title": "Staff/ Senior Software Engineer- Collection Team (Cortex Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/staff-senior-software-engineer-collection-team-cortex-platform/47263/102126517056",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "687c546fcee1": {
@@ -1095,7 +1095,7 @@
       "title": "Senior Software Engineer - Data Pipelines (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-software-engineer-data-pipelines-cortex/47263/102126513168",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "88d90c77645b": {
@@ -1131,7 +1131,7 @@
       "title": "Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/software-engineer/47263/102150451232",
       "location": "Sofia, Bulgaria",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "71497db57744": {
@@ -1140,6 +1140,24 @@
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/principal-software-engineer/47263/97907025248",
       "location": "500081, India",
+      "active": false,
+      "excluded": true
+    },
+    "6503e8d741da": {
+      "first_seen_at": "2026-10-19T22:01:46.307741+00:00",
+      "last_seen_at": "2026-10-19T22:01:46.307741+00:00",
+      "title": "Sr Staff Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer/47263/99699014768",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "0541f92a4950": {
+      "first_seen_at": "2026-10-19T22:01:46.307741+00:00",
+      "last_seen_at": "2026-10-19T22:01:46.307741+00:00",
+      "title": "Senior Principal Software Engineer (Foundational Platform)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/senior-principal-software-engineer-foundational-platform/47263/101274835216",
+      "location": "San Jose, California, United States of America",
       "active": true,
       "excluded": true
     }

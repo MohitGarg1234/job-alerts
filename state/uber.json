@@ -60,7 +60,7 @@
       "title": "Software Engineer II - Engineer",
       "url": "https://jobs.uber.com/en/jobs/302533/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "07966762a73d": {
@@ -164,7 +164,7 @@
     },
     "da81ea674611": {
       "first_seen_at": "2026-09-17T03:36:43.800126+00:00",
-      "last_seen_at": "2026-10-18T20:09:11.540121+00:00",
+      "last_seen_at": "2026-10-19T03:25:28.825401+00:00",
       "title": "Sr Software Engineer - Eater Real Time Pricing",
       "url": "https://jobs.uber.com/en/jobs/302443/",
       "location": "",
@@ -412,6 +412,15 @@
       "url": "https://jobs.uber.com/en/jobs/303492/",
       "location": "",
       "active": false,
+      "excluded": true
+    },
+    "407567f15e45": {
+      "first_seen_at": "2026-10-19T03:25:28.825401+00:00",
+      "last_seen_at": "2026-10-19T03:25:28.825401+00:00",
+      "title": "Software Engineer II - Frontend",
+      "url": "https://jobs.uber.com/en/jobs/153338/",
+      "location": "",
+      "active": true,
       "excluded": true
     }
   }

@@ -11,11 +11,11 @@
     },
     "4fb3fd8ce186": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-17T03:09:01.325782+00:00",
+      "last_seen_at": "2026-10-19T03:25:28.825401+00:00",
       "title": "Lead Software Engineer",
-      "url": "https://careers.mastercard.com/us/en/job/R-207875/Lead-Software-Engineer",
+      "url": "https://careers.mastercard.com/us/en/job/R-290277/Lead-Software-Engineer",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "e3c3fbb8414b": {
@@ -79,6 +79,15 @@
       "url": "https://careers.mastercard.com/us/en/job/R-286492/Manager-Industry-Standards-Blockchain-and-Digital-Assets",
       "location": "",
       "active": false,
+      "excluded": true
+    },
+    "fe56476e07ea": {
+      "first_seen_at": "2026-10-19T03:25:28.825401+00:00",
+      "last_seen_at": "2026-10-19T03:25:28.825401+00:00",
+      "title": "Director, Services Business Development (Innovation & Digital Assets)",
+      "url": "https://careers.mastercard.com/us/en/job/R-291768/Director-Services-Business-Development-Innovation-Digital-Assets",
+      "location": "",
+      "active": true,
       "excluded": true
     }
   }

@@ -218,11 +218,11 @@
     },
     "8438588603fd": {
       "first_seen_at": "2026-09-14T17:46:31.257487+00:00",
-      "last_seen_at": "2026-10-09T12:38:27.173715+00:00",
+      "last_seen_at": "2026-10-19T12:14:54.054141+00:00",
       "title": "Sr Manager, Software Engineering - Logging (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-manager-software-engineering-logging-chronosphere/47263/99799498928",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "50ba8a5804d2": {
@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-19T03:25:28.825401+00:00",
+      "last_seen_at": "2026-10-19T12:14:54.054141+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -947,7 +947,7 @@
     },
     "062431d5ea65": {
       "first_seen_at": "2026-10-13T13:38:16.240181+00:00",
-      "last_seen_at": "2026-10-19T03:25:28.825401+00:00",
+      "last_seen_at": "2026-10-19T12:14:54.054141+00:00",
       "title": "Staff IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-it-software-engineer/47263/102133647648",
       "location": "Bangalore, Karn\u0101taka, India",
@@ -1082,7 +1082,7 @@
     },
     "ceb7bc5ec850": {
       "first_seen_at": "2026-10-18T20:09:11.540121+00:00",
-      "last_seen_at": "2026-10-19T03:25:28.825401+00:00",
+      "last_seen_at": "2026-10-19T12:14:54.054141+00:00",
       "title": "Staff/ Senior Software Engineer- Collection Team (Cortex Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/staff-senior-software-engineer-collection-team-cortex-platform/47263/102126517056",
       "location": "Tel Aviv-Yafo, Israel",
@@ -1091,7 +1091,7 @@
     },
     "687c546fcee1": {
       "first_seen_at": "2026-10-18T20:09:11.540121+00:00",
-      "last_seen_at": "2026-10-19T03:25:28.825401+00:00",
+      "last_seen_at": "2026-10-19T12:14:54.054141+00:00",
       "title": "Senior Software Engineer - Data Pipelines (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-software-engineer-data-pipelines-cortex/47263/102126513168",
       "location": "Tel Aviv-Yafo, Israel",
@@ -1104,7 +1104,7 @@
       "title": "Staff IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-it-software-engineer/47263/102133647648",
       "location": "Bengaluru, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "f54c89e52a58": {
@@ -1113,7 +1113,7 @@
       "title": "Staff/ Senior Software Engineer- Collection Team (Cortex Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/staff-senior-software-engineer-collection-team-cortex-platform/47263/102126517056",
       "location": "Tel Aviv, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "c488786032c4": {
@@ -1122,6 +1122,24 @@
       "title": "Senior Software Engineer - Data Pipelines (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-software-engineer-data-pipelines-cortex/47263/102126513168",
       "location": "Tel Aviv, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "6fd59adb928c": {
+      "first_seen_at": "2026-10-19T12:14:54.054141+00:00",
+      "last_seen_at": "2026-10-19T12:14:54.054141+00:00",
+      "title": "Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/software-engineer/47263/102150451232",
+      "location": "Sofia, Bulgaria",
+      "active": true,
+      "excluded": true
+    },
+    "71497db57744": {
+      "first_seen_at": "2026-10-19T12:14:54.054141+00:00",
+      "last_seen_at": "2026-10-19T12:14:54.054141+00:00",
+      "title": "Principal Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/principal-software-engineer/47263/97907025248",
+      "location": "500081, India",
       "active": true,
       "excluded": true
     }

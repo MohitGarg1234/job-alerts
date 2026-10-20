@@ -2,20 +2,20 @@
   "jobs": {
     "a44a69df98c0": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
       "title": "SENIOR SOFTWARE ENGINEER",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS3FDBCFF9EC0F4AFFB7FFDC48955DD6CBEXTERNALENUS07D2AC9943B042C0849F9EAB3F437B4D/Senior-Software-Engineer",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "2df5a96dffeb": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
       "title": "Principal Software Engineer",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS5A5111B0ED7346B98BE408B3C8A6AE64EXTERNALENUSEF4A5F8B76C54B98A52A6E65AEF426BA/Principal-Software-Engineer",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "89d0ad0e5a6f": {
@@ -29,11 +29,11 @@
     },
     "f84b4cae4ae4": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
       "title": "Software Engineer - Backend",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "b4b14cc0d530": {
@@ -47,11 +47,11 @@
     },
     "89fd8b1ed7ad": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
       "title": "Software Engineer - SnowCommand",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS3491AE4916094DCCBE3AE22D2300A6B7EXTERNALENUS49AA16EBC4294E809B80BD5C6CD12721/Software-Engineer-SnowCommand",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "90da015081c2": {
@@ -65,11 +65,11 @@
     },
     "1fdbdb7b0358": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
       "title": "Software Engineer, Applied AI",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS7EFCFE1247594E518A308EA79EAB418EEXTERNALENUS6E31E0CB78214DCF9D690AFCE918BCC4/Software-Engineer-Applied-AI",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "e2a1c0613713": {
@@ -92,20 +92,20 @@
     },
     "02479540fa11": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
       "title": "Principal Software Engineer",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS5A5111B0ED7346B98BE408B3C8A6AE64EXTERNALENUSEF4A5F8B76C54B98A52A6E65AEF426BA/Principal-Software-Engineer",
       "location": "Menlo Park, California, United States",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "a8a4204d892f": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
       "title": "Software Engineer - Backend",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
       "location": "Menlo Park, California, United States",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "116ac22beb22": {
@@ -119,11 +119,11 @@
     },
     "9dd52d81e79c": {
       "first_seen_at": "2026-09-11T10:40:50.962030+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
       "title": "Software Engineer",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS5A5EF802A29F443CB01645A538089A79EXTERNALENUSD576A5A4140945FAB710DB8D52041551/Software-Engineer",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "c1cfbf61d670": {
@@ -155,20 +155,20 @@
     },
     "8e4930792a09": {
       "first_seen_at": "2026-09-26T03:43:01.151386+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
       "title": "Software Engineer - Postgres",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUSF7DE0ACE454B4992AEE8D2DB1B232226EXTERNALENUS6E96B818235046018BDD7DDD6C4A5F6D/Software-Engineer-Postgres",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "d9333265b55d": {
       "first_seen_at": "2026-09-26T03:43:01.151386+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
       "title": "Software Engineer - Postgres",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUSF7DE0ACE454B4992AEE8D2DB1B232226EXTERNALENUS6E96B818235046018BDD7DDD6C4A5F6D/Software-Engineer-Postgres",
       "location": "Menlo Park, California, United States",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "f6340a3836c6": {
@@ -182,20 +182,20 @@
     },
     "0aea82e61402": {
       "first_seen_at": "2026-09-30T22:01:32.555216+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
       "title": "Staff Software Engineer",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS3B9B144F703C465BA4FE4FFEDD6818D3EXTERNALENUSB59A856F21324C4E957BD51304BC4631/Staff-Software-Engineer",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "c407e7e8fbd3": {
       "first_seen_at": "2026-09-30T22:01:32.555216+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
       "title": "Staff Software Engineer",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS3B9B144F703C465BA4FE4FFEDD6818D3EXTERNALENUSB59A856F21324C4E957BD51304BC4631/Staff-Software-Engineer",
       "location": "Menlo Park, California, United States",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "61dbd4d20d0a": {
@@ -209,11 +209,11 @@
     },
     "ba706b50aa3f": {
       "first_seen_at": "2026-10-13T13:38:16.240181+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
       "title": "AI Software Engineer",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS4E4C54D4881D4ABF9F81B5B4E2C1E433EXTERNALENUS628F36E085544D5F8D5EA017A761CA54/AI-Software-Engineer",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "fcedbebcf48e": {
@@ -222,7 +222,7 @@
       "title": "Software Engineer  5a5ef802-a29f-443c-b016-45a538089a79",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS5A5EF802A29F443CB01645A538089A79EXTERNALENUSD576A5A4140945FAB710DB8D52041551/Software-Engineer",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "1ba4a2758124": {
@@ -231,7 +231,7 @@
       "title": "Staff Software Engineer  3b9b144f-703c-465b-a4fe-4ffedd6818d3",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS3B9B144F703C465BA4FE4FFEDD6818D3EXTERNALENUSB59A856F21324C4E957BD51304BC4631/Staff-Software-Engineer",
       "location": "Menlo Park, California, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "c887899c2ff1": {
@@ -240,7 +240,7 @@
       "title": "SENIOR SOFTWARE ENGINEER  93d02050-4fe8-4e74-b441-57d59d6fca3d",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS93D020504FE84E74B44157D59D6FCA3DEXTERNALENUSC03ACC32F60B40DE9838E954D3F419B9/SENIOR-SOFTWARE-ENGINEER",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "6b71c3b70c89": {
@@ -249,7 +249,7 @@
       "title": "Principal Software Engineer   5a5111b0-ed73-46b9-8be4-08b3c8a6ae64",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS5A5111B0ED7346B98BE408B3C8A6AE64EXTERNALENUSEF4A5F8B76C54B98A52A6E65AEF426BA/Principal-Software-Engineer",
       "location": "Menlo Park, California, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "adbee2c66046": {
@@ -258,7 +258,7 @@
       "title": "Senior Software Engineer  3fdbcff9-ec0f-4aff-b7ff-dc48955dd6cb",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS3FDBCFF9EC0F4AFFB7FFDC48955DD6CBEXTERNALENUS07D2AC9943B042C0849F9EAB3F437B4D/Senior-Software-Engineer",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "4d93804577b9": {
@@ -267,7 +267,7 @@
       "title": "AI Software Engineer  4e4c54d4-881d-4abf-9f81-b5b4e2c1e433",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS4E4C54D4881D4ABF9F81B5B4E2C1E433EXTERNALENUS628F36E085544D5F8D5EA017A761CA54/AI-Software-Engineer",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "2bc24cb53255": {
@@ -276,7 +276,7 @@
       "title": "Software Engineer - Backend  dd524b93-2e4e-4e3b-84b4-4684a46e9148",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUSDD524B932E4E4E3B84B44684A46E9148EXTERNALENUS3EB872AF0AB149868F72E7321FCD1538/Software-Engineer-Backend",
       "location": "Menlo Park, California, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "80a14c883225": {
@@ -285,7 +285,7 @@
       "title": "Software Engineer, Applied AI  7efcfe12-4759-4e51-8a30-8ea79eab418e",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS7EFCFE1247594E518A308EA79EAB418EEXTERNALENUS6E31E0CB78214DCF9D690AFCE918BCC4/Software-Engineer-Applied-AI",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "2d85ea7f174e": {
@@ -294,7 +294,7 @@
       "title": "Software Engineer - SnowCommand  3491ae49-1609-4dcc-be3a-e22d2300a6b7",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS3491AE4916094DCCBE3AE22D2300A6B7EXTERNALENUS49AA16EBC4294E809B80BD5C6CD12721/Software-Engineer-SnowCommand",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "7d0b1aa6dfd9": {
@@ -303,7 +303,7 @@
       "title": "Software Engineer - Postgres  f7de0ace-454b-4992-aee8-d2db1b232226",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUSF7DE0ACE454B4992AEE8D2DB1B232226EXTERNALENUS6E96B818235046018BDD7DDD6C4A5F6D/Software-Engineer-Postgres",
       "location": "Menlo Park, California, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-20T10:58:35.767838+00:00",
+      "last_seen_at": "2026-10-20T16:24:27.608392+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1168,6 +1168,42 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer/47263/102182122176",
       "location": "Santa Clara, California, United States of America",
       "active": false,
+      "excluded": true
+    },
+    "388d9d8a39b7": {
+      "first_seen_at": "2026-10-20T16:24:27.608392+00:00",
+      "last_seen_at": "2026-10-20T16:24:27.608392+00:00",
+      "title": "Senior Software Engineer - Secure AI Agent (Hybrid)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-secure-ai-agent-hybrid/47263/102203580976",
+      "location": "Sofia, Bulgaria",
+      "active": true,
+      "excluded": true
+    },
+    "ff6663d7a819": {
+      "first_seen_at": "2026-10-20T16:24:27.608392+00:00",
+      "last_seen_at": "2026-10-20T16:24:27.608392+00:00",
+      "title": "Sr. Staff Engineer Software, Full Stack - NetSec - Bangalore",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/sr-staff-engineer-software-full-stack-netsec-bangalore/47263/100419673168",
+      "location": "Bangalore, Karn\u0101taka, India",
+      "active": true,
+      "excluded": true
+    },
+    "13cf8589ecda": {
+      "first_seen_at": "2026-10-20T16:24:27.608392+00:00",
+      "last_seen_at": "2026-10-20T16:24:27.608392+00:00",
+      "title": "C++ Senior Software Engineer, Team SIA (Hybrid)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/c-senior-software-engineer-team-sia-hybrid/47263/96618800336",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "7fbdf44395bc": {
+      "first_seen_at": "2026-10-20T16:24:27.608392+00:00",
+      "last_seen_at": "2026-10-20T16:24:27.608392+00:00",
+      "title": "Manager, Software Engineering",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/manager-software-engineering/47263/96768474032",
+      "location": "500081, India",
+      "active": true,
       "excluded": true
     }
   }

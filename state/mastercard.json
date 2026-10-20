@@ -2,11 +2,11 @@
   "jobs": {
     "a44a69df98c0": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-17T03:09:01.325782+00:00",
+      "last_seen_at": "2026-10-20T03:34:40.892741+00:00",
       "title": "Senior Software Engineer",
-      "url": "https://careers.mastercard.com/us/en/job/R-211833/Senior-Software-Engineer",
+      "url": "https://careers.mastercard.com/us/en/job/R-280457/Senior-Software-Engineer",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "4fb3fd8ce186": {
@@ -15,7 +15,7 @@
       "title": "Lead Software Engineer",
       "url": "https://careers.mastercard.com/us/en/job/R-290277/Lead-Software-Engineer",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "e3c3fbb8414b": {
@@ -87,7 +87,7 @@
       "title": "Director, Services Business Development (Innovation & Digital Assets)",
       "url": "https://careers.mastercard.com/us/en/job/R-291768/Director-Services-Business-Development-Innovation-Digital-Assets",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

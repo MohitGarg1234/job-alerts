@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-19T22:01:46.307741+00:00",
+      "last_seen_at": "2026-10-20T03:34:40.892741+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1145,7 +1145,7 @@
     },
     "6503e8d741da": {
       "first_seen_at": "2026-10-19T22:01:46.307741+00:00",
-      "last_seen_at": "2026-10-19T22:01:46.307741+00:00",
+      "last_seen_at": "2026-10-20T03:34:40.892741+00:00",
       "title": "Sr Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer/47263/99699014768",
       "location": "Santa Clara, California, United States of America",
@@ -1158,6 +1158,15 @@
       "title": "Senior Principal Software Engineer (Foundational Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/senior-principal-software-engineer-foundational-platform/47263/101274835216",
       "location": "San Jose, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "2fbcf343e005": {
+      "first_seen_at": "2026-10-20T03:34:40.892741+00:00",
+      "last_seen_at": "2026-10-20T03:34:40.892741+00:00",
+      "title": "Sr. Staff Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer/47263/102182122176",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }

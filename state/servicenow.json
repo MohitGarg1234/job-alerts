@@ -2175,7 +2175,7 @@
       "title": "Staff Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000155718559",
       "location": "Hyderabad, Telangana",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000155745445": {
@@ -2184,7 +2184,7 @@
       "title": "Staff Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000155745445",
       "location": "Dublin",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000155745274": {
@@ -2193,7 +2193,7 @@
       "title": "Staff Software Engineer - Product Security",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000155745274",
       "location": "Petah Tikva",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000155815919": {
@@ -2207,7 +2207,7 @@
     },
     "744000156067819": {
       "first_seen_at": "2026-10-16T20:33:09.665203+00:00",
-      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
       "title": "Sr Staff Software Engineer- Access Security - Veza",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000156067819",
       "location": "Minneapolis, Minnesota",
@@ -2234,7 +2234,7 @@
     },
     "744000156093019": {
       "first_seen_at": "2026-10-17T03:09:01.325782+00:00",
-      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
       "title": "Principal Software Engineer - Veza",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000156093019",
       "location": "San Diego, CALIFORNIA",
@@ -2252,7 +2252,7 @@
     },
     "744000156092859": {
       "first_seen_at": "2026-10-17T03:09:01.325782+00:00",
-      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
       "title": "Sr Software Engineering Manager - Veza",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000156092859",
       "location": "Santa Clara, CALIFORNIA",
@@ -2261,7 +2261,7 @@
     },
     "744000156092779": {
       "first_seen_at": "2026-10-17T03:09:01.325782+00:00",
-      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
       "title": " Staff Data Platform Software Engineer - veza",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000156092779",
       "location": "Santa Clara, CALIFORNIA",
@@ -2270,7 +2270,7 @@
     },
     "744000156092609": {
       "first_seen_at": "2026-10-17T03:09:01.325782+00:00",
-      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
       "title": "Sr Software Engineer - Veza",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000156092609",
       "location": "Radomlje, SLOVENIA",
@@ -2279,7 +2279,7 @@
     },
     "744000156084129": {
       "first_seen_at": "2026-10-17T03:09:01.325782+00:00",
-      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
       "title": "Staff Software Engineer, Platform Cryptography\u00a0",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000156084129",
       "location": "Santa Clara, CALIFORNIA",
@@ -2288,9 +2288,81 @@
     },
     "744000156619374": {
       "first_seen_at": "2026-10-20T21:17:48.723978+00:00",
-      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
       "title": "Software Engineer - Federal",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000156619374",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000156660857": {
+      "first_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "title": "Sr Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000156660857",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000156659319": {
+      "first_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "title": "Senior Database Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000156659319",
+      "location": "Santa Clara, California",
+      "active": true,
+      "excluded": true
+    },
+    "744000156441790": {
+      "first_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "title": "Senior Staff AI-Native Software Engineer \u2013 Agentic Systems",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000156441790",
+      "location": "San Francisco, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000156440592": {
+      "first_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "title": "Principal Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000156440592",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000156437099": {
+      "first_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000156437099",
+      "location": "San Diego, California",
+      "active": true,
+      "excluded": true
+    },
+    "744000156429589": {
+      "first_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "title": "Staff Software Engineer, Agent Identity Security ",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000156429589",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000156427199": {
+      "first_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "title": "Sr Software Engineer - Agent Identity Security - Veza",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000156427199",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000156390118": {
+      "first_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "title": "Senior Staff Software Engineer, Integrations (Tech Lead) \u2014 Veza",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000156390118",
       "location": "Santa Clara, CALIFORNIA",
       "active": true,
       "excluded": true

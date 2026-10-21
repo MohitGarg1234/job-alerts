@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1208,7 +1208,7 @@
     },
     "77b98d89833b": {
       "first_seen_at": "2026-10-20T21:17:48.723978+00:00",
-      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
       "title": "Senior Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer/47263/102211903280",
       "location": "Santa Clara, California, United States of America",
@@ -1217,7 +1217,7 @@
     },
     "de400ecba977": {
       "first_seen_at": "2026-10-20T21:17:48.723978+00:00",
-      "last_seen_at": "2026-10-20T21:17:48.723978+00:00",
+      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
       "title": "Principal Software Engineer - Secure AI Agent (Hybrid)",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-secure-ai-agent-hybrid/47263/102211903248",
       "location": "Sofia, Bulgaria",
@@ -1230,7 +1230,7 @@
       "title": "Senior Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer/47263/102211903280",
       "location": "Santa Clara, California, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

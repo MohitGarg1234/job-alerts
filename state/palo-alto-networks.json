@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-21T11:14:15.542895+00:00",
+      "last_seen_at": "2026-10-21T16:40:40.390398+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1235,7 +1235,7 @@
     },
     "31a40dd636a1": {
       "first_seen_at": "2026-10-21T11:14:15.542895+00:00",
-      "last_seen_at": "2026-10-21T11:14:15.542895+00:00",
+      "last_seen_at": "2026-10-21T16:40:40.390398+00:00",
       "title": "Principal/Senior Software Engineer (CIEM)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-software-engineer-ciem/47263/102236193728",
       "location": "Tel Aviv-Yafo, Israel",
@@ -1248,6 +1248,24 @@
       "title": "Sr. Technical Product Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/singapore/sr-technical-product-engineer/47263/102236189008",
       "location": "Singapore, Central Singapore, Singapore",
+      "active": false,
+      "excluded": true
+    },
+    "b3babbafeae8": {
+      "first_seen_at": "2026-10-21T16:40:40.390398+00:00",
+      "last_seen_at": "2026-10-21T16:40:40.390398+00:00",
+      "title": "Manager, Software Engineering - AI Observability (Chronosphere)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/victoria/manager-software-engineering-ai-observability-chronosphere/47263/102245669264",
+      "location": "Victoria, Victoria, Australia",
+      "active": true,
+      "excluded": true
+    },
+    "6b0da7242428": {
+      "first_seen_at": "2026-10-21T16:40:40.390398+00:00",
+      "last_seen_at": "2026-10-21T16:40:40.390398+00:00",
+      "title": "Manager, Software Engineering - AI Observability (Chronosphere)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/victoria/manager-software-engineering-ai-observability-chronosphere/47263/102245669264",
+      "location": "Australia",
       "active": true,
       "excluded": true
     }

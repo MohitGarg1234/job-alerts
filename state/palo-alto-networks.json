@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "last_seen_at": "2026-10-21T11:14:15.542895+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1212,7 +1212,7 @@
       "title": "Senior Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer/47263/102211903280",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "de400ecba977": {
@@ -1221,7 +1221,7 @@
       "title": "Principal Software Engineer - Secure AI Agent (Hybrid)",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-secure-ai-agent-hybrid/47263/102211903248",
       "location": "Sofia, Bulgaria",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "5a1d64721b16": {
@@ -1231,6 +1231,24 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer/47263/102211903280",
       "location": "Santa Clara, California, United States",
       "active": false,
+      "excluded": true
+    },
+    "31a40dd636a1": {
+      "first_seen_at": "2026-10-21T11:14:15.542895+00:00",
+      "last_seen_at": "2026-10-21T11:14:15.542895+00:00",
+      "title": "Principal/Senior Software Engineer (CIEM)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-software-engineer-ciem/47263/102236193728",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "cc18952e302b": {
+      "first_seen_at": "2026-10-21T11:14:15.542895+00:00",
+      "last_seen_at": "2026-10-21T11:14:15.542895+00:00",
+      "title": "Sr. Technical Product Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/singapore/sr-technical-product-engineer/47263/102236189008",
+      "location": "Singapore, Central Singapore, Singapore",
+      "active": true,
       "excluded": true
     }
   }

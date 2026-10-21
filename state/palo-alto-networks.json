@@ -623,11 +623,11 @@
     },
     "162b250ae4f7": {
       "first_seen_at": "2026-09-25T03:37:34.617583+00:00",
-      "last_seen_at": "2026-09-25T03:37:34.617583+00:00",
+      "last_seen_at": "2026-10-21T21:17:32.054221+00:00",
       "title": "Principal UI Engineer, Platform (Cortex)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-ui-engineer-platform-cortex/47263/101099071024",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-ui-engineer-platform-cortex/47263/102254393648",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "645b623a7f9d": {
@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-21T16:40:40.390398+00:00",
+      "last_seen_at": "2026-10-21T21:17:32.054221+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1239,7 +1239,7 @@
       "title": "Principal/Senior Software Engineer (CIEM)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-software-engineer-ciem/47263/102236193728",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "cc18952e302b": {
@@ -1257,7 +1257,7 @@
       "title": "Manager, Software Engineering - AI Observability (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/victoria/manager-software-engineering-ai-observability-chronosphere/47263/102245669264",
       "location": "Victoria, Victoria, Australia",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "6b0da7242428": {
@@ -1266,7 +1266,7 @@
       "title": "Manager, Software Engineering - AI Observability (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/victoria/manager-software-engineering-ai-observability-chronosphere/47263/102245669264",
       "location": "Australia",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

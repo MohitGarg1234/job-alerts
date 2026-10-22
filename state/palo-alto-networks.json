@@ -105,7 +105,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100905884384",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-22T16:41:36.813378+00:00",
+      "last_seen_at": "2026-10-22T21:13:57.819383+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1267,6 +1267,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/victoria/manager-software-engineering-ai-observability-chronosphere/47263/102245669264",
       "location": "Australia",
       "active": false,
+      "excluded": true
+    },
+    "7c04f1446b4e": {
+      "first_seen_at": "2026-10-22T21:13:57.819383+00:00",
+      "last_seen_at": "2026-10-22T21:13:57.819383+00:00",
+      "title": "Web Development Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/web-development-engineer/47263/102296478560",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }

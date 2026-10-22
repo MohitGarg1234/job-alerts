@@ -290,11 +290,11 @@
     },
     "785a2fcb213f": {
       "first_seen_at": "2026-10-07T22:46:40.335971+00:00",
-      "last_seen_at": "2026-10-07T22:46:40.335971+00:00",
+      "last_seen_at": "2026-10-22T21:13:57.819383+00:00",
       "title": "Sr Software Engineer - Compute",
       "url": "https://jobs.uber.com/en/jobs/303198/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "f8354a266632": {
@@ -492,7 +492,7 @@
       "title": "Senior Software Engineer (Web Frontend) - Mobility Verticals",
       "url": "https://jobs.uber.com/en/jobs/303258/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

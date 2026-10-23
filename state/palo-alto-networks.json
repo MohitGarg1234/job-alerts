@@ -821,16 +821,16 @@
     },
     "846d19926843": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-07T04:30:37.447380+00:00",
+      "last_seen_at": "2026-10-23T11:14:25.506951+00:00",
       "title": "Senior IT Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-it-software-engineer/47263/96174866000",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-it-software-engineer/47263/102321720336",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-23T03:32:19.939764+00:00",
+      "last_seen_at": "2026-10-23T11:14:25.506951+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1275,17 +1275,26 @@
       "title": "Web Development Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/web-development-engineer/47263/102296478560",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "e37b9f382fd2": {
       "first_seen_at": "2026-10-23T03:32:19.939764+00:00",
-      "last_seen_at": "2026-10-23T03:32:19.939764+00:00",
+      "last_seen_at": "2026-10-23T11:14:25.506951+00:00",
       "title": "Principal Software Engineer (Prisma AIRS Data Platform Backend)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-prisma-airs-data-platform-backend/47263/102303934160",
       "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
+    },
+    "0aef57d98d19": {
+      "first_seen_at": "2026-10-23T11:14:25.506951+00:00",
+      "last_seen_at": "2026-10-23T11:14:25.506951+00:00",
+      "title": "IT Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/it-software-engineer/47263/102321720368",
+      "location": "Bangalore, Karn\u0101taka, India",
+      "active": true,
+      "excluded": false
     }
   }
 }

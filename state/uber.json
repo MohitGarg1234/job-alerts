@@ -294,7 +294,7 @@
       "title": "Sr Software Engineer - Compute",
       "url": "https://jobs.uber.com/en/jobs/303198/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "f8354a266632": {
@@ -494,6 +494,15 @@
       "location": "",
       "active": false,
       "excluded": true
+    },
+    "ef475c79557b": {
+      "first_seen_at": "2026-10-23T03:32:19.939764+00:00",
+      "last_seen_at": "2026-10-23T03:32:19.939764+00:00",
+      "title": "Software Engineer II, Merchant Intel 5",
+      "url": "https://jobs.uber.com/en/jobs/156028/",
+      "location": "",
+      "active": true,
+      "excluded": false
     }
   }
 }

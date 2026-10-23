@@ -569,11 +569,11 @@
     },
     "f6c37414e63e": {
       "first_seen_at": "2026-09-24T03:20:04.491037+00:00",
-      "last_seen_at": "2026-10-14T11:16:25.854624+00:00",
+      "last_seen_at": "2026-10-23T21:02:16.698688+00:00",
       "title": "Sr Staff Software Engineer (AI SW Integration - Prisma AIRS)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-ai-sw-integration-prisma-airs/47263/99508000064",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "5ba1c01227c8": {
@@ -825,12 +825,12 @@
       "title": "Senior IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-it-software-engineer/47263/102321720336",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-23T16:31:52.475643+00:00",
+      "last_seen_at": "2026-10-23T21:02:16.698688+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1293,7 +1293,7 @@
       "title": "IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/it-software-engineer/47263/102321720368",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "a7c4cbb7691d": {
@@ -1302,6 +1302,15 @@
       "title": "Senior Software Engineer, Team SIA (Hybrid)",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-team-sia-hybrid/47263/102331828512",
       "location": "Sofia, Bulgaria",
+      "active": false,
+      "excluded": true
+    },
+    "871788da30a0": {
+      "first_seen_at": "2026-10-23T21:02:16.698688+00:00",
+      "last_seen_at": "2026-10-23T21:02:16.698688+00:00",
+      "title": "Director, Software Engineer (Prisma Access)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/director-software-engineer-prisma-access/47263/102340816960",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }

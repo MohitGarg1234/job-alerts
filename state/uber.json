@@ -56,16 +56,16 @@
     },
     "e66b2ada0506": {
       "first_seen_at": "2026-09-10T03:16:06.558441+00:00",
-      "last_seen_at": "2026-10-18T20:09:11.540121+00:00",
+      "last_seen_at": "2026-10-24T03:26:44.017754+00:00",
       "title": "Software Engineer II - Engineer",
-      "url": "https://jobs.uber.com/en/jobs/302533/",
+      "url": "https://jobs.uber.com/en/jobs/301982/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "07966762a73d": {
       "first_seen_at": "2026-09-10T03:16:06.558441+00:00",
-      "last_seen_at": "2026-10-23T21:02:16.698688+00:00",
+      "last_seen_at": "2026-10-24T03:26:44.017754+00:00",
       "title": "Sr Software Engineer - Engineer",
       "url": "https://jobs.uber.com/en/jobs/302747/",
       "location": "",
@@ -101,7 +101,7 @@
     },
     "d076e51650ee": {
       "first_seen_at": "2026-09-15T20:54:18.681766+00:00",
-      "last_seen_at": "2026-10-23T21:02:16.698688+00:00",
+      "last_seen_at": "2026-10-24T03:26:44.017754+00:00",
       "title": "Sr Software Engineer - Delivery Matching",
       "url": "https://jobs.uber.com/en/jobs/302459/",
       "location": "",
@@ -263,11 +263,11 @@
     },
     "aabdbd0f0abb": {
       "first_seen_at": "2026-09-30T22:01:32.555216+00:00",
-      "last_seen_at": "2026-09-30T22:01:32.555216+00:00",
+      "last_seen_at": "2026-10-24T03:26:44.017754+00:00",
       "title": "Sr Software Engineer",
-      "url": "https://jobs.uber.com/en/jobs/159127/",
+      "url": "https://jobs.uber.com/en/jobs/303946/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "b28ea42dfb05": {
@@ -339,7 +339,7 @@
       "title": "Software Engineer II - Compute",
       "url": "https://jobs.uber.com/en/jobs/303284/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "f7aa9a25e6a5": {
@@ -348,7 +348,7 @@
       "title": "Staff Software Engineer - Search Platform",
       "url": "https://jobs.uber.com/en/jobs/303327/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "89c4f9374bcb": {
@@ -443,11 +443,11 @@
     },
     "e3c3fbb8414b": {
       "first_seen_at": "2026-10-21T03:27:58.946224+00:00",
-      "last_seen_at": "2026-10-21T03:27:58.946224+00:00",
+      "last_seen_at": "2026-10-24T03:26:44.017754+00:00",
       "title": "Software Engineer II",
-      "url": "https://jobs.uber.com/en/jobs/302534/",
+      "url": "https://jobs.uber.com/en/jobs/303783/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "1d85baeba5bd": {

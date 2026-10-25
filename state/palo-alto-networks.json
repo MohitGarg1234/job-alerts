@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-25T10:48:26.999150+00:00",
+      "last_seen_at": "2026-10-25T15:37:04.216632+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1320,6 +1320,24 @@
       "title": "Sr Principal Software Engineer (Cloud Applications - Data Path)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-cloud-applications-data-path/47263/98153267216",
       "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "7d592668f6a5": {
+      "first_seen_at": "2026-10-25T15:37:04.216632+00:00",
+      "last_seen_at": "2026-10-25T15:37:04.216632+00:00",
+      "title": "Sr Principal Architect Engineer Software (Privileged Cloud Digital Vault - Idira)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/sr-principal-architect-engineer-software-privileged-cloud-digital-vault-idira/47263/102422250736",
+      "location": "Petach Tikva, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "66e4bf216a08": {
+      "first_seen_at": "2026-10-25T15:37:04.216632+00:00",
+      "last_seen_at": "2026-10-25T15:37:04.216632+00:00",
+      "title": "Senior/Principal Software Engineer (AI transformation - QA)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-software-engineer-ai-transformation-qa/47263/101022371888",
+      "location": "Tel Aviv-Yafo, Israel",
       "active": true,
       "excluded": true
     }

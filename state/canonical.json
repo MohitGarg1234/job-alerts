@@ -6,7 +6,7 @@
       "title": "Ubuntu on Azure",
       "url": "https://ubuntu.com/azure",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "87f49310bb63": {
@@ -15,7 +15,7 @@
       "title": "Ubuntu Pro for Azure",
       "url": "https://ubuntu.com/azure/pro",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "747318813b05": {
@@ -24,7 +24,7 @@
       "title": "MongoDB",
       "url": "https://canonical.com/data/mongodb",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "7f9258b8c281": {
@@ -33,7 +33,7 @@
       "title": "PostgreSQL",
       "url": "https://canonical.com/data/postgresql",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "cfc34af2a51e": {
@@ -42,7 +42,7 @@
       "title": "MySQL",
       "url": "https://canonical.com/data/mysql",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "aab59df8bee5": {
@@ -51,7 +51,7 @@
       "title": "Canonical announces Managed Kubeflow on Azure",
       "url": "https://canonical.com/blog/managed-kubeflow-microsoft-azure-canonical-release",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }

@@ -1,3 +1,58 @@
 {
-  "jobs": {}
+  "jobs": {
+    "d9258ef8020c": {
+      "first_seen_at": "2026-10-25T10:48:26.999150+00:00",
+      "last_seen_at": "2026-10-25T10:48:26.999150+00:00",
+      "title": "Ubuntu on Azure",
+      "url": "https://ubuntu.com/azure",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "87f49310bb63": {
+      "first_seen_at": "2026-10-25T10:48:26.999150+00:00",
+      "last_seen_at": "2026-10-25T10:48:26.999150+00:00",
+      "title": "Ubuntu Pro for Azure",
+      "url": "https://ubuntu.com/azure/pro",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "747318813b05": {
+      "first_seen_at": "2026-10-25T10:48:26.999150+00:00",
+      "last_seen_at": "2026-10-25T10:48:26.999150+00:00",
+      "title": "MongoDB",
+      "url": "https://canonical.com/data/mongodb",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "7f9258b8c281": {
+      "first_seen_at": "2026-10-25T10:48:26.999150+00:00",
+      "last_seen_at": "2026-10-25T10:48:26.999150+00:00",
+      "title": "PostgreSQL",
+      "url": "https://canonical.com/data/postgresql",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "cfc34af2a51e": {
+      "first_seen_at": "2026-10-25T10:48:26.999150+00:00",
+      "last_seen_at": "2026-10-25T10:48:26.999150+00:00",
+      "title": "MySQL",
+      "url": "https://canonical.com/data/mysql",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "aab59df8bee5": {
+      "first_seen_at": "2026-10-25T10:48:26.999150+00:00",
+      "last_seen_at": "2026-10-25T10:48:26.999150+00:00",
+      "title": "Canonical announces Managed Kubeflow on Azure",
+      "url": "https://canonical.com/blog/managed-kubeflow-microsoft-azure-canonical-release",
+      "location": "",
+      "active": true,
+      "excluded": false
+    }
+  }
 }

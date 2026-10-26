@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-26T12:19:37.540292+00:00",
+      "last_seen_at": "2026-10-26T22:20:16.789952+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1329,7 +1329,7 @@
       "title": "Sr Principal Architect Engineer Software (Privileged Cloud Digital Vault - Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/sr-principal-architect-engineer-software-privileged-cloud-digital-vault-idira/47263/102422250736",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "66e4bf216a08": {
@@ -1347,7 +1347,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/pune/senior-staff-software-engineer/47263/102455361952",
       "location": "Pune, Mah\u0101r\u0101shtra, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "aa2a93e782fc": {
@@ -1356,7 +1356,7 @@
       "title": "Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/pune/staff-software-engineer/47263/102455361312",
       "location": "Pune, Mah\u0101r\u0101shtra, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "de4b3b885e9e": {
@@ -1365,7 +1365,7 @@
       "title": "Staff Software Engineer (Secrets Manager SAAS)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/staff-software-engineer-secrets-manager-saas/47263/99799498048",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "3a46d3346636": {
@@ -1374,7 +1374,7 @@
       "title": "Senior Staff Software Engineer (Secure Agentic AI - Be'er Sheva)",
       "url": "https://jobs.paloaltonetworks.com/en/job/southern-district/senior-staff-software-engineer-secure-agentic-ai-be-er-sheva/47263/102455346960",
       "location": "Be'er Sheva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

@@ -15,7 +15,7 @@
       "title": "Lead Software Engineer",
       "url": "https://careers.mastercard.com/us/en/job/R-289394/Lead-Software-Engineer",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "e3c3fbb8414b": {
@@ -33,7 +33,7 @@
       "title": "Manager, Software Engineering",
       "url": "https://careers.mastercard.com/us/en/job/R-292287/Manager-Software-Engineering",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "b85255db97f8": {
@@ -105,7 +105,7 @@
       "title": "Manager, Products and Solutions \uff08 Digital Products)",
       "url": "https://careers.mastercard.com/us/en/job/R-293430/Manager-Products-and-Solutions-%EF%BC%88-Digital-Products",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

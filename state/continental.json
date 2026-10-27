@@ -222,7 +222,7 @@
       "title": "(Senior) Area Sales Manager Fleet -  Dresden / Erfurt / Halle / Leipzig (m/w/d) - REF99377R",
       "url": "https://jobs.smartrecruiters.com/Continental/744000155704665",
       "location": "Leipzig, SN",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000155708289": {
@@ -231,7 +231,7 @@
       "title": "(Senior) Area Sales Manager Fleet -  Dresden / Erfurt / Halle / Leipzig (m/w/d) - REF99377R",
       "url": "https://jobs.smartrecruiters.com/Continental/744000155708289",
       "location": "Halle (Saale), SA",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000155708129": {
@@ -240,7 +240,7 @@
       "title": "(Senior) Area Sales Manager Fleet -  Dresden / Erfurt / Halle / Leipzig (m/w/d) - REF99377R",
       "url": "https://jobs.smartrecruiters.com/Continental/744000155708129",
       "location": "Erfurt, TH",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000155707969": {
@@ -272,10 +272,28 @@
     },
     "744000157555874": {
       "first_seen_at": "2026-10-23T21:02:16.698688+00:00",
-      "last_seen_at": "2026-10-27T17:40:43.653024+00:00",
+      "last_seen_at": "2026-10-27T21:51:29.966292+00:00",
       "title": "Head of Digital Customer Platforms - Americas",
       "url": "https://jobs.smartrecruiters.com/Continental/744000157555874",
       "location": "Fort Mill, SC",
+      "active": true,
+      "excluded": true
+    },
+    "744000158126479": {
+      "first_seen_at": "2026-10-27T21:51:29.966292+00:00",
+      "last_seen_at": "2026-10-27T21:51:29.966292+00:00",
+      "title": "Internal - CSS Operator (Conti Seal & Silent) - Multiple Shifts",
+      "url": "https://jobs.smartrecruiters.com/Continental/744000158126479",
+      "location": "Sumter, SC",
+      "active": true,
+      "excluded": true
+    },
+    "744000158031009": {
+      "first_seen_at": "2026-10-27T21:51:29.966292+00:00",
+      "last_seen_at": "2026-10-27T21:51:29.966292+00:00",
+      "title": "Simulation Software Development Engineer (m/f/d) - REF97697Z",
+      "url": "https://jobs.smartrecruiters.com/Continental/744000158031009",
+      "location": "Hannover, NDS",
       "active": true,
       "excluded": true
     }

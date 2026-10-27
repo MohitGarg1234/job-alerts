@@ -681,7 +681,7 @@
       "title": "Senior Software Engineer, Secrets Hub",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-software-engineer-secrets-hub/47263/96174880752",
       "location": "Sofia, Bulgaria",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "a78f0fca81a5": {
@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-27T17:40:43.653024+00:00",
+      "last_seen_at": "2026-10-27T21:51:29.966292+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1154,11 +1154,11 @@
     },
     "0541f92a4950": {
       "first_seen_at": "2026-10-19T22:01:46.307741+00:00",
-      "last_seen_at": "2026-10-19T22:01:46.307741+00:00",
+      "last_seen_at": "2026-10-27T21:51:29.966292+00:00",
       "title": "Senior Principal Software Engineer (Foundational Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/senior-principal-software-engineer-foundational-platform/47263/101274835216",
       "location": "San Jose, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "2fbcf343e005": {
@@ -1401,7 +1401,7 @@
       "title": "Principal Software Engineer, Device Security & Containers (NGFW) - NetSec",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/principal-software-engineer-device-security-and-containers-ngfw-netsec/47263/102508099568",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "cb67436e677c": {
@@ -1410,6 +1410,15 @@
       "title": "Sr. Staff Software Engineer, Device Firmware & Platform (NGFW) - NetSec",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/sr-staff-software-engineer-device-firmware-and-platform-ngfw-netsec/47263/102508099552",
       "location": "Bangalore, Karn\u0101taka, India",
+      "active": false,
+      "excluded": true
+    },
+    "80dc300412ed": {
+      "first_seen_at": "2026-10-27T21:51:29.966292+00:00",
+      "last_seen_at": "2026-10-27T21:51:29.966292+00:00",
+      "title": "Senior Principal Software Engineer (Foundational Platform)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/senior-principal-software-engineer-foundational-platform/47263/101274835216",
+      "location": "",
       "active": true,
       "excluded": true
     }

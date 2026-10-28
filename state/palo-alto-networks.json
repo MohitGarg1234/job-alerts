@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-28T12:11:11.532378+00:00",
+      "last_seen_at": "2026-10-28T22:14:10.283663+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1428,7 +1428,7 @@
       "title": "Senior AI Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-ai-software-engineer/47263/102321720336",
       "location": "Bangalore, Karn\u0101taka, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "2711ede80775": {
@@ -1437,7 +1437,7 @@
       "title": "Principal Software Engineer (Cloud NGFW)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cloud-ngfw/47263/91053594240",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

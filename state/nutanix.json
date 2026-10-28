@@ -83,7 +83,7 @@
     },
     "d24aa2ab268e": {
       "first_seen_at": "2026-10-19T12:14:54.054141+00:00",
-      "last_seen_at": "2026-10-28T12:11:11.532378+00:00",
+      "last_seen_at": "2026-10-28T22:14:10.283663+00:00",
       "title": "Member of Technical staff 3 [5-9 years]- SDET Python Automation[Virtualisation/Networking/Storage & Kubernates]",
       "url": "https://careers.nutanix.com/en/jobs/32906/member-of-technical-staff-3-5-9-years-sdet-python-automation-virtualisationnetworkingstorage-kubernates/",
       "location": "Bangalore, India",
@@ -105,7 +105,7 @@
       "title": "Software Development Tester Co-Op",
       "url": "https://careers.nutanix.com/en/jobs/32931/software-development-tester-co-op/",
       "location": "Vancouver, Canada",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "a7a8aef26b71": {
@@ -114,7 +114,7 @@
       "title": "Software Developer Co-Op",
       "url": "https://careers.nutanix.com/en/jobs/32928/software-developer-co-op/",
       "location": "Vancouver, Canada",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

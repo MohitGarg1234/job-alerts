@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-27T21:51:29.966292+00:00",
+      "last_seen_at": "2026-10-28T04:11:11.209632+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1154,7 +1154,7 @@
     },
     "0541f92a4950": {
       "first_seen_at": "2026-10-19T22:01:46.307741+00:00",
-      "last_seen_at": "2026-10-27T21:51:29.966292+00:00",
+      "last_seen_at": "2026-10-28T04:11:11.209632+00:00",
       "title": "Senior Principal Software Engineer (Foundational Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/senior-principal-software-engineer-foundational-platform/47263/101274835216",
       "location": "San Jose, California, United States of America",
@@ -1419,7 +1419,7 @@
       "title": "Senior Principal Software Engineer (Foundational Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/senior-principal-software-engineer-foundational-platform/47263/101274835216",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

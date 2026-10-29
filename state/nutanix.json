@@ -87,7 +87,7 @@
       "title": "Member of Technical staff 3 [5-9 years]- SDET Python Automation[Virtualisation/Networking/Storage & Kubernates]",
       "url": "https://careers.nutanix.com/en/jobs/32906/member-of-technical-staff-3-5-9-years-sdet-python-automation-virtualisationnetworkingstorage-kubernates/",
       "location": "Bangalore, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "70b450a05a12": {
@@ -115,6 +115,15 @@
       "url": "https://careers.nutanix.com/en/jobs/32928/software-developer-co-op/",
       "location": "Vancouver, Canada",
       "active": false,
+      "excluded": true
+    },
+    "4c7282ce2fce": {
+      "first_seen_at": "2026-10-29T04:33:18.489299+00:00",
+      "last_seen_at": "2026-10-29T04:33:18.489299+00:00",
+      "title": "Software Engineer 4 - Kubernetes AI Platform Engineering",
+      "url": "https://careers.nutanix.com/en/jobs/32958/software-engineer-4-kubernetes-ai-platform-engineering/",
+      "location": "Vancouver, Canada",
+      "active": true,
       "excluded": true
     }
   }

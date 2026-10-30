@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-10-29T22:28:19.991774+00:00",
+      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1456,6 +1456,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/manager-ai-software-engineering-cora-ai/47263/96174880720",
       "location": "Petach Tikva, Israel",
       "active": false,
+      "excluded": true
+    },
+    "253eb79d9548": {
+      "first_seen_at": "2026-10-30T04:32:59.754947+00:00",
+      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
+      "title": "Senior Staff Software Engineer Linux - C/C++ (Global Protect)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-linux-c-c-global-protect/47263/101633315968",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }

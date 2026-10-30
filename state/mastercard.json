@@ -2,29 +2,29 @@
   "jobs": {
     "a44a69df98c0": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-27T21:51:29.966292+00:00",
+      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
       "title": "Senior Software Engineer",
-      "url": "https://careers.mastercard.com/us/en/job/R-281205/Senior-Software-Engineer",
+      "url": "https://careers.mastercard.com/us/en/job/R-211833/Senior-Software-Engineer",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "4fb3fd8ce186": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-28T22:14:10.283663+00:00",
+      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
       "title": "Lead Software Engineer",
-      "url": "https://careers.mastercard.com/us/en/job/R-292123/Lead-Software-Engineer",
+      "url": "https://careers.mastercard.com/us/en/job/R-207875/Lead-Software-Engineer",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "e3c3fbb8414b": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-10-24T03:26:44.017754+00:00",
+      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
       "title": "Software Engineer II",
       "url": "https://careers.mastercard.com/us/en/job/R-211834/Software-Engineer-II",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "2a6d1e6bad14": {

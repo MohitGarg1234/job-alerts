@@ -2,7 +2,7 @@
   "jobs": {
     "9baf7784118f": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-29T22:28:19.991774+00:00",
+      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
       "title": "Principal Software Engineer",
       "url": "https://jobs.intuit.com/job/mountain-view/principal-software-engineer/27595/102224474112",
       "location": "Mountain View, California",
@@ -20,7 +20,7 @@
     },
     "6060ef078e08": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-29T22:28:19.991774+00:00",
+      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
       "title": "Staff Software Engineer",
       "url": "https://jobs.intuit.com/job/bengaluru/staff-software-engineer/27595/102582929264",
       "location": "Mountain View, California",
@@ -29,7 +29,7 @@
     },
     "be7e555af645": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-10-29T22:28:19.991774+00:00",
+      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
       "title": "Staff Software Engineer",
       "url": "https://jobs.intuit.com/job/bengaluru/staff-software-engineer/27595/102582929264",
       "location": "Bangalore, India",
@@ -132,7 +132,7 @@
       "title": "How Intuit data analysts write SQL 2x faster with internal GenAI tool",
       "url": "https://medium.com/intuit-engineering/how-intuit-data-analysts-write-sql-2x-faster-with-internal-genai-tool-c3b9d482208a",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "3985e785ee0d": {
@@ -146,7 +146,7 @@
     },
     "510239166730": {
       "first_seen_at": "2026-09-16T20:55:12.901086+00:00",
-      "last_seen_at": "2026-10-29T22:28:19.991774+00:00",
+      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
       "title": "Senior Software Engineer",
       "url": "https://jobs.intuit.com/job/mountain-view/senior-software-engineer/27595/102509693936",
       "location": "Mountain View, California",
@@ -155,7 +155,7 @@
     },
     "536900d92ca0": {
       "first_seen_at": "2026-09-22T20:55:54.872260+00:00",
-      "last_seen_at": "2026-10-29T22:28:19.991774+00:00",
+      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
       "title": "Staff Software Engineer",
       "url": "https://jobs.intuit.com/job/bengaluru/staff-software-engineer/27595/102582929264",
       "location": "San Diego, California",
@@ -182,7 +182,7 @@
     },
     "0aea82e61402": {
       "first_seen_at": "2026-09-26T03:43:01.151386+00:00",
-      "last_seen_at": "2026-10-29T22:28:19.991774+00:00",
+      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
       "title": "Staff Software Engineer",
       "url": "https://jobs.intuit.com/job/bengaluru/staff-software-engineer/27595/102582929264",
       "location": "",
@@ -218,7 +218,7 @@
     },
     "4a2d18503f7c": {
       "first_seen_at": "2026-10-06T22:22:39.332889+00:00",
-      "last_seen_at": "2026-10-29T22:28:19.991774+00:00",
+      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
       "title": "Software Engineer 2",
       "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-2/27595/101906816688",
       "location": "Mountain View, California",
@@ -236,11 +236,11 @@
     },
     "81ad0f72248f": {
       "first_seen_at": "2026-10-10T04:30:21.283990+00:00",
-      "last_seen_at": "2026-10-29T12:21:34.860015+00:00",
+      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
       "title": "Director, Software Engineering",
       "url": "https://jobs.intuit.com/job/mountain-view/director-software-engineering/27595/101762082176",
       "location": "Mountain View, California",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "f637d11f77d3": {

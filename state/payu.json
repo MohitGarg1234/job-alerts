@@ -353,7 +353,7 @@
     },
     "0c612b46151a": {
       "first_seen_at": "2026-10-29T04:33:18.489299+00:00",
-      "last_seen_at": "2026-10-30T21:57:48.063797+00:00",
+      "last_seen_at": "2026-10-31T04:14:54.097174+00:00",
       "title": "Software Engineer",
       "url": "https://careers.payu.in/PayU/job/Bengaluru-Software-Engineer/3217480/",
       "location": "Bengaluru, IN\t29 Oct 2026",
@@ -362,10 +362,28 @@
     },
     "49ea6f32de47": {
       "first_seen_at": "2026-10-30T04:32:59.754947+00:00",
-      "last_seen_at": "2026-10-30T21:57:48.063797+00:00",
+      "last_seen_at": "2026-10-31T04:14:54.097174+00:00",
       "title": "Senior Software Engineer",
       "url": "https://careers.payu.in/PayU/job/Gurgaon-Senior-Software-Engineer/53377980/",
       "location": "Gurgaon, IN +1 more\u2026\t30 Oct 2026",
+      "active": true,
+      "excluded": true
+    },
+    "cd256cf5a8c6": {
+      "first_seen_at": "2026-10-31T04:14:54.097174+00:00",
+      "last_seen_at": "2026-10-31T04:14:54.097174+00:00",
+      "title": "Production Support Engineer (Python, Sql)",
+      "url": "https://careers.payu.in/PayU/job/Mumbai-Production-Support-Engineer-%28Python%2C-Sql%29/3873980/",
+      "location": "Mumbai, IN\t31 Oct 2026",
+      "active": true,
+      "excluded": false
+    },
+    "513c71738f92": {
+      "first_seen_at": "2026-10-31T04:14:54.097174+00:00",
+      "last_seen_at": "2026-10-31T04:14:54.097174+00:00",
+      "title": "Senior Software Engineer",
+      "url": "https://careers.payu.in/PayU/job/Gurgaon-Senior-Software-Engineer/53377980/",
+      "location": "Bengaluru, IN\t31 Oct 2026",
       "active": true,
       "excluded": true
     }

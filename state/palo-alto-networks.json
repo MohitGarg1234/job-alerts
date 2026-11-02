@@ -56,7 +56,7 @@
     },
     "65800402585d": {
       "first_seen_at": "2026-09-06T10:20:07.169301+00:00",
-      "last_seen_at": "2026-11-02T04:37:56.127772+00:00",
+      "last_seen_at": "2026-11-02T14:51:32.393490+00:00",
       "title": "Principal C++ Software Engineer (Prisma Browser)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-c-software-engineer-prisma-browser/47263/100248143792",
       "location": "Tel Aviv-Yafo, Israel",
@@ -78,7 +78,7 @@
       "title": "Principal C++ Software Engineer (Prisma Browser)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-c-software-engineer-prisma-browser/47263/100248143792",
       "location": "Tel Aviv, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "b75e6be840f7": {
@@ -101,11 +101,11 @@
     },
     "5b5263cb40c6": {
       "first_seen_at": "2026-09-08T10:39:40.523494+00:00",
-      "last_seen_at": "2026-10-22T16:41:36.813378+00:00",
+      "last_seen_at": "2026-11-02T14:51:32.393490+00:00",
       "title": "Senior Staff Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100905884384",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/99021605040",
       "location": "500081, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-11-02T04:37:56.127772+00:00",
+      "last_seen_at": "2026-11-02T14:51:32.393490+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1474,6 +1474,42 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-ai-posture/47263/102646039600",
       "location": "Santa Clara, California, United States of America",
       "active": false,
+      "excluded": true
+    },
+    "06279dcd4f8d": {
+      "first_seen_at": "2026-11-02T14:51:32.393490+00:00",
+      "last_seen_at": "2026-11-02T14:51:32.393490+00:00",
+      "title": "Principal/ Senior Principal Software Engineer | Cortex Detection team",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-cortex-detection-team/47263/96174872896",
+      "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "4e3b370045b8": {
+      "first_seen_at": "2026-11-02T14:51:32.393490+00:00",
+      "last_seen_at": "2026-11-02T14:51:32.393490+00:00",
+      "title": "Senior Staff C++ Engineer (Endpoint Privilege Manager - Idira)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-c-engineer-endpoint-privilege-manager-idira/47263/102756252160",
+      "location": "Petach Tikva, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "98f7ca01a34b": {
+      "first_seen_at": "2026-11-02T14:51:32.393490+00:00",
+      "last_seen_at": "2026-11-02T14:51:32.393490+00:00",
+      "title": "Principal Software Engineer - Secrets Manager Integration Team (Hybrid)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-secrets-manager-integration-team-hybrid/47263/102756252144",
+      "location": "Sofia, Bulgaria",
+      "active": true,
+      "excluded": true
+    },
+    "2a6a95dc7dfd": {
+      "first_seen_at": "2026-11-02T14:51:32.393490+00:00",
+      "last_seen_at": "2026-11-02T14:51:32.393490+00:00",
+      "title": "Director Software Engineering - Secure Cloud Access (Idira- Be'er Sheva)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/southern-district/director-software-engineering-secure-cloud-access-idira-be-er-sheva/47263/102593998688",
+      "location": "Be'er Sheva, Israel",
+      "active": true,
       "excluded": true
     }
   }

@@ -60,7 +60,7 @@
       "title": "Principal C++ Software Engineer (Prisma Browser)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-c-software-engineer-prisma-browser/47263/100248143792",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "f88cd218a8ae": {
@@ -105,7 +105,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/99021605040",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -227,11 +227,11 @@
     },
     "50ba8a5804d2": {
       "first_seen_at": "2026-09-14T21:32:36.652988+00:00",
-      "last_seen_at": "2026-09-14T21:32:36.652988+00:00",
+      "last_seen_at": "2026-11-03T00:34:20.315280+00:00",
       "title": "Senior Data Automation/Marketing Ops Lead (Digital Marketing)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-data-automation-marketing-ops-lead-digital-marketing/47263/96174869040",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-data-automation-marketing-ops-lead-digital-marketing/47263/102774303152",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "ee8991957f0f": {
@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-11-02T14:51:32.393490+00:00",
+      "last_seen_at": "2026-11-03T00:34:20.315280+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1482,7 +1482,7 @@
       "title": "Principal/ Senior Principal Software Engineer | Cortex Detection team",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-principal-software-engineer-cortex-detection-team/47263/96174872896",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "4e3b370045b8": {
@@ -1491,7 +1491,7 @@
       "title": "Senior Staff C++ Engineer (Endpoint Privilege Manager - Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-c-engineer-endpoint-privilege-manager-idira/47263/102756252160",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "98f7ca01a34b": {
@@ -1500,7 +1500,7 @@
       "title": "Principal Software Engineer - Secrets Manager Integration Team (Hybrid)",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-software-engineer-secrets-manager-integration-team-hybrid/47263/102756252144",
       "location": "Sofia, Bulgaria",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "2a6a95dc7dfd": {
@@ -1509,6 +1509,24 @@
       "title": "Director Software Engineering - Secure Cloud Access (Idira- Be'er Sheva)",
       "url": "https://jobs.paloaltonetworks.com/en/job/southern-district/director-software-engineering-secure-cloud-access-idira-be-er-sheva/47263/102593998688",
       "location": "Be'er Sheva, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "efe73c9d6018": {
+      "first_seen_at": "2026-11-03T00:34:20.315280+00:00",
+      "last_seen_at": "2026-11-03T00:34:20.315280+00:00",
+      "title": "Sr. Staff Software Engineer (L7 Security)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-l7-security/47263/91238619968",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "aa9fc7d8fa3c": {
+      "first_seen_at": "2026-11-03T00:34:20.315280+00:00",
+      "last_seen_at": "2026-11-03T00:34:20.315280+00:00",
+      "title": "Principal Software Engineer (Cortex Platform)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cortex-platform/47263/99771556016",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }

@@ -231,7 +231,7 @@
       "title": "Senior Data Automation/Marketing Ops Lead (Digital Marketing)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-data-automation-marketing-ops-lead-digital-marketing/47263/102774303152",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "ee8991957f0f": {
@@ -830,7 +830,7 @@
     },
     "a2dc78b76340": {
       "first_seen_at": "2026-10-07T04:30:37.447380+00:00",
-      "last_seen_at": "2026-11-03T00:34:20.315280+00:00",
+      "last_seen_at": "2026-11-03T13:40:57.767881+00:00",
       "title": "Employee Spotlight: Joe on Engineering, Leadership, and and Protecting Our Digital Way of Life",
       "url": "https://jobs.paloaltonetworks.com/en/employee-spotlight-joe-driving-innovation-cybersecurity",
       "location": "",
@@ -1514,7 +1514,7 @@
     },
     "efe73c9d6018": {
       "first_seen_at": "2026-11-03T00:34:20.315280+00:00",
-      "last_seen_at": "2026-11-03T00:34:20.315280+00:00",
+      "last_seen_at": "2026-11-03T13:40:57.767881+00:00",
       "title": "Sr. Staff Software Engineer (L7 Security)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-software-engineer-l7-security/47263/91238619968",
       "location": "Santa Clara, California, United States of America",
@@ -1527,7 +1527,7 @@
       "title": "Principal Software Engineer (Cortex Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cortex-platform/47263/99771556016",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

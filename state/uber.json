@@ -65,9 +65,9 @@
     },
     "07966762a73d": {
       "first_seen_at": "2026-09-10T03:16:06.558441+00:00",
-      "last_seen_at": "2026-11-03T13:40:57.767881+00:00",
+      "last_seen_at": "2026-11-03T22:56:13.705135+00:00",
       "title": "Sr Software Engineer - Engineer",
-      "url": "https://jobs.uber.com/en/jobs/304442/",
+      "url": "https://jobs.uber.com/en/jobs/300939/",
       "location": "",
       "active": true,
       "excluded": true
@@ -222,7 +222,7 @@
       "title": "Software Engineer II - Android",
       "url": "https://jobs.uber.com/en/jobs/302639/",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "a44a69df98c0": {
@@ -245,11 +245,11 @@
     },
     "28a80c6a9507": {
       "first_seen_at": "2026-09-25T11:15:07.354504+00:00",
-      "last_seen_at": "2026-10-30T04:32:59.754947+00:00",
+      "last_seen_at": "2026-11-03T22:56:13.705135+00:00",
       "title": "Staff Software Engineer - Engineer",
-      "url": "https://jobs.uber.com/en/jobs/304047/",
+      "url": "https://jobs.uber.com/en/jobs/303640/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "670fe7972eee": {

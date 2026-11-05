@@ -1536,7 +1536,7 @@
       "title": "Senior Principal Software Engineer \u2013 GlobalProtect (Windows & macOS Internals)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-globalprotect-windows-and-macos-internals/47263/102868585664",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "d46842e18ad6": {
@@ -1545,12 +1545,12 @@
       "title": "Principal Product Manager - Synthetic Monitoring / Digital Experience Monitoring (Cortex XCOR/Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/burbank/principal-product-manager-synthetic-monitoring-digital-experience-monitoring-cortex-xcor-chronosphe/47263/102868584368",
       "location": "Burbank, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8c8be1cca10c": {
       "first_seen_at": "2026-11-05T05:18:58.330131+00:00",
-      "last_seen_at": "2026-11-05T05:18:58.330131+00:00",
+      "last_seen_at": "2026-11-05T14:02:39.093119+00:00",
       "title": "Sr IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-it-software-engineer/47263/102881314768",
       "location": "Santa Clara, California, United States of America",
@@ -1559,7 +1559,7 @@
     },
     "2e530af84e38": {
       "first_seen_at": "2026-11-05T05:18:58.330131+00:00",
-      "last_seen_at": "2026-11-05T05:18:58.330131+00:00",
+      "last_seen_at": "2026-11-05T14:02:39.093119+00:00",
       "title": "Consultant, DFIR, Reactive Services (Unit 42) \u2013 LATAM",
       "url": "https://jobs.paloaltonetworks.com/en/job/sao-paulo/consultant-dfir-reactive-services-unit-42-latam/47263/97098976080",
       "location": "Sao Paulo, S\u00e3o Paulo, Brazil",
@@ -1572,7 +1572,7 @@
       "title": "Sr IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-it-software-engineer/47263/102881314768",
       "location": "Santa Clara, California, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "4582251e73d6": {
@@ -1581,6 +1581,15 @@
       "title": "Consultant, DFIR, Reactive Services (Unit 42) \u2013 LATAM",
       "url": "https://jobs.paloaltonetworks.com/en/job/sao-paulo/consultant-dfir-reactive-services-unit-42-latam/47263/97098976080",
       "location": "S\u00e3o Paulo, Brazil",
+      "active": false,
+      "excluded": true
+    },
+    "c1694ab9ca1e": {
+      "first_seen_at": "2026-11-05T14:02:39.093119+00:00",
+      "last_seen_at": "2026-11-05T14:02:39.093119+00:00",
+      "title": "Senior/Principal C++ Software Engineer (Prisma Browser)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-c-software-engineer-prisma-browser/47263/100248143792",
+      "location": "Tel Aviv-Yafo, Israel",
       "active": true,
       "excluded": true
     }

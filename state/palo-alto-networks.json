@@ -420,7 +420,7 @@
       "title": "Senior Principal Software Engineer, Tools & Platforms (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-tools-and-platforms-cortex/47263/102860773920",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "3740b8229f14": {
@@ -1532,7 +1532,7 @@
     },
     "d2f67ed8f136": {
       "first_seen_at": "2026-11-04T23:15:19.881394+00:00",
-      "last_seen_at": "2026-11-04T23:15:19.881394+00:00",
+      "last_seen_at": "2026-11-05T05:18:58.330131+00:00",
       "title": "Senior Principal Software Engineer \u2013 GlobalProtect (Windows & macOS Internals)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-globalprotect-windows-and-macos-internals/47263/102868585664",
       "location": "Santa Clara, California, United States of America",
@@ -1541,10 +1541,46 @@
     },
     "d46842e18ad6": {
       "first_seen_at": "2026-11-04T23:15:19.881394+00:00",
-      "last_seen_at": "2026-11-04T23:15:19.881394+00:00",
+      "last_seen_at": "2026-11-05T05:18:58.330131+00:00",
       "title": "Principal Product Manager - Synthetic Monitoring / Digital Experience Monitoring (Cortex XCOR/Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/burbank/principal-product-manager-synthetic-monitoring-digital-experience-monitoring-cortex-xcor-chronosphe/47263/102868584368",
       "location": "Burbank, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "8c8be1cca10c": {
+      "first_seen_at": "2026-11-05T05:18:58.330131+00:00",
+      "last_seen_at": "2026-11-05T05:18:58.330131+00:00",
+      "title": "Sr IT Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-it-software-engineer/47263/102881314768",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "2e530af84e38": {
+      "first_seen_at": "2026-11-05T05:18:58.330131+00:00",
+      "last_seen_at": "2026-11-05T05:18:58.330131+00:00",
+      "title": "Consultant, DFIR, Reactive Services (Unit 42) \u2013 LATAM",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sao-paulo/consultant-dfir-reactive-services-unit-42-latam/47263/97098976080",
+      "location": "Sao Paulo, S\u00e3o Paulo, Brazil",
+      "active": true,
+      "excluded": true
+    },
+    "1e33f8eb15dd": {
+      "first_seen_at": "2026-11-05T05:18:58.330131+00:00",
+      "last_seen_at": "2026-11-05T05:18:58.330131+00:00",
+      "title": "Sr IT Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-it-software-engineer/47263/102881314768",
+      "location": "Santa Clara, California, United States",
+      "active": true,
+      "excluded": true
+    },
+    "4582251e73d6": {
+      "first_seen_at": "2026-11-05T05:18:58.330131+00:00",
+      "last_seen_at": "2026-11-05T05:18:58.330131+00:00",
+      "title": "Consultant, DFIR, Reactive Services (Unit 42) \u2013 LATAM",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sao-paulo/consultant-dfir-reactive-services-unit-42-latam/47263/97098976080",
+      "location": "S\u00e3o Paulo, Brazil",
       "active": true,
       "excluded": true
     }

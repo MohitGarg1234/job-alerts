@@ -1599,7 +1599,7 @@
       "title": "Sr. Digital Strategic Operations Manager",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-digital-strategic-operations-manager/47263/102912539088",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "0e12266c2e21": {
@@ -1607,6 +1607,15 @@
       "last_seen_at": "2026-11-06T13:57:12.507072+00:00",
       "title": "Sr Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer/47263/102912539040",
+      "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "adca4439a380": {
+      "first_seen_at": "2026-11-06T22:44:44.897125+00:00",
+      "last_seen_at": "2026-11-06T22:44:44.897125+00:00",
+      "title": "Principal Software Engineer Linux - C/C++ (Global Protect)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-linux-c-c-global-protect/47263/101633315968",
       "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true

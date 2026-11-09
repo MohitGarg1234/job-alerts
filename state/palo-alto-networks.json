@@ -101,11 +101,11 @@
     },
     "5b5263cb40c6": {
       "first_seen_at": "2026-09-08T10:39:40.523494+00:00",
-      "last_seen_at": "2026-11-02T14:51:32.393490+00:00",
+      "last_seen_at": "2026-11-09T15:18:24.667569+00:00",
       "title": "Senior Staff Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/99021605040",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/98567486912",
       "location": "500081, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -1059,7 +1059,7 @@
       "title": "Principal Software Engineer (Prisma Access)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-prisma-access/47263/103051994112",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "88cd960a4096": {
@@ -1311,7 +1311,7 @@
       "title": "Director, Software Engineer (Prisma Access)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/director-software-engineer-prisma-access/47263/102340816960",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9858e07ebb2e": {

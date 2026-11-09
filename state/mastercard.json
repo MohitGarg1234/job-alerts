@@ -2,11 +2,11 @@
   "jobs": {
     "a44a69df98c0": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-11-07T04:48:24.476619+00:00",
+      "last_seen_at": "2026-11-09T04:49:16.047076+00:00",
       "title": "Senior Software Engineer",
-      "url": "https://careers.mastercard.com/us/en/job/R-211833/Senior-Software-Engineer",
+      "url": "https://careers.mastercard.com/us/en/job/R-274320/Senior-Software-Engineer",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "4fb3fd8ce186": {
@@ -92,11 +92,11 @@
     },
     "7d3fac48abd4": {
       "first_seen_at": "2026-10-21T03:27:58.946224+00:00",
-      "last_seen_at": "2026-10-21T21:17:32.054221+00:00",
+      "last_seen_at": "2026-11-09T04:49:16.047076+00:00",
       "title": "Lead Software Engineer(Recorded Future)",
       "url": "https://careers.mastercard.com/us/en/job/R-273670/Lead-Software-Engineer-Recorded-Future",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "a4e1014d0343": {
@@ -115,6 +115,15 @@
       "url": "https://careers.mastercard.com/us/en/job/R-281205/Senior-Software-Engineer",
       "location": "VP, GBSC Value Creation and Delivery",
       "active": false,
+      "excluded": true
+    },
+    "2df5a96dffeb": {
+      "first_seen_at": "2026-11-09T04:49:16.047076+00:00",
+      "last_seen_at": "2026-11-09T04:49:16.047076+00:00",
+      "title": "Principal Software Engineer",
+      "url": "https://careers.mastercard.com/us/en/job/R-280197/Principal-Software-Engineer",
+      "location": "",
+      "active": true,
       "excluded": true
     }
   }

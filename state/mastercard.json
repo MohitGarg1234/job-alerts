@@ -2,9 +2,9 @@
   "jobs": {
     "a44a69df98c0": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-11-09T15:18:24.667569+00:00",
+      "last_seen_at": "2026-11-10T01:13:02.747497+00:00",
       "title": "Senior Software Engineer",
-      "url": "https://careers.mastercard.com/us/en/job/R-274320/Senior-Software-Engineer",
+      "url": "https://careers.mastercard.com/us/en/job/R-281205/Senior-Software-Engineer",
       "location": "",
       "active": true,
       "excluded": false
@@ -96,7 +96,7 @@
       "title": "Lead Software Engineer(Recorded Future)",
       "url": "https://careers.mastercard.com/us/en/job/R-273670/Lead-Software-Engineer-Recorded-Future",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "a4e1014d0343": {
@@ -123,7 +123,7 @@
       "title": "Principal Software Engineer",
       "url": "https://careers.mastercard.com/us/en/job/R-280197/Principal-Software-Engineer",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

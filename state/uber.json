@@ -56,11 +56,11 @@
     },
     "e66b2ada0506": {
       "first_seen_at": "2026-09-10T03:16:06.558441+00:00",
-      "last_seen_at": "2026-11-06T05:18:23.816144+00:00",
+      "last_seen_at": "2026-11-10T01:13:02.747497+00:00",
       "title": "Software Engineer II - Engineer",
-      "url": "https://jobs.uber.com/en/jobs/304446/",
+      "url": "https://jobs.uber.com/en/jobs/304685/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "07966762a73d": {
@@ -497,11 +497,11 @@
     },
     "ef475c79557b": {
       "first_seen_at": "2026-10-23T03:32:19.939764+00:00",
-      "last_seen_at": "2026-10-23T03:32:19.939764+00:00",
+      "last_seen_at": "2026-11-10T01:13:02.747497+00:00",
       "title": "Software Engineer II, Merchant Intel 5",
       "url": "https://jobs.uber.com/en/jobs/156028/",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": false
     },
     "c5b25db9e1f7": {
@@ -610,6 +610,33 @@
       "url": "https://jobs.uber.com/en/jobs/304060/",
       "location": "",
       "active": false,
+      "excluded": true
+    },
+    "08d351ad1ad3": {
+      "first_seen_at": "2026-11-10T01:13:02.747497+00:00",
+      "last_seen_at": "2026-11-10T01:13:02.747497+00:00",
+      "title": "Sr Software Engineer - Matching Platform",
+      "url": "https://jobs.uber.com/en/jobs/304216/",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "3549fbe29410": {
+      "first_seen_at": "2026-11-10T01:13:02.747497+00:00",
+      "last_seen_at": "2026-11-10T01:13:02.747497+00:00",
+      "title": "Sr. Software Engineer, Agentic",
+      "url": "https://jobs.uber.com/en/jobs/304055/",
+      "location": "",
+      "active": true,
+      "excluded": false
+    },
+    "86f261b22388": {
+      "first_seen_at": "2026-11-10T01:13:02.747497+00:00",
+      "last_seen_at": "2026-11-10T01:13:02.747497+00:00",
+      "title": "Staff Software Engineer, Agentic",
+      "url": "https://jobs.uber.com/en/jobs/304059/",
+      "location": "",
+      "active": true,
       "excluded": true
     }
   }

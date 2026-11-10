@@ -3120,7 +3120,7 @@
       "title": "Senior Software Engineer, Agentic Platform - Moveworks",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000159960802",
       "location": "Mountain View, CALIFORNIA",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000159949079": {
@@ -3170,7 +3170,7 @@
     },
     "744000160121839": {
       "first_seen_at": "2026-11-06T13:57:12.507072+00:00",
-      "last_seen_at": "2026-11-10T01:13:02.747497+00:00",
+      "last_seen_at": "2026-11-10T14:24:25.614113+00:00",
       "title": "Sr Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000160121839",
       "location": "Hyderabad",
@@ -3188,7 +3188,7 @@
     },
     "744000160483799": {
       "first_seen_at": "2026-11-08T12:49:05.910435+00:00",
-      "last_seen_at": "2026-11-10T01:13:02.747497+00:00",
+      "last_seen_at": "2026-11-10T14:24:25.614113+00:00",
       "title": "Staff Frontend Engineer ",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000160483799",
       "location": "Tel Aviv",
@@ -3201,7 +3201,7 @@
       "title": "Associate Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000160632429",
       "location": "Petah Tikva",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000160756528": {
@@ -3210,12 +3210,12 @@
       "title": "Senior Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000160756528",
       "location": "Santa Clara, California",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000160737185": {
       "first_seen_at": "2026-11-10T01:13:02.747497+00:00",
-      "last_seen_at": "2026-11-10T01:13:02.747497+00:00",
+      "last_seen_at": "2026-11-10T14:24:25.614113+00:00",
       "title": "Staff Software Engineer, Frontend/Fullstack - Moveworks",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000160737185",
       "location": "Mountain View, CALIFORNIA",
@@ -3224,7 +3224,7 @@
     },
     "744000160737829": {
       "first_seen_at": "2026-11-10T01:13:02.747497+00:00",
-      "last_seen_at": "2026-11-10T01:13:02.747497+00:00",
+      "last_seen_at": "2026-11-10T14:24:25.614113+00:00",
       "title": "Senior Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000160737829",
       "location": "Santa Clara, California",
@@ -3236,6 +3236,51 @@
       "last_seen_at": "2026-11-10T01:13:02.747497+00:00",
       "title": "Senior Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000160729649",
+      "location": "Santa Clara, California",
+      "active": false,
+      "excluded": true
+    },
+    "744000160862434": {
+      "first_seen_at": "2026-11-10T14:24:25.614113+00:00",
+      "last_seen_at": "2026-11-10T14:24:25.614113+00:00",
+      "title": "Staff Full Stack Engineer (Armis/Veza)",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000160862434",
+      "location": "Tel Aviv-Yafo, Tel Aviv District",
+      "active": true,
+      "excluded": true
+    },
+    "744000160839579": {
+      "first_seen_at": "2026-11-10T14:24:25.614113+00:00",
+      "last_seen_at": "2026-11-10T14:24:25.614113+00:00",
+      "title": "Principal Software Engineer - Ai",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000160839579",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000160796174": {
+      "first_seen_at": "2026-11-10T14:24:25.614113+00:00",
+      "last_seen_at": "2026-11-10T14:24:25.614113+00:00",
+      "title": "Staff Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000160796174",
+      "location": "Hyderabad",
+      "active": true,
+      "excluded": true
+    },
+    "744000160787594": {
+      "first_seen_at": "2026-11-10T14:24:25.614113+00:00",
+      "last_seen_at": "2026-11-10T14:24:25.614113+00:00",
+      "title": "Senior Staff Data Platform Software Engineer (Java Distributed Systems & Kafka)",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000160787594",
+      "location": "Hyderabad",
+      "active": true,
+      "excluded": true
+    },
+    "744000160756795": {
+      "first_seen_at": "2026-11-10T14:24:25.614113+00:00",
+      "last_seen_at": "2026-11-10T14:24:25.614113+00:00",
+      "title": "Senior Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000160756795",
       "location": "Santa Clara, California",
       "active": true,
       "excluded": true

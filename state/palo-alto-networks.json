@@ -722,11 +722,11 @@
     },
     "447d5b5f0b6b": {
       "first_seen_at": "2026-10-01T22:22:54.974068+00:00",
-      "last_seen_at": "2026-10-02T04:14:46.094739+00:00",
+      "last_seen_at": "2026-11-10T14:24:25.614113+00:00",
       "title": "Senior Principal Software Engineer (Cortex Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-cortex-platform/47263/101406361056",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "b3b6001c24c1": {
@@ -1618,6 +1618,15 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-linux-c-c-global-protect/47263/101633315968",
       "location": "Santa Clara, California, United States of America",
       "active": false,
+      "excluded": true
+    },
+    "67e6dd255172": {
+      "first_seen_at": "2026-11-10T14:24:25.614113+00:00",
+      "last_seen_at": "2026-11-10T14:24:25.614113+00:00",
+      "title": "Senior Consultant, DFIR, Reactive Services (Unit 42) - Remote",
+      "url": "https://jobs.paloaltonetworks.com/en/job/burbank/senior-consultant-dfir-reactive-services-unit-42-remote/47263/102559261088",
+      "location": "Burbank, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }

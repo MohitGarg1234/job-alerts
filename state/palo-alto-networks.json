@@ -1635,6 +1635,15 @@
       "title": "Principal Web Experience Designer, Digital Marketing",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-web-experience-designer-digital-marketing/47263/101589718240",
       "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "ae473020e795": {
+      "first_seen_at": "2026-11-11T04:51:43.797690+00:00",
+      "last_seen_at": "2026-11-11T04:51:43.797690+00:00",
+      "title": "Senior AI Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-ai-software-engineer/47263/102808643312",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }

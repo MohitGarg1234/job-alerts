@@ -6,7 +6,7 @@
       "title": "Senior Software Engineer",
       "url": "https://careers.mastercard.com/us/en/job/R-281205/Senior-Software-Engineer",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     },
     "4fb3fd8ce186": {
@@ -29,11 +29,11 @@
     },
     "2a6d1e6bad14": {
       "first_seen_at": "2026-10-03T11:10:29.830523+00:00",
-      "last_seen_at": "2026-10-25T20:25:24.357060+00:00",
+      "last_seen_at": "2026-11-11T04:51:43.797690+00:00",
       "title": "Manager, Software Engineering",
-      "url": "https://careers.mastercard.com/us/en/job/R-292287/Manager-Software-Engineering",
+      "url": "https://careers.mastercard.com/us/en/job/R-289050/Manager-Software-Engineering",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "b85255db97f8": {

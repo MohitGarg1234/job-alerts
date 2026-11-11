@@ -11,7 +11,7 @@
     },
     "1881e2fef8a1": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-11-11T04:51:43.797690+00:00",
+      "last_seen_at": "2026-11-11T13:37:57.255906+00:00",
       "title": "https://www.intel.com/content/www/us/en/company-overview/company-overview.html",
       "url": "https://www.intel.com/content/www/us/en/company-overview/company-overview.html",
       "location": "",
@@ -20,7 +20,7 @@
     },
     "1cf27d1d42b5": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-11-11T04:51:43.797690+00:00",
+      "last_seen_at": "2026-11-11T13:37:57.255906+00:00",
       "title": "https://www.intel.com/content/www/us/en/corporate-responsibility/corporate-responsibility.html",
       "url": "https://www.intel.com/content/www/us/en/corporate-responsibility/corporate-responsibility.html",
       "location": "",
@@ -29,7 +29,7 @@
     },
     "aa113ed70d48": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-11-11T04:51:43.797690+00:00",
+      "last_seen_at": "2026-11-11T13:37:57.255906+00:00",
       "title": "https://www.intel.com/content/www/us/en/diversity/diversity-at-intel.html",
       "url": "https://www.intel.com/content/www/us/en/diversity/diversity-at-intel.html",
       "location": "",
@@ -51,7 +51,7 @@
       "title": "Software Application Development Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Application-Development-Engineer-Grade_JR0283627?shared_id=NTA3OGJmNzQtNjNiOS00MWYyLWJlNDItYjdhMDAyM2I2OWVh",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": false
     }
   }

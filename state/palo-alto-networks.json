@@ -1451,11 +1451,11 @@
     },
     "d8a79140fb26": {
       "first_seen_at": "2026-10-29T12:21:34.860015+00:00",
-      "last_seen_at": "2026-10-29T12:21:34.860015+00:00",
+      "last_seen_at": "2026-11-12T23:14:57.061558+00:00",
       "title": "Manager, AI Software Engineering (CORA AI)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/manager-ai-software-engineering-cora-ai/47263/96174880720",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/manager-ai-software-engineering-cora-ai/47263/103216427824",
       "location": "Petach Tikva, Israel",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "253eb79d9548": {
@@ -1491,7 +1491,7 @@
       "title": "Senior Staff C++ Engineer (Endpoint Privilege Manager - Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-c-engineer-endpoint-privilege-manager-idira/47263/103207504608",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "98f7ca01a34b": {
@@ -1662,7 +1662,7 @@
       "title": "Position Senior Staff C++ Win Internals Engineer (Endpoint Privilege Manager - Idira)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/position-senior-staff-c-win-internals-engineer-endpoint-privilege-manager-idira/47263/103207504592",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "e682e7beabac": {
@@ -1671,6 +1671,15 @@
       "title": "Senior Software Engineer - Threat Detection & Response - Idira",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-software-engineer-threat-detection-and-response-idira/47263/96174880608",
       "location": "Petach Tikva, Israel",
+      "active": false,
+      "excluded": true
+    },
+    "d0becabac8a7": {
+      "first_seen_at": "2026-11-12T23:14:57.061558+00:00",
+      "last_seen_at": "2026-11-12T23:14:57.061558+00:00",
+      "title": "Sr. Technical Product Engineer (Cortex)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/california/sr-technical-product-engineer-cortex/47263/103224025472",
+      "location": "Remote, California, United States of America",
       "active": true,
       "excluded": true
     }

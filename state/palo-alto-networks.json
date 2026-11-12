@@ -1059,7 +1059,7 @@
       "title": "Principal Software Engineer (Prisma Access)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-prisma-access/47263/103170829872",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "88cd960a4096": {
@@ -1487,11 +1487,11 @@
     },
     "4e3b370045b8": {
       "first_seen_at": "2026-11-02T14:51:32.393490+00:00",
-      "last_seen_at": "2026-11-02T14:51:32.393490+00:00",
+      "last_seen_at": "2026-11-12T14:41:30.181189+00:00",
       "title": "Senior Staff C++ Engineer (Endpoint Privilege Manager - Idira)",
-      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-c-engineer-endpoint-privilege-manager-idira/47263/102756252160",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-c-engineer-endpoint-privilege-manager-idira/47263/103207504608",
       "location": "Petach Tikva, Israel",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "98f7ca01a34b": {
@@ -1653,6 +1653,24 @@
       "title": "Principal Software Engineer (PAN OS)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-pan-os/47263/103170829680",
       "location": "Santa Clara, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "db36655a8a70": {
+      "first_seen_at": "2026-11-12T14:41:30.181189+00:00",
+      "last_seen_at": "2026-11-12T14:41:30.181189+00:00",
+      "title": "Position Senior Staff C++ Win Internals Engineer (Endpoint Privilege Manager - Idira)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/position-senior-staff-c-win-internals-engineer-endpoint-privilege-manager-idira/47263/103207504592",
+      "location": "Petach Tikva, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "e682e7beabac": {
+      "first_seen_at": "2026-11-12T14:41:30.181189+00:00",
+      "last_seen_at": "2026-11-12T14:41:30.181189+00:00",
+      "title": "Senior Software Engineer - Threat Detection & Response - Idira",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-software-engineer-threat-detection-and-response-idira/47263/96174880608",
+      "location": "Petach Tikva, Israel",
       "active": true,
       "excluded": true
     }

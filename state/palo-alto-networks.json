@@ -168,7 +168,7 @@
       "title": "Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/staff-software-engineer/47263/97425296192",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8491d5f1e47d": {
@@ -1437,7 +1437,7 @@
       "title": "Principal Software Engineer (Cloud NGFW)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cloud-ngfw/47263/103229863776",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "dc04c9afaefa": {

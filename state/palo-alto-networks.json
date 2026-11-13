@@ -164,11 +164,11 @@
     },
     "18fa21f5a9cc": {
       "first_seen_at": "2026-09-10T15:53:49.628520+00:00",
-      "last_seen_at": "2026-10-08T12:53:25.801663+00:00",
+      "last_seen_at": "2026-11-13T13:59:04.608631+00:00",
       "title": "Staff Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/staff-software-engineer/47263/100111137568",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/staff-software-engineer/47263/97425296192",
       "location": "500081, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "8491d5f1e47d": {
@@ -1433,7 +1433,7 @@
     },
     "2711ede80775": {
       "first_seen_at": "2026-10-28T12:11:11.532378+00:00",
-      "last_seen_at": "2026-11-13T05:15:43.047038+00:00",
+      "last_seen_at": "2026-11-13T13:59:04.608631+00:00",
       "title": "Principal Software Engineer (Cloud NGFW)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cloud-ngfw/47263/103229863776",
       "location": "Santa Clara, California, United States of America",
@@ -1455,7 +1455,7 @@
       "title": "Manager, AI Software Engineering (CORA AI)",
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/manager-ai-software-engineering-cora-ai/47263/103216427824",
       "location": "Petach Tikva, Israel",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "253eb79d9548": {
@@ -1680,7 +1680,7 @@
       "title": "Sr. Technical Product Engineer (Cortex)",
       "url": "https://jobs.paloaltonetworks.com/en/job/california/sr-technical-product-engineer-cortex/47263/103224025472",
       "location": "Remote, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "82443876e6d5": {
@@ -1689,7 +1689,7 @@
       "title": "Principal Software Engineer (Cloud NGFW)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cloud-ngfw/47263/103229863776",
       "location": "Santa Clara, California, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

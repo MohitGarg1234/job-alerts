@@ -1727,6 +1727,24 @@
       "location": "Tel Aviv-Yafo, Israel",
       "active": false,
       "excluded": true
+    },
+    "603a94dd6dc5": {
+      "first_seen_at": "2026-11-17T15:32:26.137494+00:00",
+      "last_seen_at": "2026-11-17T15:32:26.137494+00:00",
+      "title": "Senior Staff Site Reliability Engineer - Cloud Deployment",
+      "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-staff-site-reliability-engineer-cloud-deployment/47263/103424582496",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "fe74c30bab8a": {
+      "first_seen_at": "2026-11-17T15:32:26.137494+00:00",
+      "last_seen_at": "2026-11-17T15:32:26.137494+00:00",
+      "title": "Named Account Manager, Digital Natives",
+      "url": "https://jobs.paloaltonetworks.com/en/job/jakarta/named-account-manager-digital-natives/47263/99653514320",
+      "location": "Daerah Khusus Ibukota Jakarta, Indonesia",
+      "active": true,
+      "excluded": true
     }
   }
 }

@@ -1734,7 +1734,7 @@
       "title": "Senior Staff Site Reliability Engineer - Cloud Deployment",
       "url": "https://jobs.paloaltonetworks.com/en/job/sofia/senior-staff-site-reliability-engineer-cloud-deployment/47263/103424582496",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "fe74c30bab8a": {
@@ -1743,7 +1743,7 @@
       "title": "Named Account Manager, Digital Natives",
       "url": "https://jobs.paloaltonetworks.com/en/job/jakarta/named-account-manager-digital-natives/47263/99653514320",
       "location": "Daerah Khusus Ibukota Jakarta, Indonesia",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

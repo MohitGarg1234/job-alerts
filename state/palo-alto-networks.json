@@ -1745,6 +1745,24 @@
       "location": "Daerah Khusus Ibukota Jakarta, Indonesia",
       "active": false,
       "excluded": true
+    },
+    "63972567cd80": {
+      "first_seen_at": "2026-11-18T15:17:27.880132+00:00",
+      "last_seen_at": "2026-11-18T15:17:27.880132+00:00",
+      "title": "Senior Database DevOps Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-database-devops-engineer/47263/103467541440",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "e218682dc13c": {
+      "first_seen_at": "2026-11-18T15:17:27.880132+00:00",
+      "last_seen_at": "2026-11-18T15:17:27.880132+00:00",
+      "title": "Senior Database DevOps Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-database-devops-engineer/47263/103467541440",
+      "location": "Santa Clara, California, United States",
+      "active": true,
+      "excluded": true
     }
   }
 }

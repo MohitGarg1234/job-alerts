@@ -1550,11 +1550,11 @@
     },
     "8c8be1cca10c": {
       "first_seen_at": "2026-11-05T05:18:58.330131+00:00",
-      "last_seen_at": "2026-11-05T14:02:39.093119+00:00",
+      "last_seen_at": "2026-11-19T20:06:18.382080+00:00",
       "title": "Sr IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-it-software-engineer/47263/102881314768",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "2e530af84e38": {
@@ -1797,7 +1797,7 @@
       "title": "Principal Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/pune/principal-software-engineer/47263/103500086848",
       "location": "Pune, Mah\u0101r\u0101shtra, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "3f3b24daeaa0": {
@@ -1806,7 +1806,7 @@
       "title": "Senior Staff Software Development Engineer in Test (SDET)",
       "url": "https://jobs.paloaltonetworks.com/en/job/salt-lake-city/senior-staff-software-development-engineer-in-test-sdet/47263/103432956272",
       "location": "Salt Lake City, Utah, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

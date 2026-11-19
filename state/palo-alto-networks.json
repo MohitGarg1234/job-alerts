@@ -1752,7 +1752,7 @@
       "title": "Senior Database DevOps Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-database-devops-engineer/47263/103467541440",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "e218682dc13c": {
@@ -1770,7 +1770,7 @@
       "title": "Sr. Staff FinOps Software Engineer (AI Infrastructure)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-finops-software-engineer-ai-infrastructure/47263/102182122176",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "cf682ae52e43": {
@@ -1779,7 +1779,7 @@
       "title": "Senior Staff FinOps Software Engineer (AI Infrastructure)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-finops-software-engineer-ai-infrastructure/47263/99699014768",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "c50cd324b542": {
@@ -1788,6 +1788,24 @@
       "title": "Senior Software Engineer, Prisma SD-WAN (Platform & Networking) - NetSec",
       "url": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-software-engineer-prisma-sd-wan-platform-and-networking-netsec/47263/99021616400",
       "location": "Bangalore, Karn\u0101taka, India",
+      "active": false,
+      "excluded": true
+    },
+    "0f6e4b726c81": {
+      "first_seen_at": "2026-11-19T06:02:23.901247+00:00",
+      "last_seen_at": "2026-11-19T06:02:23.901247+00:00",
+      "title": "Principal Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/pune/principal-software-engineer/47263/103500086848",
+      "location": "Pune, Mah\u0101r\u0101shtra, India",
+      "active": true,
+      "excluded": true
+    },
+    "3f3b24daeaa0": {
+      "first_seen_at": "2026-11-19T06:02:23.901247+00:00",
+      "last_seen_at": "2026-11-19T06:02:23.901247+00:00",
+      "title": "Senior Staff Software Development Engineer in Test (SDET)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/salt-lake-city/senior-staff-software-development-engineer-in-test-sdet/47263/103432956272",
+      "location": "Salt Lake City, Utah, United States of America",
       "active": true,
       "excluded": true
     }

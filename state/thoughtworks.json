@@ -2,7 +2,7 @@
   "jobs": {
     "ff896f8058c3": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-11-18T23:54:55.263135+00:00",
+      "last_seen_at": "2026-11-19T06:02:23.901247+00:00",
       "title": "Software Engineering",
       "url": "https://www.thoughtworks.com/what-we-do/software-engineering",
       "location": "",
@@ -114,7 +114,7 @@
       "title": "Senior Infrastructure Engineer (AWS, K8S, GitOps), location Singapore, country Singapore",
       "url": "https://www.thoughtworks.com/careers/jobs/8280701",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "5a840c1366c5": {
@@ -132,7 +132,7 @@
       "title": "Software Developer, location Xi'an, country China",
       "url": "https://www.thoughtworks.com/careers/jobs/8330382",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "2690d017e0d4": {
@@ -150,7 +150,7 @@
       "title": "Fullstack Developer (Java, React.js), location Singapore, country Singapore",
       "url": "https://www.thoughtworks.com/careers/jobs/8326928",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "ba08959b44ad": {
@@ -168,7 +168,7 @@
       "title": "Fullstack Developer (React.js, Next.js, Nest.js), location Singapore, country Singapore",
       "url": "https://www.thoughtworks.com/careers/jobs/8326944",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "0d466e4e451b": {
@@ -186,7 +186,7 @@
       "title": "Senior Full Stack Developer (Node.js & Cloud), location Singapore, country Singapore",
       "url": "https://www.thoughtworks.com/careers/jobs/8326946",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "9f52c6ae30a4": {
@@ -195,7 +195,7 @@
       "title": "Senior Fullstack Developer (React, Next.js, Nest.js/Node.js), location Singapore, country Singapore",
       "url": "https://www.thoughtworks.com/careers/jobs/8326947",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "d7ba38925174": {
@@ -204,7 +204,7 @@
       "title": "Senior Infrastructure Engineer (AWS, Azure, GCP, Terraform), location Singapore, country Singapore",
       "url": "https://www.thoughtworks.com/careers/jobs/8370674",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "3847fcec1b85": {
@@ -213,7 +213,7 @@
       "title": "Fullstack Developer (Vue.js, Node.js), location Singapore, country Singapore",
       "url": "https://www.thoughtworks.com/careers/jobs/8326927",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

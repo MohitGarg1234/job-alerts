@@ -1554,7 +1554,7 @@
       "title": "Sr IT Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-it-software-engineer/47263/102881314768",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "2e530af84e38": {
@@ -1807,6 +1807,33 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/salt-lake-city/senior-staff-software-development-engineer-in-test-sdet/47263/103432956272",
       "location": "Salt Lake City, Utah, United States of America",
       "active": false,
+      "excluded": true
+    },
+    "88b2326d579e": {
+      "first_seen_at": "2026-11-20T05:51:23.576085+00:00",
+      "last_seen_at": "2026-11-20T05:51:23.576085+00:00",
+      "title": "Sr Principal Software Engineer - Network Security - PanOS",
+      "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/sr-principal-software-engineer-network-security-panos/47263/103537619744",
+      "location": "San Jose, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "8ce3fb8fd585": {
+      "first_seen_at": "2026-11-20T05:51:23.576085+00:00",
+      "last_seen_at": "2026-11-20T05:51:23.576085+00:00",
+      "title": "Staff Software Engineer - AI",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer-ai/47263/103531770432",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "0d1bf47d74c4": {
+      "first_seen_at": "2026-11-20T05:51:23.576085+00:00",
+      "last_seen_at": "2026-11-20T05:51:23.576085+00:00",
+      "title": "Sr Principal Software Engineer - Network Security - PanOS",
+      "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/sr-principal-software-engineer-network-security-panos/47263/103537619744",
+      "location": "",
+      "active": true,
       "excluded": true
     }
   }

@@ -101,11 +101,11 @@
     },
     "5b5263cb40c6": {
       "first_seen_at": "2026-09-08T10:39:40.523494+00:00",
-      "last_seen_at": "2026-11-09T15:18:24.667569+00:00",
+      "last_seen_at": "2026-11-20T14:56:40.264372+00:00",
       "title": "Senior Staff Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/98567486912",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/103559164640",
       "location": "500081, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -470,11 +470,11 @@
     },
     "77661c60d370": {
       "first_seen_at": "2026-09-20T20:22:52.888509+00:00",
-      "last_seen_at": "2026-09-21T12:06:07.662879+00:00",
+      "last_seen_at": "2026-11-20T14:56:40.264372+00:00",
       "title": "Senior Staff Software Engineer",
-      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100929994496",
+      "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/103559164640",
       "location": "Hyderabad, India, Madhapur, India",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "b7440d13f18d": {
@@ -1748,20 +1748,20 @@
     },
     "63972567cd80": {
       "first_seen_at": "2026-11-18T15:17:27.880132+00:00",
-      "last_seen_at": "2026-11-18T23:54:55.263135+00:00",
+      "last_seen_at": "2026-11-20T14:56:40.264372+00:00",
       "title": "Senior Database DevOps Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-database-devops-engineer/47263/103467541440",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "e218682dc13c": {
       "first_seen_at": "2026-11-18T15:17:27.880132+00:00",
-      "last_seen_at": "2026-11-18T15:17:27.880132+00:00",
+      "last_seen_at": "2026-11-20T14:56:40.264372+00:00",
       "title": "Senior Database DevOps Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-database-devops-engineer/47263/103467541440",
       "location": "Santa Clara, California, United States",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "4f1f33883487": {
@@ -1815,7 +1815,7 @@
       "title": "Sr Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/sr-principal-software-engineer-network-security-panos/47263/103537619744",
       "location": "San Jose, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "8ce3fb8fd585": {
@@ -1824,7 +1824,7 @@
       "title": "Staff Software Engineer - AI",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-software-engineer-ai/47263/103531770432",
       "location": "Santa Clara, California, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "0d1bf47d74c4": {
@@ -1833,7 +1833,7 @@
       "title": "Sr Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/sr-principal-software-engineer-network-security-panos/47263/103537619744",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     }
   }

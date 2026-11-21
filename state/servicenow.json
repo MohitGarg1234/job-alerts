@@ -3872,7 +3872,7 @@
     },
     "744000162834109": {
       "first_seen_at": "2026-11-20T23:42:20.021284+00:00",
-      "last_seen_at": "2026-11-20T23:42:20.021284+00:00",
+      "last_seen_at": "2026-11-21T05:46:13.494602+00:00",
       "title": "Principal Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000162834109",
       "location": "Santa Clara, CALIFORNIA",
@@ -3881,7 +3881,7 @@
     },
     "744000162827365": {
       "first_seen_at": "2026-11-20T23:42:20.021284+00:00",
-      "last_seen_at": "2026-11-20T23:42:20.021284+00:00",
+      "last_seen_at": "2026-11-21T05:46:13.494602+00:00",
       "title": "Security Software Engineer Intern",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000162827365",
       "location": "Kirkland, Washington",
@@ -3890,7 +3890,7 @@
     },
     "744000162813509": {
       "first_seen_at": "2026-11-20T23:42:20.021284+00:00",
-      "last_seen_at": "2026-11-20T23:42:20.021284+00:00",
+      "last_seen_at": "2026-11-21T05:46:13.494602+00:00",
       "title": "Staff Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000162813509",
       "location": "Petah Tikva",
@@ -3903,7 +3903,7 @@
       "title": "Sr Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000162797123",
       "location": "Santa Clara, CALIFORNIA",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "744000162794742": {
@@ -3911,6 +3911,69 @@
       "last_seen_at": "2026-11-20T23:42:20.021284+00:00",
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.smartrecruiters.com/servicenow/744000162794742",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": false,
+      "excluded": true
+    },
+    "744000162883203": {
+      "first_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "last_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "title": "Senior\u00a0Application Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162883203",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000162891903": {
+      "first_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "last_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "title": "Staff\u00a0Application Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162891903",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000162891739": {
+      "first_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "last_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "title": "Senior Staff\u00a0Application Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162891739",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000162883690": {
+      "first_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "last_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "title": "Sr Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162883690",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000162878715": {
+      "first_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "last_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "title": "Sr Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162878715",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000162867940": {
+      "first_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "last_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "title": "Staff Data Platform Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162867940",
+      "location": "Santa Clara, CALIFORNIA",
+      "active": true,
+      "excluded": true
+    },
+    "744000162837679": {
+      "first_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "last_seen_at": "2026-11-21T05:46:13.494602+00:00",
+      "title": "Assoc Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/servicenow/744000162837679",
       "location": "Santa Clara, CALIFORNIA",
       "active": true,
       "excluded": true

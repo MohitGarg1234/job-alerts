@@ -105,7 +105,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/103559164640",
       "location": "500081, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "abbf05502fbe": {
@@ -474,7 +474,7 @@
       "title": "Senior Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/103559164640",
       "location": "Hyderabad, India, Madhapur, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "b7440d13f18d": {
@@ -1748,7 +1748,7 @@
     },
     "63972567cd80": {
       "first_seen_at": "2026-11-18T15:17:27.880132+00:00",
-      "last_seen_at": "2026-11-20T14:56:40.264372+00:00",
+      "last_seen_at": "2026-11-20T23:42:20.021284+00:00",
       "title": "Senior Database DevOps Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-database-devops-engineer/47263/103467541440",
       "location": "Santa Clara, California, United States of America",
@@ -1761,7 +1761,7 @@
       "title": "Senior Database DevOps Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-database-devops-engineer/47263/103467541440",
       "location": "Santa Clara, California, United States",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "4f1f33883487": {
@@ -1829,11 +1829,20 @@
     },
     "0d1bf47d74c4": {
       "first_seen_at": "2026-11-20T05:51:23.576085+00:00",
-      "last_seen_at": "2026-11-20T05:51:23.576085+00:00",
+      "last_seen_at": "2026-11-20T23:42:20.021284+00:00",
       "title": "Sr Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/sr-principal-software-engineer-network-security-panos/47263/103537619744",
       "location": "",
-      "active": false,
+      "active": true,
+      "excluded": true
+    },
+    "3743c1210196": {
+      "first_seen_at": "2026-11-20T23:42:20.021284+00:00",
+      "last_seen_at": "2026-11-20T23:42:20.021284+00:00",
+      "title": "Senior Staff Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer/47263/99699014768",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }

@@ -551,11 +551,11 @@
     },
     "333e476cad04": {
       "first_seen_at": "2026-09-23T16:11:38.534634+00:00",
-      "last_seen_at": "2026-09-23T16:11:38.534634+00:00",
+      "last_seen_at": "2026-11-23T17:30:41.363049+00:00",
       "title": "Senior/ Principal Frontend Engineer (Cortex Platform)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-frontend-engineer-cortex-platform/47263/96857783376",
       "location": "Tel Aviv-Yafo, Israel",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "dcc619e673a9": {
@@ -1833,7 +1833,7 @@
       "title": "Sr Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/sr-principal-software-engineer-network-security-panos/47263/103537619744",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "3743c1210196": {
@@ -1847,7 +1847,7 @@
     },
     "c1fafbdaf7e6": {
       "first_seen_at": "2026-11-22T23:16:55.514861+00:00",
-      "last_seen_at": "2026-11-23T05:55:48.599882+00:00",
+      "last_seen_at": "2026-11-23T17:30:41.363049+00:00",
       "title": "Sr. Technical Product Engineer (Cortex Agentic Endpoint Security)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-technical-product-engineer-cortex-agentic-endpoint-security/47263/103644394720",
       "location": "Tel Aviv-Yafo, Israel",
@@ -1856,10 +1856,19 @@
     },
     "f5a25bda155d": {
       "first_seen_at": "2026-11-23T05:55:48.599882+00:00",
-      "last_seen_at": "2026-11-23T05:55:48.599882+00:00",
+      "last_seen_at": "2026-11-23T17:30:41.363049+00:00",
       "title": "Principal Software Engineer Linux - (Global Protect)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-linux-global-protect/47263/101633315968",
       "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "8c86fa48368a": {
+      "first_seen_at": "2026-11-23T17:30:41.363049+00:00",
+      "last_seen_at": "2026-11-23T17:30:41.363049+00:00",
+      "title": "Staff Software Engineer (Credential Provider)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/staff-software-engineer-credential-provider/47263/100140866976",
+      "location": "Petach Tikva, Israel",
       "active": true,
       "excluded": true
     }

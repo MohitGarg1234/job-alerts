@@ -222,7 +222,7 @@
       "title": "Sr Manager, Software Engineering - Logging (Chronosphere)",
       "url": "https://jobs.paloaltonetworks.com/en/job/new-york/sr-manager-software-engineering-logging-chronosphere/47263/99799498928",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "50ba8a5804d2": {
@@ -1829,11 +1829,11 @@
     },
     "0d1bf47d74c4": {
       "first_seen_at": "2026-11-20T05:51:23.576085+00:00",
-      "last_seen_at": "2026-11-20T23:42:20.021284+00:00",
+      "last_seen_at": "2026-11-23T05:55:48.599882+00:00",
       "title": "Sr Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/sr-principal-software-engineer-network-security-panos/47263/103537619744",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "3743c1210196": {
@@ -1847,10 +1847,19 @@
     },
     "c1fafbdaf7e6": {
       "first_seen_at": "2026-11-22T23:16:55.514861+00:00",
-      "last_seen_at": "2026-11-22T23:16:55.514861+00:00",
+      "last_seen_at": "2026-11-23T05:55:48.599882+00:00",
       "title": "Sr. Technical Product Engineer (Cortex Agentic Endpoint Security)",
       "url": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-technical-product-engineer-cortex-agentic-endpoint-security/47263/103644394720",
       "location": "Tel Aviv-Yafo, Israel",
+      "active": true,
+      "excluded": true
+    },
+    "f5a25bda155d": {
+      "first_seen_at": "2026-11-23T05:55:48.599882+00:00",
+      "last_seen_at": "2026-11-23T05:55:48.599882+00:00",
+      "title": "Principal Software Engineer Linux - (Global Protect)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-linux-global-protect/47263/101633315968",
+      "location": "Santa Clara, California, United States of America",
       "active": true,
       "excluded": true
     }

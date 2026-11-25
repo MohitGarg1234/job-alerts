@@ -2,7 +2,7 @@
   "jobs": {
     "ff896f8058c3": {
       "first_seen_at": "2026-09-13T13:26:45.188305+00:00",
-      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Software Engineering",
       "url": "https://www.thoughtworks.com/what-we-do/software-engineering",
       "location": "",
@@ -110,11 +110,11 @@
     },
     "cdfe4c4fa3bf": {
       "first_seen_at": "2026-10-15T10:55:08.601693+00:00",
-      "last_seen_at": "2026-11-18T23:54:55.263135+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Senior Infrastructure Engineer (AWS, K8S, GitOps), location Singapore, country Singapore",
-      "url": "https://www.thoughtworks.com/careers/jobs/8280701",
+      "url": "https://www.thoughtworks.com/careers/jobs/8543e1b1-c5ab-4099-98ed-5965bd07c853",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "5a840c1366c5": {
@@ -191,11 +191,11 @@
     },
     "9f52c6ae30a4": {
       "first_seen_at": "2026-11-06T13:57:12.507072+00:00",
-      "last_seen_at": "2026-11-18T23:54:55.263135+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Senior Fullstack Developer (React, Next.js, Nest.js/Node.js), location Singapore, country Singapore",
-      "url": "https://www.thoughtworks.com/careers/jobs/8326947",
+      "url": "https://www.thoughtworks.com/careers/jobs/ace68b0f-a7a2-40b9-818f-139917638787",
       "location": "",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "d7ba38925174": {
@@ -218,9 +218,36 @@
     },
     "c5e645b51334": {
       "first_seen_at": "2026-11-24T17:00:16.372534+00:00",
-      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Tech Lead/Lead Fullstack Developer (Java + React), location Singapore, country Singapore",
       "url": "https://www.thoughtworks.com/careers/jobs/e36f125d-846f-4338-b450-3003ab4c8c42",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "c7c0b5659a83": {
+      "first_seen_at": "2026-11-25T16:51:06.106505+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
+      "title": "Fullstack Developer (Vue.js, Node.js/TypeScript, Nuxtjs) , location Singapore, country Singapore",
+      "url": "https://www.thoughtworks.com/careers/jobs/c20d5ffc-b6fc-4498-8fb2-eb1e0acb4f15",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "656cd4e2678d": {
+      "first_seen_at": "2026-11-25T16:51:06.106505+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
+      "title": "Senior Fullstack Developer - Java, React, location Singapore, country Singapore",
+      "url": "https://www.thoughtworks.com/careers/jobs/477ba285-f553-49f4-9302-e21e35709250",
+      "location": "",
+      "active": true,
+      "excluded": true
+    },
+    "653d044765f9": {
+      "first_seen_at": "2026-11-25T16:51:06.106505+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
+      "title": "Senior Full Stack Developer (Node.js, React, Typescript, Java, Kotlin), location HCMC, H\u1ed3 Ch\u00ed Minh, country Vi\u1ec7t Nam",
+      "url": "https://www.thoughtworks.com/careers/jobs/661c5ab0-3c75-4f42-9038-dec31a92a6f0",
       "location": "",
       "active": true,
       "excluded": true

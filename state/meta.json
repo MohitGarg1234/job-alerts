@@ -11,7 +11,7 @@
     },
     "ff896f8058c3": {
       "first_seen_at": "2026-09-04T16:32:01.329604+00:00",
-      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Software Engineering",
       "url": "https://www.metacareers.com/teams/technology/software-engineering/",
       "location": "",
@@ -182,11 +182,11 @@
     },
     "1595f91f4c45": {
       "first_seen_at": "2026-09-23T03:30:02.443379+00:00",
-      "last_seen_at": "2026-10-28T22:14:10.283663+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Embedded Software Engineer, Firmware",
       "url": "https://www.metacareers.com/profile/job_details/893276690137821",
       "location": "Sunnyvale, CA",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "d3488ebb64f9": {
@@ -389,25 +389,25 @@
     },
     "63648940fefa": {
       "first_seen_at": "2026-11-20T23:42:20.021284+00:00",
-      "last_seen_at": "2026-11-23T05:55:48.599882+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Software Engineer, Product",
       "url": "https://www.metacareers.com/profile/job_details/1613643980303295",
       "location": "Bellevue, WA",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "64e2cab9f9f3": {
       "first_seen_at": "2026-11-20T23:42:20.021284+00:00",
-      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Software Engineer, Systems",
-      "url": "https://www.metacareers.com/profile/job_details/2216077149311950",
+      "url": "https://www.metacareers.com/profile/job_details/1402699157903809",
       "location": "Bellevue, WA",
       "active": true,
       "excluded": true
     },
     "ae7bec430b25": {
       "first_seen_at": "2026-11-20T23:42:20.021284+00:00",
-      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Software Engineer, iOS",
       "url": "https://www.metacareers.com/profile/job_details/1087742840660039",
       "location": "San Francisco, CA",
@@ -416,7 +416,7 @@
     },
     "f099211c14f2": {
       "first_seen_at": "2026-11-20T23:42:20.021284+00:00",
-      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Software Engineer, Product",
       "url": "https://www.metacareers.com/profile/job_details/1613643980303295",
       "location": "Menlo Park, CA",
@@ -425,7 +425,7 @@
     },
     "eac619863d99": {
       "first_seen_at": "2026-11-20T23:42:20.021284+00:00",
-      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Software Engineer",
       "url": "https://www.metacareers.com/profile/job_details/1124937540046351",
       "location": "Bellevue, WA",
@@ -434,7 +434,7 @@
     },
     "f26ae1855b93": {
       "first_seen_at": "2026-11-20T23:42:20.021284+00:00",
-      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Software Engineer",
       "url": "https://www.metacareers.com/profile/job_details/1124937540046351",
       "location": "New York, NY",
@@ -443,7 +443,7 @@
     },
     "dc80ecb55662": {
       "first_seen_at": "2026-11-21T14:16:40.879789+00:00",
-      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Software Engineer - Android",
       "url": "https://www.metacareers.com/profile/job_details/1407489568097442",
       "location": "Menlo Park, CA",
@@ -452,7 +452,7 @@
     },
     "662bae7bd165": {
       "first_seen_at": "2026-11-21T14:16:40.879789+00:00",
-      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-25T16:51:06.106505+00:00",
       "title": "Software Engineer (Product)",
       "url": "https://www.metacareers.com/profile/job_details/1110323608323248",
       "location": "New York, NY",

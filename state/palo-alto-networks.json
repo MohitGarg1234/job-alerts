@@ -839,11 +839,11 @@
     },
     "f105e409d9c3": {
       "first_seen_at": "2026-10-07T22:46:40.335971+00:00",
-      "last_seen_at": "2026-10-08T04:41:37.094421+00:00",
+      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
       "title": "Staff IT Software Engineer (Fedramp)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-it-software-engineer-fedramp/47263/101671426688",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "8b58a22d2085": {
@@ -1356,7 +1356,7 @@
       "title": "Staff Software Engineer",
       "url": "https://jobs.paloaltonetworks.com/en/job/pune/staff-software-engineer/47263/102455361312",
       "location": "Pune, Mah\u0101r\u0101shtra, India",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "de4b3b885e9e": {
@@ -1806,7 +1806,7 @@
       "title": "Senior Staff Software Development Engineer in Test (SDET)",
       "url": "https://jobs.paloaltonetworks.com/en/job/salt-lake-city/senior-staff-software-development-engineer-in-test-sdet/47263/103432956272",
       "location": "Salt Lake City, Utah, United States of America",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "88b2326d579e": {
@@ -1870,6 +1870,33 @@
       "url": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/staff-software-engineer-credential-provider/47263/100140866976",
       "location": "Petach Tikva, Israel",
       "active": false,
+      "excluded": true
+    },
+    "649d3364391a": {
+      "first_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "title": "Sr Manager, IT Software Engineering",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-manager-it-software-engineering/47263/101886010608",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "dd6d2eb30d11": {
+      "first_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "title": "Sr. Staff AI Software Engineer",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-ai-software-engineer/47263/102182122176",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "14f23e3886fe": {
+      "first_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "title": "Principal Software Engineer C/C++ Linux Kernel - (Global Protect)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-c-c-linux-kernel-global-protect/47263/101633315968",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
       "excluded": true
     }
   }

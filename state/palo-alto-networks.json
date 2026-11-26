@@ -839,11 +839,11 @@
     },
     "f105e409d9c3": {
       "first_seen_at": "2026-10-07T22:46:40.335971+00:00",
-      "last_seen_at": "2026-11-25T01:56:34.305527+00:00",
+      "last_seen_at": "2026-11-26T01:36:20.962358+00:00",
       "title": "Staff IT Software Engineer (Fedramp)",
       "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-it-software-engineer-fedramp/47263/101671426688",
       "location": "Santa Clara, California, United States of America",
-      "active": false,
+      "active": true,
       "excluded": true
     },
     "8b58a22d2085": {
@@ -1833,7 +1833,7 @@
       "title": "Sr Principal Software Engineer - Network Security - PanOS",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-jose/sr-principal-software-engineer-network-security-panos/47263/103537619744",
       "location": "",
-      "active": true,
+      "active": false,
       "excluded": true
     },
     "3743c1210196": {
@@ -1905,6 +1905,24 @@
       "title": "Principal Platform Software Engineer (Console)",
       "url": "https://jobs.paloaltonetworks.com/en/job/san-francisco/principal-platform-software-engineer-console/47263/103758814768",
       "location": "San Francisco, California, United States of America",
+      "active": false,
+      "excluded": true
+    },
+    "7ba90bddc7f7": {
+      "first_seen_at": "2026-11-26T01:36:20.962358+00:00",
+      "last_seen_at": "2026-11-26T01:36:20.962358+00:00",
+      "title": "Senior Principal Software Engineer (PAN OS)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-pan-os/47263/103170829680",
+      "location": "Santa Clara, California, United States of America",
+      "active": true,
+      "excluded": true
+    },
+    "66a5f7fc5b1c": {
+      "first_seen_at": "2026-11-26T01:36:20.962358+00:00",
+      "last_seen_at": "2026-11-26T01:36:20.962358+00:00",
+      "title": "Staff IT Software Engineer (Fedramp)",
+      "url": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-it-software-engineer-fedramp/47263/101671426688",
+      "location": "Santa Clara, California, United States",
       "active": true,
       "excluded": true
     }
